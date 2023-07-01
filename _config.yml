@@ -7,16 +7,16 @@ url: "https://marcosfs93.github.io"
 
 
 # Secondary Parameters
-baseurl: "/marcosfs93"
+baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-# logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  marcosfs93
-project_repository: marcosfs93.github.io
-disqus_shortname: marcosfs93
-# g-analytics: UA-75881392-1
+github_username:  projectpages
+project_repository: project-pages
+disqus_shortname: project-pages
+g-analytics: UA-75881392-1
 altmetric: true
 
 # Build settings
