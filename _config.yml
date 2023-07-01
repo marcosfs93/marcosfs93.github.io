@@ -15,7 +15,7 @@ logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 # Tertiary Parameters
 github_username:  marcosfs93
 project_repository: marcosfs93.github.io
-disqus_shortname: project-pages
+disqus_shortname: marcosfs93
 g-analytics: UA-75881392-1
 altmetric: true
 
@@ -41,7 +41,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'http://projectpages.github.io/project-pages/'
+  siteurl: 'https://marcosfs93.github.io'
   ispp: true
   media: 'img'
   metadata:
