@@ -1,6 +1,6 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
+title: Site do M4rQu1Nh0S
+description: "Tutoriais e Soluções na Web"
 url: "https://marcosfs93.github.io"
 
 
@@ -12,7 +12,7 @@ headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  marcosfs93
 project_repository: project-pages
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
