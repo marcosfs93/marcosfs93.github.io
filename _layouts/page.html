@@ -7,11 +7,10 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading" style="padding: 75px 0">
+                <div class="site-heading" style="padding: 60px 0">
 					{% if page.url == '/' %}
 					{% if site.logo %}
-					<img src= "{{ site.logo }}" style="width: 100%">
-					<hr class="small">
+					<img src= "{{ site.logo }}" style="width: 800px">
 					<span class="subheading">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</span>
 					{% endif %}	
 					{% else %}{% endif %}	
