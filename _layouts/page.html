@@ -13,6 +13,8 @@ layout: default
 					<img src= "{{ site.logo }}" style="width: 600px">
 					{% endif %}	
 					{% else %}{% endif %}	
+					<hr class="small">
+					<span class="subheading">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</span>
                 </div>
             </div>
         </div>
