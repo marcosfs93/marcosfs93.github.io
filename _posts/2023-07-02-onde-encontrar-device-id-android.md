@@ -6,7 +6,7 @@ tags: [onde, encontrar, device, id, android]
 subtitle: Saiba como encontrar o numero do Device ID do Android
 category: [Dicas e tutoriais, Android]
 comments: true
-cover-img: https://cdn-images-1.medium.com/max/800/0*5Du1vkE-acW8FIhV.png
+#cover-img: https://cdn-images-1.medium.com/max/800/0*5Du1vkE-acW8FIhV.png
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*5Du1vkE-acW8FIhV.png
 share-img: https://cdn-images-1.medium.com/max/800/0*5Du1vkE-acW8FIhV.png
 layout: post
