@@ -17,11 +17,11 @@ Se você estava no AUR e encontrou um pacote abandonado (sem mantenedor) e quer 
 
 **Conteúdo**
 
-- [Como se autenticar no SSH do AUR](#Como-se-autenticar-no-SSH-do-AUR)
-- [Para baixar o pacote git do AUR e fazer modificações](#Para-baixar-o-pacote-git-do-AUR-e-fazer-modificações)
-- [Para enviar as mudanças de volta para o AUR](#Para-enviar-as-mudanças-de-volta-para-o-AUR)
+- [Como se autenticar no SSH do AUR](#como-se-autenticar-no-ssh-do-aur)
+- [Para baixar o pacote git do AUR e fazer modificações](#para-baixar-o-pacote-git-do-aur-e-fazer-modificações)
+- [Para enviar as mudanças de volta para o AUR](#para-enviar-as-mudanças-de-volta-para-o-aur)
 
-### Como se autenticar no SSH do AUR
+## Como se autenticar no SSH do AUR
 
 1- Crie o diretório .ssh:
 
@@ -61,7 +61,7 @@ Digite a **frase secreta** e repita mais uma vez, após isso será mostrado essa
 
 Insira a senha da conta AUR no final da pagina e clique em **Save**.
 
-### Para baixar o pacote git do AUR e fazer modificações:
+## Para baixar o pacote git do AUR e fazer modificações:
 
 1- Vai na pagina do AUR, do pacote que você quer fazer mudanças e pegue o endereço **ssh .git** do pacote.
 
@@ -99,7 +99,7 @@ Depois de terminar é só acessar o pacote
 
 [_Lembre-se de seguir as recomendações do AUR quanto as informações que devem ser alteradas no arquivo PKGBUILD._](https://wiki.archlinux.org/title/AUR_submission_guidelines)
 
-### Para enviar as mudanças de volta para o AUR:
+## Para enviar as mudanças de volta para o AUR:
 
 Agora vamos ensinar a como fazer upload do projeto de volta para o AUR:
 
@@ -145,4 +145,3 @@ Após isso o terminal vai pedir a frase secreta e após isso o pacote no AUR ser
 O tutorial termina aqui, informações adicionais foram omitidas para tornar o tutorial simples e objetivo, lembre-se de estudar o AUR para obter a melhor forma de distribuir seus pacotes no AUR.
 
 Caso tenha encontrado algum erro ou queira sugerir algum procedimento adicional ou mais adequado do que os passados neste tutorial, deixe seu comentário, até a próxima.
-
