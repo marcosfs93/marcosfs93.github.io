@@ -8,6 +8,7 @@ category: [linux]
 comments: true
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png
 share-img: https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png
+layout: post
 ---
 
 <p><a href="https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png" style="text-align: center;"><img alt="Screenshot da interface do Timeshift" src="https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png" title="Screenshot da interface do Timeshift" /></a></p>
