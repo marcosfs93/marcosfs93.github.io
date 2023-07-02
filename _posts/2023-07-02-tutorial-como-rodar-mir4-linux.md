@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*XziR1_3Bo3ciu7sT.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*XziR1_3Bo3ciu7sT.png)
+![](https://cdn-images-1.medium.com/max/800/0*XziR1_3Bo3ciu7sT.png)<br/>
 Olá pessoal, trago finalmente o tutorial para fazer o MIR4 funcionar no Linux, além do tutorial que será apresentado a seguir, um vídeo do tutorial também já está disponível no YouTube, assim você tem duas versões do tutorial disponível pra você.
 
 Antes de mais nada, é importante afirmar que este tutorial não é 100% garantido de funcionar, justamente por questões de hardware e configurações especificas de cada distribuição do Linux, tenha isso em mente, embora eu tenha testado isso em várias distros e não tive problemas.
@@ -23,24 +23,27 @@ Este artigo foi atualizado pela ultima vez em **14 de junho de 2022**.
 
 **Conteúdo**
 
-- [- Vídeo tutorial](#Video-tutorial)
-- 1[ - Requisitos](#009b)
-- 2 [- Instalar o lutris](#96f7)
-- 3 [- Baixar o runner](#46d7)
-- 4 [- Criar a pasta do MIR4](#52f8)
-- 5 [- Criar uma configuração do MIR4](#1c6c)
-- 6 [- Selecionar o Modo Windows XP](#5d0f)
-- 7 [- Instalar as dependências](#5295)
-- 8 [- Concluindo a configuração e abrindo o jogo](#8bf8)
-- [- Dica para quem já tem o jogo baixado](#8b3e)
-- [- Problemas conhecidos](#acba)
-- 1 [- Navegador com o site do captcha não abre](#8106)
-- 2 [- Tela de login preta](#3818)
-- 3 [- Quedas de FPS e engasgos](#af6f)
-- 4 [- Jogo trava ao invocar livro/pet pela 2ª vez](#d776)
-- [- Considerações finais](#9a04)
+- [- Vídeo tutorial](#video-tutorial)
+- 1[ - Requisitos](#requisitos)
+- 2 [- Instalar o lutris](#instalar-o-lutris)
+- 3 [- Baixar o runner](#baixar-o-runner)
+- 4 [- Criar a pasta do MIR4](#criar-a-pasta-do-mir4)
+- 5 [- Criar uma configuração do MIR4](#criar-uma-configuração-do-mir4)
+- 6 [- Selecionar o Modo Windows XP](#selecionar-o-modo-windows-xp)
+- 7 [- Instalar as dependências](#instalar-as-dependências)
+- 8 [- Concluindo a configuração e abrindo o jogo](#concluindo-a-configuração-e-abrindo-o-jogo)
+- [- Dica para quem já tem o jogo baixado](#dica-para-quem-já-tem-o-jogo-baixado)
+- [- Problemas conhecidos](#problemas-conhecidos)
+- 1 [- Navegador com o site do captcha não abre](#navegador-com-o-site-do-captcha-não-abre)
+- 2 [- Tela de login preta](#tela-de-login-preta)
+- 3 [- Quedas de FPS e engasgos](#quedas-de-fps-e-engasgos)
+- 4 [- Jogo trava ao invocar livro/pet pela 2ª vez](#jogo-trava-ao-invocar-livropet-pela-2ª-vez)
+- [- Considerações finais](#considerações-finais)
 
 ### Video tutorial:
+[Clique aqui para assistir no Youtube](https://www.youtube.com/watch?v=pjXF-8MocwA)
+
+Continuando...
 
 ## Requisitos:
 
