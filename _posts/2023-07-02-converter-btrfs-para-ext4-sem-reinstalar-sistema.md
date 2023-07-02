@@ -25,15 +25,15 @@ Muitos sites simplesmente recomendam formatar o HD e reinstalar o sistema, mas e
 
 **Conteúdo**
 
-1. [Backup](#)
-2. [Live CD do sistema](#)
-3. [Formatar o HD do sistema](#)
-4. [Monte a partição formatada](#)
-5. [Restaure o backup dos arquivos](#)
-6. [Reconfigurar o fstab](#)
-7. [Reconfigurar o grub do sistema](#)
-8. [Usando o Chroot para acessar o sistema](#)
--- [Referencias](#)
+1. [Backup](#1-backup)
+2. [Live CD do sistema](#2-live-cd-do-sistema)
+3. [Formatar o HD do sistema](#3-formatar-o-hd-do-sistema)
+4. [Monte a partição formatada](#4-monte-a-partição-formatada)
+5. [Restaure o backup dos arquivos](#5-restaure-o-backup-dos-arquivos)
+6. [Reconfigurar o fstab](#6-reconfigurar-o-fstab)
+7. [Reconfigurar o grub do sistema](#7-reconfigurar-o-grub-do-sistema)
+8. [Usando o Chroot para acessar o sistema](#8-usando-o-chroot-para-acessar-o-sistema)
+9. [Referencias](#referencias)
 
 ## 1. Backup
 Primeiro nós precisaremos fazer o backup dos arquivos que estão no HD onde o sistema está instalado.
