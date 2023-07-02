@@ -3,6 +3,7 @@ title: Como transferir o SEO do Blogger para o WordPress
 date: 2023-06-11
 author: M4rQu1Nh0S
 tags: seo, blogger, wordpress, transferir, como
+subtitle: Saiba como transferi o SEO do Blogger para o Wordpress e manter o seu ranking na pesquisa dos sites de busca
 category: blogger, wordpress
 ---
 <p><a href="https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png" style="text-align: center;"><img alt="ilustração, transição blogger para wordpress" border="0" data-original-height="271" data-original-width="774" src="https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s16000/migracao-1.png" title="ilustração, transição blogger para wordpress" /></a></p>
@@ -23,8 +24,8 @@ Antes de iniciar esse tutorial é necessário que você já tenha migrado todas 
 ***Antes de continuar, saiba que essa "migração do SEO" do blogger para o WordPress é uma tarefa sem reversão, pois não é possível desfazer a migração e migrar o SEO do WordPress para o Blogger, exceto se você tiver um plano pago no WordPress.**
 
 **Conteúdo**
- - [Configurando o redirecionamento](#user-content-configurando-o-redirecionamento)
- - [Search Console - Ferramenta Alteração de endereço](#user-content-search-console---ferramenta-alteração-de-endereço)
+ - [Configurando o redirecionamento](#configurando-o-redirecionamento)
+ - [Search Console - Ferramenta Alteração de endereço](#search-console-ferramenta-alteração-de-endereço)
 
 
 ## Configurando o redirecionamento
@@ -32,7 +33,7 @@ Antes de iniciar esse tutorial é necessário que você já tenha migrado todas 
 Agora que as postagens do blog antigo estão no blog novo, você vai precisar editar todas as postagens do blog antigo para incluir o redirecionamento 301. Então entre em cada postagem, apague todo o conteúdo,  **vá no modo html do editor**  de textos e coloque o seguinte código:
 
 ```
-&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0; URL=&#39;http://sitenovo.com/postagem-tal&#39;&quot;/&gt;&lt;p&gt;301 - MOVIDO PERMANENTEMENTE&lt;/p&gt;
+<meta http-equiv="refresh" content="0; URL='http://sitenovo.com/postagem-tal'"/><p>301 - MOVIDO PERMANENTEMENTE</p>
 ```
 
 Vamos simular um exemplo para ajudar a entender:
@@ -49,7 +50,7 @@ https://**dicastechup.wordpress.com/2016/09/13/call-of-duty-world-at-war-atualiz
 Então quando eu for no meu blog antigo e editar essa postagem, eu vou apagar todo o conteúdo e no lugar eu coloco o Código abaixo  **incluindo o URL**  dessa postagem  **do site novo**, veja:
 
 ```
-&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0; URL=&#39;https://dicastechup.wordpress.com/2016/09/13/call-of-duty-world-at-war-atualizado-1-7-traducao/&#39;&quot;/&gt;&lt;p&gt;301 - MOVIDO PERMANENTEMENTE&lt;/p&gt;
+<meta http-equiv="refresh" content="0; URL='https://dicastechup.wordpress.com/2016/09/13/call-of-duty-world-at-war-atualizado-1-7-traducao/'"/><p>301 - MOVIDO PERMANENTEMENTE</p>
 ```
 
 Ao fazer isso qualquer pessoa que tentar acessar a postagem no blog antigo vai ser redirecionada para o blog novo contendo a postagem. Então é só editar todas as postagens do blog antigo e colocar o código incluindo o URL da postagem do blog novo, igual no exemplo acima.
@@ -60,17 +61,17 @@ Com isso já configuramos o redirecionamento em todas as postagens do site antig
 
 Para isso entre no  **Painel do Blogger**, vá em  **Configurações**  e desça a página até chegar na parte  **Postagens**, clique em "**Máximo de postagens mostradas na página principal**" e deixe a quantidade em  **1**  e depois  **Salve**. veja na imagem como deve ficar:
 
-![definindo numero max de postagens](https://dicastechup.files.wordpress.com/2021/02/posts.png "definindo numero max de postagens")
+![definindo numero max de postagens](https://miro.medium.com/v2/resize:fit:720/format:webp/0*DQ7RmkesvRtENXCm.png "definindo numero max de postagens")
 
 Depois disso vamos colocar um **Tema Basico**  para o blog antigo pois ele vai servir apenas para redirecionamento e um tema basico e leve vai agilizar esse processo.
 
 Vá em  **Tema**, desça a página e escolha o tema  **Simple Simply Simple**  e depois clique em  **Aplicar**. conforme a imagem:
 
-![aplicando o tema](https://dicastechup.files.wordpress.com/2021/02/tema.png "aplicando o tema")
+![aplicando o tema](https://miro.medium.com/v2/resize:fit:720/format:webp/0*vOEYTUo8-k8Stcub.png "aplicando o tema")
 
 Agora que limitamos a página inicial de mostrar somente uma postagem e trocamos para um tema basico basta criar uma nova postagem chamada:  **Mudamos de Endereço** (ou o que preferir) e usar o codigo de redirecionamento para a página inicial do blog novo, no meu caso ficou assim:
 
-![inserindo o codigo de redirecionamento](https://dicastechup.files.wordpress.com/2021/02/exemplo.png "inserindo o codigo de redirecionamento")
+![inserindo o codigo de redirecionamento](https://miro.medium.com/v2/resize:fit:720/format:webp/0*z3bRbal70p0j0B70.png "inserindo o codigo de redirecionamento")
 
 Depois é só publicar. Como essa postagem é a mais recente e é a única que vai aparecer na página inicial, qualquer pessoa que tentar entrar no blog antigo pelo endereço da página inicial será redirecionado para o site novo. Faça a mesma coisa com as paginas do blog antigo para o blog novo, como a pagina de contato, por exemplo.
 
@@ -87,19 +88,19 @@ Clique no link abaixo para ir na página mudança de endereço
 
 Ao clicar no link acima o Google Search vai pedir para que você selecione a propriedade, no caso você deve selecionar o blog antigo, imagem:
 
-![selecionando o site no search console](https://dicastechup.files.wordpress.com/2021/02/selecao.png?w=1024 "selecionando o site no search console")
+![selecionando o site no search console](https://miro.medium.com/v2/resize:fit:720/0*-MNQUYji9lFSuiBk "selecionando o site no search console")
 
 Depois disso você deve selecionar o blog/site novo e em seguida clicar em  **VALIDAR E ATUALIZAR**, igual na imagem:
 
-![preparando a mudança de endereço](https://dicastechup.files.wordpress.com/2021/02/config.png?w=1024 "preparando a mudança de endereço")
+![preparando a mudança de endereço](https://miro.medium.com/v2/resize:fit:720/0*e7NjEZoDfvy499fP "preparando a mudança de endereço")
 
 Após isso, vai aparecer essa janela com o status aprovado, isso é fruto daquele redirecionamento que foi ensinado acima :-) clique em  **CONFIRMAR MUDANÇA**  para prosseguir. imagem:
 
-![processo de mudança pré aprovado](https://dicastechup.files.wordpress.com/2021/02/confirmacao.png?w=584 "processo de mudança pré aprovado")
+![processo de mudança pré aprovado](https://miro.medium.com/v2/resize:fit:640/0*mavX5PtJT5WpzdlB "processo de mudança pré aprovado")
 
 Com isso o processo de mudança foi aberto, agora só falta esperar as mudanças acontecerem, imagem:
 
-![conclusão da solicitação](https://dicastechup.files.wordpress.com/2021/02/resultado.png?w=823 "conclusão da solicitação")
+![conclusão da solicitação](https://miro.medium.com/v2/resize:fit:720/0*O6gHy3m4YEpCHA0u "conclusão da solicitação")
 
 Agora está terminado, configuramos o redirecionamento no blog antigo, alteramos o tema, limitamos o numero de postagens na pagina inicial do blog antigo, criamos uma postagem de redirecionamento da página inicial e fizemos abrimos a solicitação de mudança no Search Console do Google.
 
@@ -112,7 +113,7 @@ Para verificar quantos links do site antigo ainda está no google basta acessar 
 
 Depois selecione a Propriedade, no caso o site antigo e verificar o numero de páginas **Válidas**:
 
-![mostrando as paginas validas](https://dicastechup.files.wordpress.com/2021/02/validas.png?w=1024 "mostrando as paginas validas")
+![mostrando as paginas validas](https://miro.medium.com/v2/resize:fit:720/0*61kbRhys4TSoDZk5 "mostrando as paginas validas")
 
 No meu caso ainda há 51 páginas do meu site antigo no Google,  **quando**  esse numero chegar a  **zero**  eu vou seguir a recomendação acima de  **manter as páginas do site antigo e bloquear o acesso dos motores de busca**.
 
