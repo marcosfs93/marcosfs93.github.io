@@ -40,7 +40,7 @@ Hoje vou compartilhar a configuração que eu uso nesse PC pra fazer o jogo roda
 - 4.1[. Aumentar o limite de mapeamento de memória virtual](#41--aumentar-o-limite-de-mapeamento-de-memória-virtual)
 - 4.2[. Desative ou remova o mod 60 fps](#42--desative-ou-remova-o-mod-60-fps)
 - 5[. Versão recomendada do Yuzu](#5--versão-recomendada-do-yuzu)
-- 6[. Considerações finais](#considerações-finais)
+- [- Considerações finais](#considerações-finais)
 
 ## 1- Configurações de CPU
 Começando pela CPU, as configurações que eu uso são essas:
