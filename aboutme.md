@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mim
+subtitle: M4rQu1Nh0S
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Marcos Ferreira, sou conhecido tanto por "M4rQu1Nh0S" ou "marcosfs93" dependendo da plataforma na Web.
+Por mim eu usaria apenas um nick, mas como tem gente que quer copiar meu nick eu preciso ter outro na manga (XD).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Breve relato sobre o passado
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sou apenas um usuário de computador, entusiasmado por informática e tecnologia. Em 2015 comecei o Site do M4rQu1Nh0S na plataforma blogger para compartilhar dicas e artigos que possam ajudar outros usuários com problemas ou compartilhar dicas uteis.
