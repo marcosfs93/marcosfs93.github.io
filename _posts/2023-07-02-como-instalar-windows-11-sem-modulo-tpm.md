@@ -20,18 +20,18 @@ Eu uso o Windows desde a época do XP, até o Windows 10 teve historias de incom
 
 ### Conteúdo
 
-- [Windows 11 e seu novo requisito obrigatório](#753d)
-- [Baixe as ISOs](#e7c3)
-- [- Windows 10](#68e4)
-- [- Windows 11](#0bf4)
-- [Como criar uma ISO do Windows 11 sem o recurso TPM obrigatório](#4e10)
-- 1- [Extrair o arquivo install.wim do Windows 11](#c7a2)
-- 2- [Escolha a edição do Windows para extrair](#71f9)
-- 3- [Faça a extração da edição que foi escolhida](#49d3)
-- 4- [Adicione a edição do Windows 11 para a ISO do Windows 10](#67a1)
-- 5- [Grave a ISO modificada para o seu pendrive](#8fa0)
-- 6- [Reinicie o PC e faça o boot do Instalador do Windows](#9ebe)
-- [Minhas impressões sobre o sistema](#88f6)
+- [Windows 11 e seu novo requisito obrigatório](#)
+- [Baixe as ISOs](#)
+- [- Windows 10](#)
+- [- Windows 11](#)
+- [Como criar uma ISO do Windows 11 sem o recurso TPM obrigatório](#)
+- 1[- Extrair o arquivo install.wim do Windows 11](#)
+- 2[- Escolha a edição do Windows para extrair](#)
+- 3[- Faça a extração da edição que foi escolhida](#)
+- 4[- Adicione a edição do Windows 11 para a ISO do Windows 10](#)
+- 5[- Grave a ISO modificada para o seu pendrive](#)
+- 6[- Reinicie o PC e faça o boot do Instalador do Windows](#)
+- [Minhas impressões sobre o sistema](#)
 
 ## Windows 11 e seu novo requisito obrigatório
 
