@@ -56,7 +56,7 @@ social-network-links:
   github: M4rQu1Nh0S
   twitter: marcosfs93
 #  patreon: DeanAttali
-  youtube: c/marcosfs93
+  youtube: @marcosfs93
 #  medium: marcosfs93
 #  reddit: yourname
 #  linkedin: daattali
@@ -187,7 +187,7 @@ footer-hover-col: "#0085A1"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "sitemrcs"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
