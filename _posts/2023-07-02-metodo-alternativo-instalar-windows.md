@@ -28,7 +28,7 @@ Mas se você está tentando instalar o Windows e de alguma forma você não est�
 - 5[. Instalando o Windows com o WinNTSetup](#)
 - 5.1[. Sistema BIOS Legado](#)
 - 5.2[. Sistema UEFI](#)
-- -[. Considerações finais](#)
+- [-  Considerações finais](#)
 
 ## Tutorial em vídeo:
 [Se preferir, clique aqui para assitir o tutorial no YouTube](https://www.youtube.com/watch?v=bDkzT9v8lCI)
