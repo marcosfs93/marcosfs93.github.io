@@ -6,7 +6,7 @@ header-img: img/home-bg.jpg
 description: Site do M4rQu1Nh0S, site criado para compartilhar dicas e tutoriais sobre informática e tecnologia
 keyword: tutoriais, dicas, artigos, tecnologia, informática, guia
 url: "https://marcosfs93.github.io" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
