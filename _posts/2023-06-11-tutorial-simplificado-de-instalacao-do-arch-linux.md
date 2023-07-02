@@ -2,9 +2,9 @@
 layout: post
 title: Tutorial de instalação do Arch Linux simplificado
 author: M4rQu1Nh0S
-tags: tutorial, arch, linux, simples, resumido, simplificado, instalação.
+tags: [tutorial, arch, linux, simples, resumido, simplificado, instalação]
 subtitle: Tutorial simples para instalação do Arch Linux
-category: Linux
+category: [Linux]
 ---
 
 ![menu de boot do instalador do arch linux](https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg)
@@ -16,34 +16,34 @@ Sendo assim o tutorial de instalação vai ser bem mais simplificado e por isso 
 
 ## **Conteúdo:**
 
--   [Iniciando a instalação do Arch Linux](#Iniciando-a-instalação-do-Arch-Linux)
--   1.  [Selecionar o layout do teclado](#)
--   2.  [Saber se o PC está rodando em modo BIOS ou UEFI](#)
--   3.  [Verificar se a internet está funcionando](#)
--   4.  [Configure o relógio (se necessário)](#)
--   5.  [Particione o disco](#)
--   - 5.1.  [Alterar tabela de partição do disco, ou manter a atual](#)
--   - 5.2.  [Altere ou crie novas partições para o sistema](#)
--   - 5.3.  [Altere o tipo das partições](#)
--   - 5.4.  [Formate as partições recém criadas](#)
--   - 5.4.1.  [Sistema](#)
--   - 5.4.2.  [Boot](#)
--   - 5.4.3.  [Swap](#)
--   6.  [Monte as partições](#)
--   - 6.1.  [Partição do sistema](#)
--   - 6.2.  [Partição de boot](#)
--   7.  [Instalando o sistema](#)
--   8.  [Configurando o sistema](#)
--   8.1.  [Fuso horário](#)
--   8.2.  [Localização](#)
--   8.3.  [Configuração de rede](#)
--   8.4.  [Criar o initramfs (opcional)](#)
--   8.5.  [Senha do root](#)
--   8.6.  [Instalar o Bootloader](#)
--   [Pós instalação](#)
--   1.  [Adicionando o usuário](#)
--   2.  [Habilitando o comando sudo para o usuário](#)
--   [Acabamos só que não](#)
+[Iniciando a instalação do Arch Linux](#iniciando-a-instalação-do-Arch-Linux)
+1.  [Selecionar o layout do teclado](#selecionar-o-layout-do-teclado)
+2.  [Saber se o PC está rodando em modo BIOS ou UEFI](#saber-se-o-PC-esta-rodando-em-modo-BIOS-ou-UEFI)
+3.  [Verificar se a internet está funcionando](#)
+4.  [Configure o relógio (se necessário)](#)
+5.  [Particione o disco](#)
+5.1.  [Alterar tabela de partição do disco, ou manter a atual](#)
+5.2.  [Altere ou crie novas partições para o sistema](#)
+5.3.  [Altere o tipo das partições](#)
+5.4.  [Formate as partições recém criadas](#)
+5.4.1.  [Sistema](#)
+5.4.2.  [Boot](#)
+5.4.3.  [Swap](#)
+6.  [Monte as partições](#)
+6.1.  [Partição do sistema](#)
+6.2.  [Partição de boot](#)
+7.  [Instalando o sistema](#)
+8.  [Configurando o sistema](#)
+8.1.  [Fuso horário](#)
+8.2.  [Localização](#)
+8.3.  [Configuração de rede](#)
+8.4.  [Criar o initramfs (opcional)](#)
+8.5.  [Senha do root](#)
+8.6.  [Instalar o Bootloader](#)
+[Pós instalação](#)
+1.  [Adicionando o usuário](#)
+2.  [Habilitando o comando sudo para o usuário](#)
+[Acabamos só que não](#)
 
 # Iniciando a instalação do Arch Linux.
 
