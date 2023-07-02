@@ -29,16 +29,16 @@ Enfim, eu encontrei uma alternativa que resolve esse problema e hoje venho aqui 
 
 **Conteúdo:**
 
-- - [Causa do problema](#)
-- - [Solução](#)
-- - [Instruções](#)
+- -[- Causa do problema](#)
+- -[- olução](#)
+- -[- Instruções](#)
 - 1[.Crie uma pasta no SSD](#)
 - 2[.Adicionado permissões de usuário](#)
 - 3[.Use uma LiveCD](#)
 - 4[.Copie o diretório .config da /home para a pasta /user_config](#)
 - 5[.Renomeie e crie um link simbólico da pasta .config](#)
 - 6[.Saia do LiveCD e reinicie o PC](#)
-- - [Referencias](#)
+- -[-Referencias](#)
 
 ## Causa do problema
 Quando logamos no usuário do sistema, o sistema vai carregar os arquivos de configuração do desktop, esses arquivos ficam no diretório **.config**, e esse diretório fica dentro da pasta home, como a pasta /home estava no HD comum… o tempo de leitura era afetado e assim afetando também o tempo de inicialização.
