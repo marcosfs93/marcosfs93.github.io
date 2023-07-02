@@ -9,7 +9,6 @@ comments: true
 ---
 
 <p><a href="https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg" style="text-align: center;"><img alt="menu de boot do instalador do arch linux" src="https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg" title="menu de boot do instalador do arch linux" /></a></p>
-
 O guia de instalação no site do Arch Linux é completo, o que torna também um pouco complexo devido aos vários estágios de configuração durante a instalação, incluindo os seus detalhes.
 
 Esse guia aqui vai servir para eu mesmo, já que eu vou acabar instalando o Arch Linux no futuro, basicamente o que eu vou fazer aqui é um resumo dos procedimentos que eu vou fazer para instalar o Arch no meu PC.
