@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [tutorial, arch, linux, simples, resumido, simplificado, instalação]
 subtitle: Tutorial simples para instalação do Arch Linux
-category: [Linux]
+category: [linux]
 comments: true
 ---
 
