@@ -24,13 +24,13 @@ Porém mesmo com multiboot você precisa de pen drive e precisa formata-lo, sem 
 **Conteúdo**
 
 - [- A maior vantagem Ventoy](#1b7f)
-- 1- [Regras para instalar o Ventoy no HD](#2546)
+- 1[. Regras para instalar o Ventoy no HD](#2546)
 - 1.2. [Não pode existir espaço livre antes da 1ª partição do HD](#0a3d)
 - 1.3. [A 1ª partição deve usar o sistema NTFS ou sistemas EXT2/3/4](#b429)
 - 1.4. [A 1ª partição deve ter espaço livre, para armazenas as ISOs](#6c1b)
-- 2- [Como particionar o HD manualmente](#caf7)
-- 3- [Como instalar o Ventoy no HD interno](#1fcd)
-- 4- [Corrigindo problemas de escrita](#bd51)
+- 2[. Como particionar o HD manualmente](#caf7)
+- 3[. Como instalar o Ventoy no HD interno](#1fcd)
+- 4[. Corrigindo problemas de escrita](#bd51)
 - 4.1. [Para partições sem Windows instalado](#5c09)
 - 4.2. [Para partições com o Windows instalado](#7efe)
 - [- Considerações finais](#364d)
