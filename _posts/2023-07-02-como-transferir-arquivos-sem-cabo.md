@@ -6,6 +6,8 @@ tags: [como, transferir, arquivos, sem, cabo, celular, pc, computador]
 subtitle: Aprenda a transferir arquivos sem precisar de cabo no PC
 category: [dicas e tutoriais]
 comments: true
+thumbnail-img: https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png
+share-img: https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png
 ---
 
 ![pagina do airmore](https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png)

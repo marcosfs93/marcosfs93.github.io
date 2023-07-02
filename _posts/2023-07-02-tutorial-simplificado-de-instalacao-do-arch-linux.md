@@ -6,6 +6,8 @@ tags: [tutorial, arch, linux, simples, resumido, simplificado, instalação]
 subtitle: Tutorial simples para instalação do Arch Linux
 category: [linux]
 comments: true
+thumbnail-img: https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg
+share-img: https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg
 ---
 
 <p><a href="https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg" style="text-align: center;"><img alt="menu de boot do instalador do arch linux" src="https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg" title="menu de boot do instalador do arch linux" /></a></p>

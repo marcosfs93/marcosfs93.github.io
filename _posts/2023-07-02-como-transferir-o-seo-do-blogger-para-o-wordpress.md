@@ -6,6 +6,8 @@ tags: [seo, blogger, wordpress, transferir, como]
 subtitle: Faça a mudança de endereço sem sua posição no ranking de pesquisa
 category: [blogger, wordpress]
 comments: true
+thumbnail-img: https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png
+share-img: https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png
 ---
 
 <p><a href="https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png" style="text-align: center;"><img alt="ilustração, transição blogger para wordpress" src="https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s16000/migracao-1.png" title="ilustração, transição blogger para wordpress" /></a></p>
