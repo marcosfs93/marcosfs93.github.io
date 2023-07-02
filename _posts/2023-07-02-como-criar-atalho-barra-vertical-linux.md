@@ -22,13 +22,13 @@ Além disso naquele artigo ensinamos a usar o atalho Ctrl + Shift + U para inser
 
 Sendo assim, eu estou aqui hoje para ensinar a como criar um atalho simples para inserir símbolos facilmente e que não tem no teclado.
 
-Eu sou um exemplo de usuário que tem um teclado que não tem todos os atalhos de símbolos, principalmente a **barra invertida** **" \ "** e **barra vertical** **" | "**.
+Eu sou um exemplo de usuário que tem um teclado que não tem todos os atalhos de símbolos, principalmente a **barra invertida** `\` e **barra vertical** `|`.
 
 Atualmente eu tenho esse teclado:
 
 ![](https://cdn-images-1.medium.com/max/800/1*bRKAyByI6YXvaSXAk5xiaA.png)
 
-Observando com atenção você pode notar que a **barra invertida** **" \ "** e **barra vertical** **" | "** está faltando nesse teclado, pelo menos olhando nas teclas dele.
+Observando com atenção você pode notar que a **barra invertida** `\` e **barra vertical** `|` está faltando nesse teclado, pelo menos olhando nas teclas dele.
 
 **Conteúdo:**
 
