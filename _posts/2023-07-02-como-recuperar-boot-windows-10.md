@@ -13,6 +13,7 @@ layout: post
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/0*ypiGhPzvghyDSeXt.jpg)
+
 Não lembro quantas vezes eu já me deparei com esse tipo de erro, geralmente é algo que vem a acontecer durante os processos de dual boot com outro sistema operacional, na ultima vez que isso aconteceu comigo foi ao manter o Windows em um SSD em GPT e usar outro sistema em outro SSD em MBR.
 
 Eu não sei se é conflito da BIOS com o UEFI mas o **Windows Boot Manager**, que é o responsável por iniciar o boot do Windows, desapareceu da lista de boot que aparece ao ligar o PC após passar alguns dias usando outro sistema.
@@ -20,9 +21,8 @@ Eu não sei se é conflito da BIOS com o UEFI mas o **Windows Boot Manager**, qu
 Enfim, hoje quero compartilhar os procedimentos para restaurar o boot do Windows, eu pude restaurar o boot do Windows usando **Discos de recuperação** como o excelente Hiren’s BootCD PE.
 
 **Conteúdo**
-
 -  [Como restaurar o boot do Windows](#como-restaurar-o-boot-do-windows)
--  [- Como recuperar o Windows com o Hiren’s BootCD](#como-recuperar-o-windows-com-o-hiren’s-bootcd)
+-  [- Como recuperar o Windows com o Hiren’s BootCD](#como-recuperar-o-windows-com-o-hirens-bootcd)
 -  [- Restaurando o Windows via CMD](#restaurando-o-windows-via-cmd)
 -  [Dicas](#dicas)
 -  [Considerações finais](#considerações-finais)
