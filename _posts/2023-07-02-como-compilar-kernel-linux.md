@@ -21,14 +21,14 @@ _No final desse post vou estar incluindo todos sites que me baseei na criação 
 
 Agora que eu já desabafei fiz a introdução ao post de hoje, vamos aos procedimentos para a compilação do Kernel, mas antes vale lembrar que não vou ser muito didático nesse tutorial e por isso não vou explicar em detalhes todos os procedimentos, somente o mínimo necessário para a compilação.
 
-#### **Conteúdo**
+#### Conteúdo
 
-- 1 [Preparos iniciais para a compilação do kernel](#b342)
-- 1.1 [- Instalação das dependências](#397f)
-- 1.2 [- Baixando e descompactando o código-fonte do kernel](#68fd)
-- 1.3 [- Realizando configurações e modificações do kernel](#2aca)
-- 2  [Compilando o kernel](#a4cb)
-- 3  [Instalando o kernel no sistema](#instalando-o-kernel-no-sistema)
+- 1[- Preparos iniciais para a compilação do kernel](#b342)
+- 1.1[-- Instalação das dependências](#397f)
+- 1.2[-- Baixando e descompactando o código-fonte do kernel](#68fd)
+- 1.3[-- Realizando configurações e modificações do kernel](#2aca)
+- 2[- Compilando o kernel](#a4cb)
+- 3[- Instalando o kernel no sistema](#instalando-o-kernel-no-sistema)
 
 ## 1- Preparos iniciais para a compilação do kernel
 ### 1.1- Instalação das dependências
