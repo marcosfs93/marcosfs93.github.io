@@ -8,7 +8,7 @@ category: [Linux]
 comments: true
 ---
 
-![menu de boot do instalador do arch linux](https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg)
+<p><a href="https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg" style="text-align: center;"><img alt="menu de boot do instalador do arch linux" src="https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg" title="menu de boot do instalador do arch linux" /></a></p>
 
 O guia de instalação no site do Arch Linux é completo, o que torna também um pouco complexo devido aos vários estágios de configuração durante a instalação, incluindo os seus detalhes.
 
