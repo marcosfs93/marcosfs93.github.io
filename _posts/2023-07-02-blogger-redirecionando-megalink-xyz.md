@@ -29,11 +29,11 @@ Portanto basta editar o código html do blogger e remover todas as linhas que co
 
 **Conteúdo**
 
-1. [Pode acontecer desse script estar “disfarçado” no html](#4762)
-2. [“DesOfuscando” um código](#88b3)
-3. [Como encontrar o script no html do blogger](#3a0a)
-4. [Usando o debugger do browser para diagnóstico](#c33c)
-5. [Observações sobre o problema](#e4d0)
+1. [Pode acontecer desse script estar “disfarçado” no html](#pode-acontecer-desse-script-estar-disfarçado-no-html)
+2. [“DesOfuscando” um código](#desofuscando-um-código)
+3. [Como encontrar o script no html do blogger](#como-encontrar-o-script-no-html-do-blogger)
+4. [Usando o debugger do browser para diagnóstico](#usando-o-debugger-do-browser-para-diagnóstico)
+5. [Observações sobre o problema](#observações-sobre-o-problema)
 
 ## Pode acontecer desse script estar “disfarçado” no html
 Existe uma espécie de codificação em linguagens de programação que “disfarçam” que podemos chamar de **ofuscador**.
