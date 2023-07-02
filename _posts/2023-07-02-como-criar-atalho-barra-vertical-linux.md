@@ -22,25 +22,25 @@ Além disso naquele artigo ensinamos a usar o atalho Ctrl + Shift + U para inser
 
 Sendo assim, eu estou aqui hoje para ensinar a como criar um atalho simples para inserir símbolos facilmente e que não tem no teclado.
 
-Eu sou um exemplo de usuário que tem um teclado que não tem todos os atalhos de símbolos, principalmente a **barra invertida** **“ \ “** e **barra vertical** **“ | “**.
+Eu sou um exemplo de usuário que tem um teclado que não tem todos os atalhos de símbolos, principalmente a **barra invertida** **" \ "** e **barra vertical** **" | "**.
 
 Atualmente eu tenho esse teclado:
 
 ![](https://cdn-images-1.medium.com/max/800/1*bRKAyByI6YXvaSXAk5xiaA.png)
 
-Observando com atenção você pode notar que a **barra invertida** **“ \ “** e **barra vertical** **“ | “** está faltando nesse teclado, pelo menos olhando nas teclas dele.
+Observando com atenção você pode notar que a **barra invertida** **" \ "** e **barra vertical** **" | "** está faltando nesse teclado, pelo menos olhando nas teclas dele.
 
 **Conteúdo:**
 
-1. [Visualizando o layout do teclado](#)
-2. [Como remapear uma tecla do teclado](#)
-3. [Como descobrir o código de identificação de uma tecla](#)
-4. [Descobrindo o nome do símbolo para usar no xmodmap](#)
-5. [Descobrindo o mapeamento atual da tecla](#)
-6. [Criando um atalho com o xmodmap](#)
-7. [Como tornar o atalho permanente](#)
-8. [Considerações finais](#)
-9. [Referencias](#)
+1. [Visualizando o layout do teclado](#visualizando-o-layout-do-teclado)
+2. [Como remapear uma tecla do teclado](#como-remapear-uma-tecla-do-teclado)
+3. [Como descobrir o código de identificação de uma tecla](#como-descobrir-o-código-de-identificação-de-uma-tecla)
+4. [Descobrindo o nome do símbolo para usar no xmodmap](#descobrindo-o-nome-do-símbolo-para-usar-no-xmodmap)
+5. [Descobrindo o mapeamento atual da tecla](#descobrindo-o-mapeamento-atual-da-tecla)
+6. [Criando um atalho com o xmodmap](#criando-um-atalho-com-o-xmodmap)
+7. [Como tornar o atalho permanente](#como-tornar-o-atalho-permanente)
+8. [Considerações finais](#considerações-finais)
+9. [Referencias](#referencias)
 
 ## Visualizando o layout do teclado
 No Windows eu podia usar os atalhos **Alt + 92** e **Alt + 124** para inserir essas barras, no Linux isso não funciona.
