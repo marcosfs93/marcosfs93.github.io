@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Tutorial de instalação do Arch Linux simplificado
+date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [tutorial, arch, linux, simples, resumido, simplificado, instalação]
 subtitle: Tutorial simples para instalação do Arch Linux
 category: [Linux]
+comments: true
 ---
 
 ![menu de boot do instalador do arch linux](https://miro.medium.com/v2/resize:fit:700/1*tucba-ygaPv5NH-wHVxgoQ.jpeg)
