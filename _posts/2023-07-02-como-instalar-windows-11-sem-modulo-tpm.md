@@ -20,18 +20,18 @@ Eu uso o Windows desde a época do XP, até o Windows 10 teve historias de incom
 
 ### Conteúdo
 
-- [Windows 11 e seu novo requisito obrigatório](#)
-- [Baixe as ISOs](#)
-- [- Windows 10](#)
-- [- Windows 11](#)
-- [Como criar uma ISO do Windows 11 sem o recurso TPM obrigatório](#)
-- 1[- Extrair o arquivo install.wim do Windows 11](#)
-- 2[- Escolha a edição do Windows para extrair](#)
-- 3[- Faça a extração da edição que foi escolhida](#)
-- 4[- Adicione a edição do Windows 11 para a ISO do Windows 10](#)
-- 5[- Grave a ISO modificada para o seu pendrive](#)
-- 6[- Reinicie o PC e faça o boot do Instalador do Windows](#)
-- [Minhas impressões sobre o sistema](#)
+- [Windows 11 e seu novo requisito obrigatório](#windows-11-e-seu-novo-requisito-obrigatório)
+- [Baixe as ISOs](#baixe-as-isos)
+- [- Windows 10](#windows-10)
+- [- Windows 11](#windows-11-dev-channel)
+- [Como criar uma ISO do Windows 11 sem o recurso TPM obrigatório](#como-criar-uma-iso-do-windows-11-sem-o-recurso-tpm-obrigatório)
+- 1 [- Extrair o arquivo install.wim do Windows 11](#1-extrair-o-arquivo-installwim-do-windows-11)
+- 2 [- Escolha a edição do Windows para extrair](#2-escolha-a-edição-do-windows-para-extrair)
+- 3 [- Faça a extração da edição que foi escolhida](#3-faça-a-extração-da-edição-que-foi-escolhida)
+- 4 [- Adicione a edição do Windows 11 para a ISO do Windows 10](#4-adicione-a-edição-do-windows-11-para-a-iso-do-windows-10)
+- 5 [- Grave a ISO modificada para o seu pendrive](#5-grave-a-iso-modificada-para-o-seu-pendrive)
+- 6 [- Reinicie o PC e faça o boot do Instalador do Windows](#6-reinicie-o-pc-e-faça-o-boot-do-instalador-do-windows)
+- [Minhas impressões sobre o sistema](#minhas-impressões-sobre-o-sistema)
 
 ## Windows 11 e seu novo requisito obrigatório
 
