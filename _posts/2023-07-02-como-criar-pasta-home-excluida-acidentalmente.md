@@ -21,13 +21,13 @@ Ao criar a pasta nova de usuário e feito login no sistema, o próprio sistema s
 
 **Conteúdo**
 
--   [Como criar uma nova pasta de usuário do jeito certo](#7333)
--   1. [Criar a nova pasta](#91ae)
--   2. [Copiar os arquivos de configuração](#3191)
--   3. [Alterar o dono da pasta](#c881)
--   4. [Modificar as permissões para pastas e arquivos](#86e5)
--   [Conclusão](#1823)
--   [Referencias](#d06e)
+- [ - Como criar uma nova pasta de usuário do jeito certo](#)
+- 1. [Criar a nova pasta](#)
+- 2. [Copiar os arquivos de configuração](#)
+- 3. [Alterar o dono da pasta](#)
+- 4. [Modificar as permissões para pastas e arquivos](#)
+- [ - Conclusão](#)
+- [ - Referencias](#)
 
 ## Como criar uma nova pasta de usuário do jeito certo:
 
