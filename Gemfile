@@ -1,7 +1,6 @@
-source 'https://rubygems.org'
-gem 'jekyll-paginate'
+# frozen_string_literal: true
 
-gem "jekyll", "~> 4.0"
-gem "rake"
+source "https://rubygems.org"
 
-gem "webrick", "~> 1.7"
+gemspec
+
