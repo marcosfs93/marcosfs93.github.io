@@ -22,8 +22,8 @@ Antes de iniciar esse tutorial é necessário que você já tenha migrado todas 
 **Conteúdo**
  - [Configurando o redirecionamento](#user-content-configurando-o-redirecionamento)
  - [Search Console - Ferramenta Alteração de endereço](#user-content-search-console---ferramenta-alteração-de-endereço)
-</pre><br>
-<pre class='markdown'>
+
+
 ## Configurando o redirecionamento
 
 Agora que as postagens do blog antigo estão no blog novo, você vai precisar editar todas as postagens do blog antigo para incluir o redirecionamento 301. Então entre em cada postagem, apague todo o conteúdo,  **vá no modo html do editor**  de textos e coloque o seguinte código:
