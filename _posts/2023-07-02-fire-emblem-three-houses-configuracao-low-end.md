@@ -18,9 +18,9 @@ _Post atualizado em 14/07/2022_
 
 O PC que eu tenho é um:
 
--   Intel i7 2600
--   16Gb de RAM — DDR3
--   NVIDIA GTX 1050ti 4Gb
+- Intel i7 2600
+- 16Gb de RAM — DDR3
+- NVIDIA GTX 1050ti 4Gb
 
 Embora o PC seja bonzinho ele está um pouco abaixo das configurações mínimas exigidas para rodar o Yuzu, emulador de Nintendo Switch.
 
