@@ -1,5 +1,5 @@
 ---
-title: Fire Emblem Three Houses Configuração low-end para o Yuzu
+title: Fire Emblem Three Houses - Configuração low-end para o Yuzu
 date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [Fire Emblem, Three Houses, configuração, low, end, baixo]
