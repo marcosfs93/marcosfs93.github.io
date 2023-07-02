@@ -11,7 +11,6 @@ share-img: https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png
 ---
 
 ![pagina do airmore](https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png)
-
 Eu já usei mais de um aplicativo quando eu queria transferir algum arquivo do celular para o computador, todos eles funcionam em modo lista, algo muito inconveniente quando queremos transferir uma imagem especifica para o Computador.
 
 Basicamente no modo lista temos apenas o nome dos arquivos e muitos dos aplicativos de tirar fotos geram nomes genéricos, como por exemplo: **004290286be69aa1836cc72f4eaacd6a.jpg**, criando a necessidade de renomear o arquivo no celular primeiro pra depois tranferir usando aplicativos. veja como é no **ASUS File Manager**:

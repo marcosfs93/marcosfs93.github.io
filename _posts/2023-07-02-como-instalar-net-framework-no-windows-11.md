@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![logo .NET framework](https://cdn-images-1.medium.com/max/800/0*tXibQ12giB31EbTg.png)
-
 Por um momento eu fiquei preocupado já que eu passei alguns minutos tentando instalar o .NET Framework 3.5 e não estava conseguindo. Ao pesquisar um pouco eu vi que o processo de instalação do Framework é igual do Windows 10.
 
 Meu objetivo nesse post não é pra falar sobre a utilidade e necessidade do Framework, creio que você também só precisa instalar e usar os seus aplicativos certo? bom, antes de passar os procedimentos **é necessário ter a ISO/DVD de instalação do Windows 11**, atualmente a unica forma de instalar o Framework é usando a ISO de Instalação.

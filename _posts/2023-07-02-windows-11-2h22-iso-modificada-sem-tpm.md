@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/0*TbW_z67GRpTDwYJJ.jpg)
-
 Fala pessoal, no ultimo post sobre instalação do Windows 11 em qualquer PC, sem o requisito de TPM, eu passei uma série de passo a passo que você tinha que seguir para conseguir instalar o Windows 11. Hoje venho com uma novidade ainda melhor, eu vou simplesmente compartilhar a ISO **que eu mesmo modifiquei** pra poder instalar o Windows 11 em qualquer PC.
 
 ## Informações dessa ISO do Windows 11 sem TPM

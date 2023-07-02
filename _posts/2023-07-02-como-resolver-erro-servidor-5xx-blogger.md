@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![imagem mostrando o tal erro 5xx](https://cdn-images-1.medium.com/max/800/1*GxxIhvaoXQQ8NBLpG5xIAQ.png)
-
 Na ferramenta Search Console do Google existe um erro de servidor que pode afetar blogs na plataforma Blogger, esse tipo de erro é temporário e por isso não tinha o que se fazer a respeito desse problema além de esperar a equipe do Google resolver.
 
 Mas como até hoje não vi uma solução e o SEO do meu blog estava péssimo, já que minhas páginas não apareciam no google, eu decidi tentar algumas coisas, e parece que consegui ao menos “amenizar” o problema.

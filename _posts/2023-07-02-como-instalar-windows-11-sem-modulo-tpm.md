@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![Logo Windows 11](https://cdn-images-1.medium.com/max/800/0*fRMgrP8Nzaimzegq.png)
-
 **Novidade:** Criei recentemente um novo post compartilhando uma **ISO já pronta** com o Windows 11 sem TMP, [**clique aqui**](https://marcosfs93.blogspot.com/2023/03/windows-11-2h22-iso-sem-requisito-do.html) para saber mais!
 
 Eu uso o Windows desde a época do XP, até o Windows 10 teve historias de incompatibilidades de hardware, mas todas as edições do Windows contavam com requisitos comuns: Processador de tal frequência ou superior… Tantos GB de memória RAM… Determinado espaço disponível no HD… etc, requisitos até simples.

@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![Device ID](https://cdn-images-1.medium.com/max/800/0*5Du1vkE-acW8FIhV.png)
-
 Se você já mexeu com o **Titanium Backup** sabe como é legal fazer o backup dos aplicativos e configurações, quando está para instalar uma versão mais nova do Android ou quer instalar uma outra ROM totalmente diferente. Infelizmente existem alguns aplicativos que mesmo restaurando os dados não permitem que você use o aplicativo da mesma forma que usava antes de trocar de rom.
 
 Caso não saiba do que eu estou falando, vou dar um exemplo: **Aplicativo de Banco**

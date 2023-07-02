@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/0*ukFOU5MlqIgfPRiI)
-
 Olá pessoal, hoje eu trago um tutorial bem interessante com o **Notepad++**, com ele vamos aprender a como substituir um código inteiro, mesmo que o conteúdo dentro desse código seja diferente.
 
 Substituir vários códigos de uma vez não é possível usando a função de **Substituir textos**, geralmente para a substituição funcionar você tem que digitar **exatamente** o que deve ser substituído.

@@ -13,7 +13,6 @@ layout: post
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/0*xBVty8DQGuY4hs7-.png)
-
 Olá pessoal, bem vindos a mais um post exclusivo aqui do site, hoje vou mostrar como personalizar ainda mais a formatação de data e hora, que aparecem logo abaixo do titulo das postagens, páginas e também nos comentários dos leitores.
 
 Eu achei necessário abordar esse assunto porque nas configurações do blogger, sem alguma razão aparente, a formatação de data segue uma ordem que é comum no exterior: o mes aparece primeiro e depois o dia do mês:
