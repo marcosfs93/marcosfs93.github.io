@@ -1,14 +1,14 @@
 ---
 title: Como compilar o kernel do Linux
-date: AAAA-MM-DD
+date: 2023-07-02
 author: M4rQu1Nh0S
-tags: []
-subtitle:
-category: []
+tags: [como, compilar, kernel, linux]
+subtitle: Saiba o que fazer para compilar o kernel
+category: [Dicas e tutoriais, Linux]
 comments: true
 #cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: https://cdn-images-1.medium.com/max/800/0*6JpRF629V9_NL4i6.png
+share-img: https://cdn-images-1.medium.com/max/800/0*6JpRF629V9_NL4i6.png
 layout: post
 ---
 
