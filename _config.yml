@@ -15,10 +15,6 @@ title: Site do M4rQu1Nh0S
 # Your name to show in the footer
 author: M4rQu1Nh0S
 
-# Language
-languages: ["pt-BR"]
-defaultLang: pt-BR
-
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -244,7 +240,7 @@ disqus: "sitemrcs"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%-d de %B, %Y"
+date_format: "%-d de %m, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
