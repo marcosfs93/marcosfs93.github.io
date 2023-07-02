@@ -8,7 +8,7 @@ category: [linux]
 comments: true
 ---
 
-![Screenshot da interface do Timeshift](https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png)
+<p><a href="https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png" style="text-align: center;"><img alt="Screenshot da interface do Timeshift" src="https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png" title="Screenshot da interface do Timeshift" /></a></p>
 
 Para quem usa distros como Ubuntu, Linux Mint e Zorin OS, é muito fácil fazer os backups do sistema, seja com RSYNC ou BTRFS, pois nessas distros ao escolher uma partição em BTRFS automaticamente o subvolume **@** é criado.
 
