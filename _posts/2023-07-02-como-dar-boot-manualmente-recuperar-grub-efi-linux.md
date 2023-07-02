@@ -21,13 +21,13 @@ Esse tutorial está separado em 3 partes, na parte 1 vamos aprender a como fazer
 
 **Conteúdo**
 
-- 1. [Conseguindo dar boot pelo Grub Rascue](#1--conseguindo-dar-boot-pelo-grub-rascue)
+- 1 [Conseguindo dar boot pelo Grub Rascue](#1--conseguindo-dar-boot-pelo-grub-rascue)
 - 1.1. [Procurando o disco onde se encontra o sistema](#11-procurando-o-disco-onde-se-encontra-o-sistema)
 - 1.2. [Iniciando o boot manualmente](#12-iniciando-o-boot-manualmente)
-- 2. [Restaurando o carregador de boot do sistema](#2--restaurando-o-carregador-de-boot-do-sistema)
+- 2 [Restaurando o carregador de boot do sistema](#2--restaurando-o-carregador-de-boot-do-sistema)
 - 2.1. [Encontrando a partição EFI](#21-encontrando-a-partição-efi)
 - 2.2. [Encontrando os arquivos de boot .efi](#22-encontrando-os-arquivos-de-boot-efi)
-- 3. [O que fazer se a partição EFI foi apagada](#3--o-que-fazer-se-a-partição-efi-foi-apagada)
+- 3 [O que fazer se a partição EFI foi apagada](#3--o-que-fazer-se-a-partição-efi-foi-apagada)
 - 3.1. [Como recriar a partição EFI](#31-como-recriar-a-partição-efi)
 - 3.1.1. [Se quiser excluir a partição EFI atual](#311-se-quiser-excluir-a-partição-efi-atual)
 - 3.1.2. [Para criar uma nova partição EFI](#312para-criar-uma-nova-partição-efi)
