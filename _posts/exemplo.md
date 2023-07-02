@@ -1,0 +1,16 @@
+---
+title:
+date: 2023-12-31
+author: M4rQu1Nh0S
+tags: []
+subtitle:
+category: []
+comments: true
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+layout: post ou page
+---
+
+texto
+

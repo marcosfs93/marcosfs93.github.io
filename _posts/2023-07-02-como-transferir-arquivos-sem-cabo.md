@@ -3,7 +3,7 @@ title: Como transferir arquivos sem cabo do celular para o computador
 date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, transferir, arquivos, sem, cabo, celular, pc, computador]
-subtitle:
+subtitle: Aprenda a transferir arquivos sem precisar de cabo no PC
 category: [dicas e tutoriais]
 comments: true
 ---
