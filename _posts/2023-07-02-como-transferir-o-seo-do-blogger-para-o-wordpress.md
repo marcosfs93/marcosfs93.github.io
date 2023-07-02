@@ -26,7 +26,7 @@ Antes de iniciar esse tutorial é necessário que você já tenha migrado todas 
 
 **Conteúdo**
  - [Configurando o redirecionamento](#configurando-o-redirecionamento)
- - [Search Console - Ferramenta Alteração de endereço](#search-console-ferramenta-alteração-de-endereço)
+ - [Search Console - Ferramenta Alteração de endereço](#search-console---ferramenta-alteração-de-endereço)
 
 
 ## Configurando o redirecionamento
