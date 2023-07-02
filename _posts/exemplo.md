@@ -1,6 +1,6 @@
 ---
 title:
-date: AAAA-MM-DD
+date:
 author: M4rQu1Nh0S
 tags: []
 subtitle:
