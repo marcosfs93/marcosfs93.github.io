@@ -21,7 +21,7 @@ Enfim, no meu caso eu precisei fazer algumas coisas para conseguir fazer o times
 
 ## Tutorial em vídeo está disponível
 
-<video src='https://www.youtube.com/watch?v=TFhoBYakkY4' width=480/>
+<video src='https://www.youtube.com/watch?v=TFhoBYakkY4' width=480></video>
 
 Primeiro eu precisei editar alguns arquivos:
 
