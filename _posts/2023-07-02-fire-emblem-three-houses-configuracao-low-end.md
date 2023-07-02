@@ -1,5 +1,5 @@
 ---
-title: [Fire Emblem Three Houses: Configuração low-end para o Yuzu]
+title: Fire Emblem Three Houses Configuração low-end para o Yuzu
 date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [Fire Emblem, Three Houses, configuração, low, end, baixo]
@@ -30,17 +30,17 @@ Hoje vou compartilhar a configuração que eu uso nesse PC pra fazer o jogo roda
 
 **Conteúdo**
 
-- 1[. Configurações de CPU](#)
-- 2[. Configuração de GPU](#)
-- 2.1[. Gráficos](#)
-- 2.2[. Avançado](#)
-- 3[. Dicas extras](#)
-- 3.1[. MOD 60 FPS](#)
-- 4[. Solução para problemas de travamentos aleatórios](#)
-- 4.1[. Aumentar o limite de mapeamento de memória virtual](#)
-- 4.2[. Desative ou remova o mod 60 fps](#)
-- 5[. Versão recomendada do Yuzu](#)
-- 6[. Considerações finais](#)
+- 1[. Configurações de CPU](#1--configurações-de-cpu)
+- 2[. Configuração de GPU](#2--configuração-de-gpu)
+- 2.1[. Gráficos](#21--gráficos)
+- 2.2[. Avançado](#22--avançado)
+- 3[. Dicas extras](#3--dicas-extras)
+- 3.1[. MOD 60 FPS](#31--mod-60-fps)
+- 4[. Solução para problemas de travamentos aleatórios](#4--solução-para-problemas-de-travamentos-aleatórios)
+- 4.1[. Aumentar o limite de mapeamento de memória virtual](#41--aumentar-o-limite-de-mapeamento-de-memória-virtual)
+- 4.2[. Desative ou remova o mod 60 fps](#42--desative-ou-remova-o-mod-60-fps)
+- 5[. Versão recomendada do Yuzu](#5--versão-recomendada-do-yuzu)
+- 6[. Considerações finais](#considerações-finais)
 
 ## 1- Configurações de CPU
 Começando pela CPU, as configurações que eu uso são essas:
@@ -55,7 +55,7 @@ O Intel i7 2600 não tem essa instrução e por padrão o Yuzu deixa o uso de FM
 
 ## 2- Configuração de GPU
 
-### 2.1 — Gráficos:
+### 2.1- Gráficos:
 Nas **configurações de API** eu deixo selecionado a **API: Vulkan** e **Dispositivo: NVIDIA GeForce GTX 1050 Ti**.
 
 Imagem:
