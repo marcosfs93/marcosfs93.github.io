@@ -1,6 +1,6 @@
 ---
 title: Como instalar Windows 11 sem TPM 2.0 em qualquer PC
-date: 2023-12-31
+date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, instalar, windows 11, sem tpm, em, qualquer, computador]
 subtitle: Aprenda a instalar o Windows 11 em qualquer PC
