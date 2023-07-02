@@ -90,6 +90,6 @@ page-mathjax: false
 
 # Friends
 #friends:
-  [
-    { title: "friend", href: "https://user.link" },
-  ]
+#  [
+#    { title: "friend", href: "https://user.link" },
+#  ]
