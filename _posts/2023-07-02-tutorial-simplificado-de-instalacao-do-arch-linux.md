@@ -17,34 +17,34 @@ Sendo assim o tutorial de instalação vai ser bem mais simplificado e por isso 
 
 ## Conteúdo:
 
-- [Iniciando a instalação do Arch Linux](#iniciando-a-instalação-do-arch-linux)
-- 1-  [Selecionar o layout do teclado](#1--selecionar-o-layout-do-teclado)
-- 2-  [Saber se o PC está rodando em modo BIOS ou UEFI](#2--saber-se-o-pc-está-rodando-em-modo-bios-ou-uefi)
-- 3-  [Verificar se a internet está funcionando](#3--verificar-se-a-internet-está-funcionando)
-- 4-  [Configure o relógio (se necessário)](#4--configure-o-relógio-se-necessário)
-- 5-  [Particione o disco](#5--particione-o-disco)
-- - 5.1-  [Alterar tabela de partição do disco, ou manter a atual](#51--alterar-tabela-de-partição-do-disco-ou-manter-a-atual)
-- - 5.2-  [Altere ou crie novas partições para o sistema](#52--altere-ou-crie-novas-partições-para-o-sistema)
-- - 5.3-  [Altere o tipo das partições](#53--altere-o-tipo-das-partições)
-- - 5.4-  [Formate as partições recém criadas](#54--formate-as-partições-recém-criadas)
-- -- 5.4.1-  [Sistema](#541--sistema)
-- -- 5.4.2-  [Boot](#542--boot)
-- -- 5.4.3-  [Swap](#543--swap)
-- 6-  [Monte as partições](#6--monte-as-partições)
-- - 6.1-  [Partição do sistema](#61--partição-do-sistema)
-- - 6.2-  [Partição de boot](#62--partição-de-boot)
-- 7-  [Instalando o sistema](#7--instalando-o-sistema)
-- 8-  [Configurando o sistema](#8--configurando-o-sistema)
-- - 8.1-  [Fuso horário](#81--fuso-horário)
-- - 8.2-  [Localização](#82--localização)
-- - 8.3-  [Configuração de rede](#83--configuração-de-rede)
-- - 8.4-  [Criar o initramfs (opcional)](#84--criar-o-initramfs-opcional)
-- - 8.5-  [Senha do root](#85--senha-do-root)
-- - 8.6-  [Instalar o Bootloader](#86--instalar-bootloader)
-- [Pós instalação](#pós-instalação)
-- 1- [Adicionando o usuário](#1--adicionando-o-usuário)
-- 2- [Habilitando o comando sudo para o usuário](#2--habilitando-o-comando-sudo-para-o-usuário)
-- [Acabamos só que não](#acabamos-só-que-não)
+- [- Iniciando a instalação do Arch Linux](#iniciando-a-instalação-do-arch-linux)
+- 1 [- Selecionar o layout do teclado](#1--selecionar-o-layout-do-teclado)
+- 2 [- Saber se o PC está rodando em modo BIOS ou UEFI](#2--saber-se-o-pc-está-rodando-em-modo-bios-ou-uefi)
+- 3 [- Verificar se a internet está funcionando](#3--verificar-se-a-internet-está-funcionando)
+- 4 [- Configure o relógio (se necessário)](#4--configure-o-relógio-se-necessário)
+- 5 [- Particione o disco](#5--particione-o-disco)
+- 5.1 [-- Alterar tabela de partição do disco, ou manter a atual](#51--alterar-tabela-de-partição-do-disco-ou-manter-a-atual)
+- 5.2 [-- Altere ou crie novas partições para o sistema](#52--altere-ou-crie-novas-partições-para-o-sistema)
+- 5.3 [-- Altere o tipo das partições](#53--altere-o-tipo-das-partições)
+- 5.4 [-- Formate as partições recém criadas](#54--formate-as-partições-recém-criadas)
+- 5.4.1 [--- Sistema](#541--sistema)
+- 5.4.2 [--- Boot](#542--boot)
+- 5.4.3 [--- Swap](#543--swap)
+- 6 [- Monte as partições](#6--monte-as-partições)
+- 6.1 [-- Partição do sistema](#61--partição-do-sistema)
+- 6.2 [-- Partição de boot](#62--partição-de-boot)
+- 7 [- Instalando o sistema](#7--instalando-o-sistema)
+- 8 [- Configurando o sistema](#8--configurando-o-sistema)
+- 8.1 [-- Fuso horário](#81--fuso-horário)
+- 8.2 [-- Localização](#82--localização)
+- 8.3 [-- Configuração de rede](#83--configuração-de-rede)
+- 8.4 [-- Criar o initramfs (opcional)](#84--criar-o-initramfs-opcional)
+- 8.5 [-- Senha do root](#85--senha-do-root)
+- 8.6 [-- Instalar o Bootloader](#86--instalar-bootloader)
+- [- Pós instalação](#pós-instalação)
+- 1 [- Adicionando o usuário](#1--adicionando-o-usuário)
+- 2 [- Habilitando o comando sudo para o usuário](#2--habilitando-o-comando-sudo-para-o-usuário)
+- [- Acabamos só que não](#acabamos-só-que-não)
 
 # Iniciando a instalação do Arch Linux.
 
@@ -86,9 +86,9 @@ Se o comando ping não funcionar, verifique se as interface estão aparecendo no
 
 Caso sua conexão seja…
 
-**DHCP**: funciona automaticamente ao iniciar o instalador do Arch Linux  
-**Ethernet**:  **conecte o cabo**  no PC  
-**Wifi**: Faça login, usando o comando:  **iwctl**  
+**DHCP**: funciona automaticamente ao iniciar o instalador do Arch Linux
+**Ethernet**:  **conecte o cabo**  no PC
+**Wifi**: Faça login, usando o comando:  **iwctl**
 **Banda larga móvel**: use o comando:  **mmcli**
 
 Com o comando ping funcionando, vamos continuar.
@@ -140,8 +140,8 @@ A partição de boot EFI, deve ter em média 300Mb até 1Gb, enquanto a partiç�
 
 Agora precisamos escolher o tipo de cada partição, selecione a partição da lista e entre na opção  **Type**  do cfdisk.
 
-A partição / do sistema deve ser o tipo:  **83 — Linux**.  
-A partição de boot do sistema deve ser do tipo:  **EF — FAT (FAT/12/16/32)**.  
+A partição / do sistema deve ser o tipo:  **83 — Linux**.
+A partição de boot do sistema deve ser do tipo:  **EF — FAT (FAT/12/16/32)**.
 A partição de swap deve ser do tipo:  **82 — Linux swap / Solaris**.
 
 Selecione a partição de boot, e digite a letra:  **B**  para marcar a partição como bootável
@@ -220,7 +220,7 @@ Use o comando
 
     # ln -sf /usr/share/zoneinfo/Região/Cidade /etc/localtime
 
-> _Exemplo:  
+> _Exemplo:
 > # ln -sf /usr/share/zoneinfo/America/São_Paulo /etc/localtime_
 
 Crie o arquivo /etc/adjtime usando o comando:
@@ -339,7 +339,7 @@ root ALL=(ALL:ALL) ALL
 
 Abaixo dessa linha coloque o nome do usuário novo e copie o rastante da linha, ficando assim:
 
-root ALL=(ALL:ALL) ALL  
+root ALL=(ALL:ALL) ALL
 marcos ALL=(ALL:ALL) ALL
 
 Depois salve o arquivo.
