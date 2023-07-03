@@ -6,13 +6,13 @@ tags: [atalho, jogos, steam, linux, sem, icones]
 subtitle: Saiba como fazer para resolver o problema
 category: [Dicas e tutoriais, Linux]
 comments: true
-#cover-img: /assets/img/path.jpg
+cover-img: https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png
 share-img: https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png)<br/>
+<div align='center'>![Screen shot dos atalhos sem icones](https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png)</div>
 Esse é um tipo de problema que pode acontecer quando você vai trocar de distribuição Linux e prefere fazer backup da pasta **.steam** da pasta **/home/<user>** do que reinstalar tudo do zero.
 
 Acontece que a Steam ao ser instalada no Linux ela criar e armazena os arquivos dela e os seus jogos na pasta **“~/.steam”** e por isso é bem pratico copiar e colar essa pasta ao reinstalar ou mudar de sistema, do que baixar tudo de novo.
@@ -59,7 +59,7 @@ De acordo com os meus testes essas instruções são suficientes, mas por via da
 
 Veja o resultado agora:
 
-![](https://cdn-images-1.medium.com/max/800/1*Hg48LKYjw4PnvPp8cqG3rw.png)
+![Screenshot após recuperar os icones dos atalhos](https://cdn-images-1.medium.com/max/800/1*Hg48LKYjw4PnvPp8cqG3rw.png)
 
 Bom pessoal, é isso, a recriação dos atalhos e ícones é feito somente uma vez, daí você pode fazer o backup da pasta **“~/.steam”**, **“~/.local/share/icons/hicolor”** e **“~/.local/share/applications”** já que é mais rápido.
 
