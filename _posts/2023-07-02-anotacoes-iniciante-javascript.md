@@ -11,7 +11,6 @@ cover-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg
 share-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg
 layout: post
 ---
-
 Recentemente, durante um vídeo que eu assisti no canal do [diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA), eu acabei conhecendo o “[Curso de programação gratuito — JavaScript do Zero](https://www.betrybe.com/curso-de-programacao-javascript-do-zero)” da Trybe.
 
 Esse curso trás muito conhecimento bacana sobre essa linguagem de programação, e obviamente muita coisa seria aprendida ali.
@@ -21,14 +20,14 @@ Já que muita coisa seria aprendida, eu tinha o receio de acabar esquecendo uma 
 A seguir trago umas anotações que eu guardei para eu mesmo, lembrando que são anotações apenas o que é diferente do conteúdo em sí.
 
 **Conteúdo:**
-- [Variaveis](#)
-- [Uso do ponto e virgula](#)
-- [Tipos primitivos](#)
-- [Operadores de calculo/aritméticos](#)
-- [Operadores lógicos](#)
-- [Estrutura condicional if/else](#)
-- [Arrays](#)
-- [For](#)
+- [Variaveis](#variaveis)
+- [Uso do ponto e virgula](#uso-do-ponto-e-virgula)
+- [Tipos primitivos](#tipos-primitivos)
+- [Operadores de calculo/aritméticos](#operadores-de-calculoaritméticos)
+- [Operadores lógicos](#operadores-lógicos)
+- [Estrutura condicional if/else](#estrutura-condicional-ifelse)
+- [Arrays](#arrays)
+- [For](#for)
 
 ## Variaveis:
 
