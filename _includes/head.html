@@ -24,21 +24,8 @@
     {%- endif -%}
   {% endcapture %}
 
-  <title>{{ title }}</title>
-
-  {% if site.author %}
-  <meta name="author" content="{{ site.author }}">
-  {% endif %}
-
-  <meta name="description" content="{{ description }}">
-  <meta property="og:locale" content="pt_BR" />
-
   {% if site.mobile-theme-col %}
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
-  {% endif %}
-
-  {% if site.keywords %}
-  <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
 
   {% if site.rss-description %}
@@ -86,10 +73,6 @@
   <meta property="fb:app_id" content="{{ site.fb_app_id }}">
   {% endif %}
 
-  {% if site.title %}
-  <meta property="og:site_name" content="{{ site.title }}">
-  {% endif %}
-
   {%- capture img -%}
     {%- if page.share-img -%}
       {{ page.share-img }}
@@ -107,34 +90,24 @@
   {%- endcapture -%}
   {%- assign img=img | strip -%}
 
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
-
   {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
   {% endif %}
 
   {% if page.id %}
-  <meta property="og:type" content="article">
   <meta property="og:article:author" content="{{ site.author }}">
-  <meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% else %}
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}">
-  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
+
   {% endif %}
 
   {% if img != "" and img != site.avatar %}
-  <meta name="twitter:card" content="summary_large_image">
+
   {% else %}
-  <meta name="twitter:card" content="summary">
+
   {% endif %}
   <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}">
   <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}">
 
-  <meta property="twitter:title" content="{{ title }}">
   <meta property="twitter:description" content="{{ description }}">
 
   {% if img != "" %}
