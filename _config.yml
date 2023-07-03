@@ -261,7 +261,7 @@ date_format: "%d/%m/%Y"
 timezone: "America/SaoPaulo"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /categories/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
