@@ -6,7 +6,7 @@ tags: [anotações, iniciante, javascript]
 subtitle: Minhas anotações sobre as aulas do curso iniciante de Javascript
 category: [Dicas e tutoriais]
 comments: true
-#cover-img: /assets/img/path.jpg
+cover-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg
 share-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg
 layout: post

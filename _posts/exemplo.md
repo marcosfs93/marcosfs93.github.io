@@ -1,6 +1,6 @@
 ---
-title: -
-date: -
+title:
+date:
 author: M4rQu1Nh0S
 tags: []
 subtitle:
