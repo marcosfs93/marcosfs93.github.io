@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*W0mxFx22nxSHq9dh.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*W0mxFx22nxSHq9dh.png)
+<p align='center'><img alt='Ilustração de uma lista formatado em html' src="https://cdn-images-1.medium.com/max/800/0*W0mxFx22nxSHq9dh.png"/></p>
 Olá pessoal, hoje estou aqui pra trazer uma dica rápida sobre como criar um [índice](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_conte%C3%BAdo) ou sumário com ancoras nas suas postagens. Usar tópicos são úteis tanto para postagens grandes como também para usuários que estão procurando apenas uma parte dos artigos.
 
 Além do índice, que fica no começo das postagens, ser um elemento útil para os leitores que vão saber quais tópicos vão ser abordados ao decorrer da leitura, as ancoras são mais úteis ainda, pois com elas e com um único click o leitor vai parar direto na parte que lhe interessa.
@@ -105,4 +105,3 @@ Da forma em que construimos os dois exemplo, se no **exemplo 1** eu clicar no í
 Tenha em mente que a ID precisa ser única, quando não funciona é sinal de que o ID já está sendo usado por outra parte do site, em casos assim mudar o nome do ID resolve mas se o problema persistir é importante verificar se a construção do código está certa.
 
 Bom pessoal, esse foi o tutorial de hoje, espero ter ajudado.
-

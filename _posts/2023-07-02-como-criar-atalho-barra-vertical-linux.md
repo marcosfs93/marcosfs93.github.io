@@ -14,7 +14,7 @@ layout: post
 
 Hoje vamos aprender a criar um atalho de símbolos para o teclado no Linux, principalmente no ambiente desktop KDE, em que o atalho Ctrl Shift U não funciona igual no GNOME.
 
-Alguns dias atrás eu publiquei um artigo sobre “[Como adicionar símbolos que não tem no teclado](https://marcosfs93.blogspot.com/2023/03/Como%20adicionar%20simbolos%20que%20n%C3%A3o%20tem%20no%20teclado)” em que usamos o código de referencia dos símbolos com a tabela ASCII e Unicode.
+Alguns dias atrás eu publiquei um artigo sobre “[Como adicionar símbolos que não tem no teclado](https://marcosfs93.github.io/2023-07-02-como-adicionar-simbolos-faltando-teclado/)” em que usamos o código de referencia dos símbolos com a tabela ASCII e Unicode.
 
 Porém é inegável que ficar decorando código de símbolo é algo chato e nada intuitivo para usuários novos que estão migrando para o Linux.
 
