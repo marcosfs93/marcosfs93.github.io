@@ -6,7 +6,7 @@ tags: [como, alterar, dpi, ppi, linux]
 subtitle: Aprenda como alterar o tamanho de DPI do sistema
 category: [Dicas e tutoriais, Linux]
 comments: true
-cover-img: https://cdn-images-1.medium.com/max/800/1*nG5inNzRcQ_GvkbvouL8rQ.png
+#cover-img: https://cdn-images-1.medium.com/max/800/1*nG5inNzRcQ_GvkbvouL8rQ.png
 thumbnail-img: https://cdn-images-1.medium.com/max/800/1*nG5inNzRcQ_GvkbvouL8rQ.png
 share-img: https://cdn-images-1.medium.com/max/800/1*nG5inNzRcQ_GvkbvouL8rQ.png
 layout: post
