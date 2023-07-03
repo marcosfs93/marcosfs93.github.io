@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*PewwIs2RCbdTEKLR.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*PewwIs2RCbdTEKLR.png)<br/>
+<p align='center'><img alt='' src="https://cdn-images-1.medium.com/max/800/0*PewwIs2RCbdTEKLR.png"/></p>
 Quem está usando o Ubuntu 22.04 e tentou instalar algum repositório PPA ou qualquer outro repositório de pacotes, deve ter começado a receber as mensagem sobre o apt-key ao rodar o comando ‘apt update’:
 
 > _Warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead (see apt-key(8))._
