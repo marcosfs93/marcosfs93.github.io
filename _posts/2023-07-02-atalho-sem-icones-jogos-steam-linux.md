@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png
 layout: post
 ---
 
-<img align="left" alt='Screen shot dos atalhos sem icones' src="https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png"/>
+<img align="center" alt='Screen shot dos atalhos sem icones' src="https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png"/><br/>
 Esse é um tipo de problema que pode acontecer quando você vai trocar de distribuição Linux e prefere fazer backup da pasta **.steam** da pasta **/home/<user>** do que reinstalar tudo do zero.
 
 Acontece que a Steam ao ser instalada no Linux ela criar e armazena os arquivos dela e os seus jogos na pasta **“~/.steam”** e por isso é bem pratico copiar e colar essa pasta ao reinstalar ou mudar de sistema, do que baixar tudo de novo.
