@@ -118,7 +118,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "dicas, tutoriais, informática, tecnologia, guia"
+#keywords: "dicas, tutoriais, informática, tecnologia, guias"
 
 ######################################
 # --- Colours / background image --- #
