@@ -12,8 +12,8 @@ share-img: https://cdn-images-1.medium.com/max/800/1*idDyqOx-pFuDU2n6UX3-WA.jpeg
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*idDyqOx-pFuDU2n6UX3-WA.jpeg)<br/>
-Dependendo do modelo do teclado que você está usando, alguns símbolos podem estar faltando ou serem diferentes. Por exemplo, no meu teclado, não existem atalhos para os símbolos **|** e **\**
+<p align='center'><img alt='Imagem layout de teclado comum' src="https://cdn-images-1.medium.com/max/800/1*idDyqOx-pFuDU2n6UX3-WA.jpeg"/></p>
+Dependendo do modelo do teclado que você está usando, alguns símbolos podem estar faltando ou serem diferentes. Por exemplo, no meu teclado, não existem atalhos para os símbolos `|` e `\`
 
 Para resolver esse problema, já publiquei dois artigos sobre o assunto:
 
@@ -29,7 +29,7 @@ Para isso, basta acessar o seguinte site:
 
 [https://wiki.linuxquestions.org/wiki/List_of_Keysyms_Recognised_by_Xmodmap](https://wiki.linuxquestions.org/wiki/List_of_Keysyms_Recognised_by_Xmodmap)
 
-Nesse site, você pode procurar o símbolo que deseja adicionar e descobrir o seu nome. Por exemplo, se você quiser adicionar o símbolo “|”, o nome desse símbolo é “**bar**”.
+Nesse site, você pode procurar o símbolo que deseja adicionar e descobrir o seu nome. Por exemplo, se você quiser adicionar o símbolo `|`, o nome desse símbolo é `“bar”`.
 
 ## Veja como editar o arquivo referente ao mapa do teclado:
 1- Antes de começar, faça o backup do arquivo **/usr/share/X11/xkb/symbols/br** para garantir que você possa reverter as mudanças, se necessário.
