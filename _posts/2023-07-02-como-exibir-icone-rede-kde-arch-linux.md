@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*hR6iAwV4ZLmNGI8y.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*hR6iAwV4ZLmNGI8y.png)<br/>
+<p align='center'><img alt='Imagem do icone de redes na area de notificação do KDE' src="https://cdn-images-1.medium.com/max/800/0*hR6iAwV4ZLmNGI8y.png"/></p>
 Recentemente eu instalei o Arch Linux e escolhi o KDE como interface gráfica, porém eu instalei o KDE usando o comando:
 
     $ sudo pacman -S plasma-desktop

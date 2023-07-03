@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*i_FkgnXCMMTFNJtf.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*i_FkgnXCMMTFNJtf.png)<br/>
+<p align='center'><img alt='Imagem do icone de volume na area de notificação do KDE' src="https://cdn-images-1.medium.com/max/800/0*i_FkgnXCMMTFNJtf.png"/></p>
 Além do icone de redes, o icone de volume também estava faltando na area de notificação do KDE, que instalei no Arch Linux.
 
 Esse problema é resolvido instalando um o pacote `plasma-pa`, use esse comando para instalar esse pacote:

@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*oeZgTQmlUkHEhAlo.jpg
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*oeZgTQmlUkHEhAlo.jpg)<br/>
+<p align='center'><img alt='Terminal rodando o comando bootefimgr' src="https://cdn-images-1.medium.com/max/800/0*oeZgTQmlUkHEhAlo.jpg"/></p>
 Um problema que me fez perder horas e horas até encontrar a solução, hoje vamos aprender a como fazer o boot manualmente pelo GRUB e também a como recuperar o boot EFI do Linux.
 
 Pode acontecer de você fazer alterações no sistema que podem quebrar o boot, seja uma alteração direta no inicializador do sistema, das entradas do sistema UEFI ou simplesmente alguma alteração indireta no GRUB.
@@ -135,7 +135,7 @@ O objetivo agora é encontrar o local onde se encontrar os arquivos de boot do s
 
 ----------
 
-Se você não tem mais a partição EFI ou os arquivos foram removidos, [clique aqui](https://marcosfs93.blogspot.com/2023/03/como-dar-boot-manualmente-e-recuperar-o.html#user-content-312---para-criar-uma-nova-parti%C3%A7%C3%A3o-efi) para pular para a parte 3 onde eu ensino a recriar a partição EFI e os arquivos .EFI.
+Se você não tem mais a partição EFI ou os arquivos foram removidos, [clique aqui](#312para-criar-uma-nova-partição-efi) para pular para a parte 3 onde eu ensino a recriar a partição EFI e os arquivos .EFI.
 
 ----------
 
@@ -295,7 +295,7 @@ Pronto, chegamos ao fim da parte 3, nessa parte fomos capazes de criar uma nova 
 
 ----------
 
-Se você tinha pulado a parte 2.2 para recuperar a partição EFI, [clique aqui](https://marcosfs93.blogspot.com/2023/03/como-dar-boot-manualmente-e-recuperar-o.html#user-content-22-encontrando-os-arquivos-de-boot-efi) para continuar de onde parou, porque na parte 2 eu ensinei a como atualizar o carregador de boot do sistema, que precisa dos arquivos EFI da partição EFI.
+Se você tinha pulado a parte 2.2 para recuperar a partição EFI, [clique aqui](#22-encontrando-os-arquivos-de-boot-efi) para continuar de onde parou, porque na parte 2 eu ensinei a como atualizar o carregador de boot do sistema, que precisa dos arquivos EFI da partição EFI.
 
 ----------
 

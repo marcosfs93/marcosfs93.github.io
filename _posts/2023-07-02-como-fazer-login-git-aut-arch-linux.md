@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*zIrqE774fW_PBDsn.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*zIrqE774fW_PBDsn.png)<br/>
+<p align='center'><img alt='Pagina principal do AUR' src="https://cdn-images-1.medium.com/max/800/0*zIrqE774fW_PBDsn.png"/></p>
 Se você estava no AUR e encontrou um pacote abandonado (sem mantenedor) e quer adotar o pacote e também fazer atualizações no PKGBUILD e dos arquivos, neste tutorial vou ensinar a como se autenticar no AUR e enviar o pacote de volta para o AUR.
 
 **Conteúdo**
@@ -71,7 +71,7 @@ _Exemplo:_ **_ssh://_**_aur@aur.archlinux.org/hamsket-nightly-bin_**_.git_**
 
 > _aur@aur.archlinux.org: Permission denied (publickey).
 > fatal: Could not read from remote repository._
-
+>
 > _Please make sure you have the correct access rights
 > and the repository exists._
 
