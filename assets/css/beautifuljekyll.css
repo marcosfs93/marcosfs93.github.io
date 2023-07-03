@@ -1128,16 +1128,7 @@ pre {
 
 /* --- Custom --- */
 
-.post-categories a {
-    color: #404040;
-    text-decoration: none;
-    padding: 0 0.3125rem;
-    opacity: 0.8;
-    border: 1px solid transparent;
-    border-radius: 0.1875rem;
-}
-
-.blog-categories {
+.post-categories {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 0.9375rem;
     margin: 1.875rem 0;
@@ -1146,4 +1137,13 @@ pre {
 .post-categories span {
     color: #404040;
     opacity: 0.8;
+}
+
+.post-categories a {
+    color: #404040;
+    text-decoration: none;
+    padding: 0 0.3125rem;
+    opacity: 0.8;
+    border: 1px solid transparent;
+    border-radius: 0.1875rem;
 }
