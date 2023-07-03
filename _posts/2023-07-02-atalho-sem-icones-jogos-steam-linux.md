@@ -36,9 +36,13 @@ Existem diversos tutoriais que ensinam a gerar atalhos para aplicativos e també
 É necessário reinstalar a Steam, normalmente uma reinstalação baixa tudo do zero, mas se você não quer baixar tudo de novo, você pode pelo menos fazer isso:
 
 1-  Fazer o backup da pasta: **~/.steam/debian-installation/steamapps/common**
+
 2-  Fazer o backup da pasta: **~/.steam/debian-installation/userdata/**
+
 3-  Apagar a pasta **~/.steam**
+
 4-  Reinstalar a Steam
+
 5-  Criar o diretório vazio da pasta **common**, com o comando no terminal:
 
     $ mkdir -p ~/.steam/debian-installation/steamapps/common
