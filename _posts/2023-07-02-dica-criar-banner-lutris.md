@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*oJPKiXg9uLwa2plg.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*oJPKiXg9uLwa2plg.png)<br/>
+<p align='center'><img alt='Screenshot do lutris com alguns banners' src="https://cdn-images-1.medium.com/max/800/0*oJPKiXg9uLwa2plg.png"/></p>
 Olá pessoal, venho trazer uma dica rápida que vai te ajudar a criar imagens para os jogos que você tem no Lutris.
 
 Acontece que não dá pra simplesmente procurar um banner de um jogo que você tem e simplesmente adicionar no Lutris pois a qualidade da imagem pode tanto ficar distorcida como também pode ter uma qualidade inferior.

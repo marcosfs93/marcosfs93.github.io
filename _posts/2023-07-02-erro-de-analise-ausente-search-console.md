@@ -14,11 +14,11 @@ layout: post
 
 Olá pessoal, hoje vou trazer uma dica rápida para corrigir o erro **‘’Erro de análise: ‘’,’’ ou ‘’}’’ ausente’’** do Google Search Console no blogger.
 
-![](https://cdn-images-1.medium.com/max/800/0*065dEHGtvyyZQByI.jpg)
+<p align='center'><img alt='search console exibindo o erro' src="https://cdn-images-1.medium.com/max/800/0*065dEHGtvyyZQByI.jpg"/></p>
 
 Como podem ver, além do Search Console informar o erro ele também cita as páginas onde esse problema acontece, com isso devemos visitar a página que apresenta os problemas e analisa-la.
 
-![](https://cdn-images-1.medium.com/max/800/0*o0Tp3_rCmol0P5io.jpg)
+![Imagem de outro artigo sobre o assunto](https://cdn-images-1.medium.com/max/800/0*o0Tp3_rCmol0P5io.jpg)
 
 Bom pessoal, eu não vou enrolar muito, no caso o problema que estava acontecendo na postagem “Como resolver o “Erro no servidor (5xx)” do Blogger” era nas **aspas** que eu usei no titulo da postagem.
 

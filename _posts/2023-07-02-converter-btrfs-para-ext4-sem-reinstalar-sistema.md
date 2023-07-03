@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*Gd1vzT36SspCkhdI.jpg
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*Gd1vzT36SspCkhdI.jpg)<br/>
+<p align='center'><img alt='Foto de um SSD com a legenda BTRFS para EXT4' src="https://cdn-images-1.medium.com/max/800/0*Gd1vzT36SspCkhdI.jpg"/></p>
 Hoje é possível trocar o sistema de arquivos EXT4 para BTRFS sem precisar formatar o sistema do zero, pra isso usamos o utilitário de conversão **btrfs-convert.**
 
 Usando o **btrfs-convert** além de você trocar o formato EXT4 para BTRFS você ainda pode reverter a conversão caso não tenha gostado, porque o utilitário cria um backup do sistema de arquivos antigo para uma pasta chamada **ext2_saved.**

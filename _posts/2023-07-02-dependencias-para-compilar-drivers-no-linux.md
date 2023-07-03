@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*2IY9plLOxzdYSJYo.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*2IY9plLOxzdYSJYo.png)<br/>
+<p align='center'><img alt='Placa de rede ilustrativa' src="https://cdn-images-1.medium.com/max/800/0*2IY9plLOxzdYSJYo.png"/></p>
 r8168 é um driver de rede para placas realtek, no linux um driver é um módulo do kernel.
 
 Se você precisa compilar este driver, é importante saber quais as dependencias são necessárias antes de compilar, pois sem as dependencias você vai encontrar erros no momento da compilação do driver.

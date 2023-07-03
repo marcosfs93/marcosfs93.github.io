@@ -49,7 +49,7 @@ Começando pela CPU, as configurações que eu uso são essas:
 
 2- Depois disso selecione a opção **Não usar FMA**.
 
-![](https://cdn-images-1.medium.com/max/800/1*aR9NfSS8HE9BQdfRausbtg.jpeg)
+<p align='center'><img alt='Configuração da CPU' src="https://cdn-images-1.medium.com/max/800/1*aR9NfSS8HE9BQdfRausbtg.jpeg"/></p>
 
 O Intel i7 2600 não tem essa instrução e por padrão o Yuzu deixa o uso de FMA ativo, mesmo que o processador não tenha suporte para tal, daí o jogo fica bem travado e só de desabilitar esse recurso no emulador que o jogo já fica bem melhor.
 
@@ -60,7 +60,7 @@ Nas **configurações de API** eu deixo selecionado a **API: Vulkan** e **Dispos
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/1*2r9OvvrWZJRqaZhKPJjBtw.jpeg)
+![Configuração dos gráficos](https://cdn-images-1.medium.com/max/800/1*2r9OvvrWZJRqaZhKPJjBtw.jpeg)
 
 ### 2.2- Avançado:
 Nas configurações avançadas, eu deixei o **Nivel de precisão: High**.
@@ -77,7 +77,7 @@ Nas 3 opções seguintes eu deixei:
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/1*T_2Z5Wx_Km5ENnRQ6UXCQA.jpeg)
+![Gráficos, configuração avançado](https://cdn-images-1.medium.com/max/800/1*T_2Z5Wx_Km5ENnRQ6UXCQA.jpeg)
 
 Além do FMA desabilitado ter ajudado muito em fazer o jogo rodar melhor, usando a opção “compilação assíncrona de shaders” em conjunto tornou a experiência de jogo muito melhor, pois ocorria muitos stutterings sem essas duas configurações.
 
@@ -102,7 +102,7 @@ Se você extraiu a pasta **60 FPS** que estava dentro do .zip para a pasta do jo
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/1*Z9ru_kuA_8EFk6Ms8zQjFg.jpeg)
+![Screenshot mostrando o mod disponivel nas configurações](https://cdn-images-1.medium.com/max/800/1*Z9ru_kuA_8EFk6Ms8zQjFg.jpeg)
 
 ## 4- Solução para problemas de travamentos aleatórios:
 Pode acontecer de você estar jogando e do nada o jogo congelar e cravar nos **0 fps** enquanto o som continua saindo normalmente.
@@ -118,7 +118,7 @@ Depois disso basta tentar jogar novamente e ver se o problema foi resolvido, se 
 
 Você só precisar criar um arquivo que será carregado durante a inicialização do sistema, na prática você só precisa rodar esse comando:
 
-> [_echo ‘vm.max_map_count=262144’ | sudo tee /etc/sysctl.d/99-yuzu-maps.conf_](https://github.com/yuzu-emu/yuzu/issues/7397#issuecomment-974834996)
+> [_echo ‘vm.max_map_count=262144’ `|` sudo tee /etc/sysctl.d/99-yuzu-maps.conf_](https://github.com/yuzu-emu/yuzu/issues/7397#issuecomment-974834996)
 
 ### 4.2- Desative ou remova o mod 60 fps
 O mod 60 fps, como seu nome diz, é um mod que permite que você saia do limite de 30 FPS no jogo para ter no máximo 60 fps.

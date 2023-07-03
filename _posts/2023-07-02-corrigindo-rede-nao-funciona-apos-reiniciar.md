@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*RM3u9CIlhfOW2YpF.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*RM3u9CIlhfOW2YpF.png)
+<p align='center'><img alt='logo do linux e da realtek r8168' src="https://cdn-images-1.medium.com/max/800/0*RM3u9CIlhfOW2YpF.png"/></p>
 Assim como já aconteceu comigo no Windows, o meu driver de rede desaparecia ao reiniciar o sistema e reaparecia ao reiniciar novamente, um problema que vai e volta cada vez que o PC é reiniciado pelo sistema.
 
 Hoje eu vou ensinar a como resolver esse problema no Linux, a solução é quase igual a do Windows bastando trocar o “driver” de rede por um outro sem esse problema, mas como sabemos o Linux não trabalha com drivers, e sim com módulos de kernel.

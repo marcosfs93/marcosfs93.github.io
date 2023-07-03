@@ -1,5 +1,5 @@
 ---
-title: Linux — Diminuindo a resolução de tela para um App
+title: Linux - Diminuindo a resolução de tela para um App
 date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [linux, diminuir, resolução, tamanho, do, app, aplicativo]
@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*LuCfGjrSx4b8Gm30.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*LuCfGjrSx4b8Gm30.png)<br/>
+<p align='center'><img alt='comparativo do app com resolucao padrao e com a versao reduzida' src="https://cdn-images-1.medium.com/max/800/0*LuCfGjrSx4b8Gm30.png"/></p>
 Nem todo mundo está usando a resolução Full HD no PC (1920x1080) e podem existir apps que só funcionam perfeitamente a partir dessa resolução, caso contrário parte da sua interface não vai caber na tela, o que pode prejudicar sua experiencia e produtividade com o app.
 
 Felizmente no Linux, seja GTK ou QT, é possível reduzir o tamanho da sua interface exclusivamente para um app especifico, a seguir vou compartilhar os comandos que ajudam a diminuir o **DPI** ou o tamanho das **fontes**, cada app vai se comportar de uma forma diferente, dependendo do comando.
