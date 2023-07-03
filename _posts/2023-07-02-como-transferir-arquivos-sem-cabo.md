@@ -10,7 +10,7 @@ thumbnail-img: https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.
 share-img: https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png
 ---
 
-![pagina do airmore](https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png)
+<p align='center'><img alt='pagina do airmore' src="https://cdn-images-1.medium.com/max/800/1*aDzuieGxnMblBUv_Qgy8NA.png"/></p>
 Eu já usei mais de um aplicativo quando eu queria transferir algum arquivo do celular para o computador, todos eles funcionam em modo lista, algo muito inconveniente quando queremos transferir uma imagem especifica para o Computador.
 
 Basicamente no modo lista temos apenas o nome dos arquivos e muitos dos aplicativos de tirar fotos geram nomes genéricos, como por exemplo: **004290286be69aa1836cc72f4eaacd6a.jpg**, criando a necessidade de renomear o arquivo no celular primeiro pra depois tranferir usando aplicativos. veja como é no **ASUS File Manager**:
@@ -19,7 +19,7 @@ Basicamente no modo lista temos apenas o nome dos arquivos e muitos dos aplicati
 
 Felizmente existe uma ferramenta bem melhor (e bonita) nesse quesito, o **AirMore**. Com ele você faz a mesma coisa que os outros apps de transferência, mas com um diferencial bem mais conveniente: no caso das imagens uma miniatura já aparece na tela, veja:
 
-![](https://cdn-images-1.medium.com/max/800/1*ZSFcnsYiM_rZttjmgrSq7g.png)
+![visualizando no pc os arquivos do celular](https://cdn-images-1.medium.com/max/800/1*ZSFcnsYiM_rZttjmgrSq7g.png)
 
 Viram? mais conveniente não acham? e ainda tem mais funções, e até apresenta informações sobre a unidade do aparelho:
 

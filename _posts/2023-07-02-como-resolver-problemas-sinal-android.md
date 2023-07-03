@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*4txYfV8VFYKUSuDf.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*4txYfV8VFYKUSuDf.png)<br/>
+<p align='center'><img alt='Ilustração do icone de sinal do android' src="https://cdn-images-1.medium.com/max/800/0*4txYfV8VFYKUSuDf.png"/></p>
 Problemas de sinal que podem surgir em ROMs customizadas do Android, uma ROM modificada pode trazer várias opções ao usuário podendo dar upgrade em uma versão mais antiga para uma versão mais nova no Android ou simplesmente trazer melhorias no sistema atual.
 
 Hoje eu vou ensinar a como resolver esse problema sem que você tenha que trocar a ROM de novo, ao contrário do que muitos pensam o problema de sinal não é um bug da ROM, e sim de uma simples configuração do **Tipo de rede** que está pré selecionado no sistema.
@@ -39,33 +39,33 @@ O problema é fácil de resolver, vamos dar uma olhada no tipo de conexão que e
 
 2- Nessa parte clique em: **Sobre o dispositivo**.
 
-![](https://cdn-images-1.medium.com/max/800/0*1OZLgk_bmZYCR-k6.jpg)
+![Sobre o dispositivo](https://cdn-images-1.medium.com/max/800/0*1OZLgk_bmZYCR-k6.jpg)
 
 3- Agora é só ir na opção **Status do Chip**.
 
-![](https://cdn-images-1.medium.com/max/800/0*wqh9jAJDYINOvmET.jpg)
+![Status do chip](https://cdn-images-1.medium.com/max/800/0*wqh9jAJDYINOvmET.jpg)
 
 4- Agora é só visualizar qual é a rede atual:
 
-![](https://cdn-images-1.medium.com/max/800/0*KCsR5mKpcls06VDc.jpg)
+![Mostrando a rede atual e intensidade de sinal](https://cdn-images-1.medium.com/max/800/0*KCsR5mKpcls06VDc.jpg)
 
 No meu caso a rede que está funcionando é a [UMTS/HSPA (WCDMA)](https://www.blogger.com/blog/post/edit/5404793559749117459/2368474109045558472#), sabendo qual é a rede atual podemos continuar.
 
 5- Volte para o menu de **Configurações** e vá em **Rede e internet**.
 
-![](https://cdn-images-1.medium.com/max/800/0*iOgcl-hVG5IaPFyj.jpg)
+![Rede e internet](https://cdn-images-1.medium.com/max/800/0*iOgcl-hVG5IaPFyj.jpg)
 
 6- Selecione a opção **Rede móvel**.
 
-![](https://cdn-images-1.medium.com/max/800/0*opTzhHVGGM_Su4zM.jpg)
+![Rede móvel](https://cdn-images-1.medium.com/max/800/0*opTzhHVGGM_Su4zM.jpg)
 
 7- Selecione a opção **Tipo de rede preferencial**.
 
-![](https://cdn-images-1.medium.com/max/800/0*Byn0dmEgoTjPKf0-.jpg)
+![Tipo preferencial](https://cdn-images-1.medium.com/max/800/0*Byn0dmEgoTjPKf0-.jpg)
 
 8- Agora é só selecionar os tipos de acordo com a disponibilidade da rede que você está usando junto com as outras que podem estar disponíveis nos locais onde você mora ou frequenta.
 
-![](https://cdn-images-1.medium.com/max/800/0*pBPh3mXIzfHzyq4q.jpg)
+![Selecionando a opção mais completa](https://cdn-images-1.medium.com/max/800/0*pBPh3mXIzfHzyq4q.jpg)
 
 Como a rede atual minha é UMTS/HSPA — 3G eu posso selecionar todas as opções que contém o tipo **WCDMA**.
 

@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*j_dQrIKqsa84kNd3.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*j_dQrIKqsa84kNd3.png)<br/>
+<p align='center'><img alt='logo do flatpak' src="https://cdn-images-1.medium.com/max/800/0*j_dQrIKqsa84kNd3.png"/></p>
 Se você tem algum aplicativo **nativo** para Linux e quer usar no lugar dele uma versão em **Flatpak**, talvez você queira usar as mesmas configurações que você já tinha com a versão nativa.
 
 ## Diretórios com configurações e dados dos apps

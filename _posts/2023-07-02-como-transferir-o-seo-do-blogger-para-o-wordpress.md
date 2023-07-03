@@ -10,7 +10,7 @@ thumbnail-img: https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1
 share-img: https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png
 ---
 
-<p><a href="https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png" style="text-align: center;"><img alt="ilustração, transição blogger para wordpress" src="https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s16000/migracao-1.png" title="ilustração, transição blogger para wordpress" /></a></p>
+<p align='center'><img alt='ilustração, transição blogger para wordpress' src="https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png"/></p>
 Olá pessoal, hoje estou trazendo um guia exclusivo sobre como transferir o SEO do seu blog antigo para o novo blog que se encontra em uma nova plataforma.
 
 Atualmente tem muito tutorial ensinando como migrar o Blogger para o WordPress, porem grande parte desses tutoriais ensinam apenas como importar e exportar as postagens que você tinha sem falar de um ponto muito importante, o  **SEO**.
