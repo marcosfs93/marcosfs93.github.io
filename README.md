@@ -1,4 +1,5 @@
 # Site do M4rQu1Nh0S
+![Capa](/capa.jpg)
 
 ## Descrição
 Site criado em 2015 na plataforma blogger, começando como "Blog do M4rQu1Nh0S" e depois "Site do M4rQu1Nh0S", nas plataformas:
