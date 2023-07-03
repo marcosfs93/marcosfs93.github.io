@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*kkDV351ft6x-EGfy.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*kkDV351ft6x-EGfy.png)<br/>
+<p align='center'><img alt='Screenshot do manual do bootctl' src="https://cdn-images-1.medium.com/max/800/0*kkDV351ft6x-EGfy.png"/></p>
 Nem todas as distribuições Linux usam o GRUB como carregador de inicialização do sistema, o Pop! OS por exemplo usa no lugar do GRUB o **bootctl** do systemd, principalmente quando você instala o sistema em modo UEFI.
 
 Enquanto no GRUB editamos o arquivo /etc/default/grub, adicionamos parâmetros do kernel e então usamos o comando **update-grub** no terminal, com o bootctl o processo é diferente.

@@ -13,9 +13,9 @@ layout: post
 ---
 
 <p align='center'><img alt='Sistema no SSD e /home no HD' src="https://cdn-images-1.medium.com/max/800/0*DlC_WTHcZ3UUiIhV.png"/></p>
-Quem tem SSDs sabe que uma das maiores vantagens sobre o HD é sua velocidade de leitura e escrita, que consequentemente agilizam em muito o tempo de inicialização do sistema operacional, embora sua desvantagem seja a sua **capacidade total**.
+Quem tem SSD sabe que uma das maiores vantagens sobre o HD é sua velocidade de leitura e escrita, que consequentemente agilizam em muito o tempo de inicialização do sistema operacional, embora sua desvantagem seja a sua **capacidade total**.
 
-Uma das alternativas quanto a esse problema, é usar HDs junto com SSDs onde o SSD vai armazenar o sistema, para desfrutar das vantagens de velocidade, e os HDs comuns, para desfrutar da sua capacidade máxima de armazenamento.
+Uma das alternativas quanto a esse problema, é usar HDs junto com SSDs onde o SSD vai armazenar o sistema, para desfrutar das vantagens de velocidade, e os HDs comuns, para armazenar a pasta /home e desfrutar da sua capacidade máxima de armazenamento.
 
 É possível fazer esse tipo de configuração tanto no Windows quanto no Linux, mas no Linux em particular a coisa simplesmente funciona assim: SSD vai contar a partição raiz do sistema **( / )** enquanto a pasta home ( **/home/user** ) fica no HD.
 

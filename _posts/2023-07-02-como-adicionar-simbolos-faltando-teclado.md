@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*25qjCaUBiEYNF_IE.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*25qjCaUBiEYNF_IE.png)<br/>
+<p align='center'><img alt='Teclado preto' src="https://cdn-images-1.medium.com/max/800/0*25qjCaUBiEYNF_IE.png"/></p>
 Olhe para o seu teclado, todas os símbolos estão presentes? Dependendo do tipo e do modelo do teclado, vai ter teclas que estão presentes e outras que não estão, por exemplo as teclas **barra invertida** **“ \ “** e **barra vertical** **“ | “**.
 
 ## Tabela ASCII
@@ -21,11 +21,11 @@ Na tabela a seguir você verá vários caracteres disponíveis nos padrões ASCI
 
 ### Tabela regular ASCII (Código 0 até 127)
 
-![](https://cdn-images-1.medium.com/max/800/0*gzUcqDg3hnjTkmhm.png)
+![Imagem da tabela do 0 até 127](https://cdn-images-1.medium.com/max/800/0*gzUcqDg3hnjTkmhm.png)
 
 ### Tabela estendida ASCII (Código 128 até 255)
 
-![](https://cdn-images-1.medium.com/max/800/0*Knwbxzjb1GlsrBpZ.png)
+![Imagem da tabela do 128 até 255](https://cdn-images-1.medium.com/max/800/0*Knwbxzjb1GlsrBpZ.png)
 
 ## Atalho dos caracteres no Windows
 No Windows quando precisamos ativar um caractere mas ele não está no teclado, podemos abrir o aplicativo **Mapa de Caracteres,** ou de forma mais prática podemos usar um atalho com a tecla Alt + teclado numérico.
