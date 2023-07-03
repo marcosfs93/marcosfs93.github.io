@@ -12,5 +12,5 @@ share-img: /assets/img/path.jpg
 layout: post
 ---
 
-texto
+<p align='center'><img alt='descricao' src="url-img"/></p>
 

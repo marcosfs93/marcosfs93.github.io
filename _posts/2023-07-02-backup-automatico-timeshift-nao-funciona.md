@@ -18,7 +18,7 @@ Após conseguir instalar o app e depois de aprender a configurar adequadamente o
 
 Porém eu percebi dias depois que os snapshots automáticos não estavam acontecendo, algo que é configurado nessa parte:
 
-![](https://cdn-images-1.medium.com/max/800/1*faTjGReS9EC7bnHTBNlmsA.png)
+<p align='center'><img alt='Screenshot da configuração de agendamentos de backup automático' src="https://cdn-images-1.medium.com/max/800/1*faTjGReS9EC7bnHTBNlmsA.png"/></p>
 
 Eu tinha configurado o timeshift para manter 3 backups da semana e 6 backups diários, mas nenhum backup automático aconteceu.
 
