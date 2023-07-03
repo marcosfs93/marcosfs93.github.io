@@ -26,7 +26,7 @@ Eu sou um exemplo de usuário que tem um teclado que não tem todos os atalhos d
 
 Atualmente eu tenho esse teclado:
 
-![](https://cdn-images-1.medium.com/max/800/1*bRKAyByI6YXvaSXAk5xiaA.png)
+<p align='center'><img alt='Imagem de teclado gamer com iluminação' src="https://cdn-images-1.medium.com/max/800/1*bRKAyByI6YXvaSXAk5xiaA.png"/></p>
 
 Observando com atenção você pode notar que a **barra invertida** `\` e **barra vertical** `|` está faltando nesse teclado, pelo menos olhando nas teclas dele.
 
@@ -47,31 +47,31 @@ No Windows eu podia usar os atalhos **Alt + 92** e **Alt + 124** para inserir es
 
 Pra esse tipo de teclado que eu tenho, a configuração usada no KDE é essa:
 
-Modelo de teclado usado no KDE é: **Generic | Generic 105-key PC (intl.)**.
+Modelo de teclado usado no KDE é: `Generic | Generic 105-key PC (intl.)`.
 
-![](https://cdn-images-1.medium.com/max/800/1*v8OjNq7jyZD4bqWa5LCORQ.jpeg)
+![Screenshot das configurações de teclado do KDE](https://cdn-images-1.medium.com/max/800/1*v8OjNq7jyZD4bqWa5LCORQ.jpeg)
 
 Quanto ao **Layout** eu uso o pt-br padrão:
 
-![](https://cdn-images-1.medium.com/max/800/1*PrxzeCY3hjUh0hpmCh_dGA.jpeg)
+![Imagem mostrando como adicionar mais layouts](https://cdn-images-1.medium.com/max/800/1*PrxzeCY3hjUh0hpmCh_dGA.jpeg)
 
 Como eu havia dito, o meu teclado, pelo menos visto superficialmente não tem a barra em pé e a contra barra, mas ao visualizar o mapa do Layout há mais atalhos para símbolos do que aqueles que estão marcados nas teclas físicas.
 
 Para visualizar o mapa do layout é só clicar em **+ Adicionar** (conforme a imagem acima), selecionar o teclado pt-br e clicar em **Visualizar**, conforme a imagem abaixo.
 
-![](https://cdn-images-1.medium.com/max/800/1*EZNgQFfBI-3H0KK7y0niTg.jpeg)
+![Selecionando o tipo de layout](https://cdn-images-1.medium.com/max/800/1*EZNgQFfBI-3H0KK7y0niTg.jpeg)
 
 Esse é o mapa do layout pt-br visualizado no KDE:
 
-![](https://cdn-images-1.medium.com/max/800/1*idDyqOx-pFuDU2n6UX3-WA.jpeg)
+![Screenshot do mapa do layout](https://cdn-images-1.medium.com/max/800/1*idDyqOx-pFuDU2n6UX3-WA.jpeg)
 
 Em comparação com as teclas físicas, pelo mapa do layout podemos ver que existem mais atalhos de símbolos em quase todas as teclas, os simbolos podem ser ativados usando a tecla **AltGr** e também **AltGr** + **Shift** que podemos chamar de modificadores de 3º e 4º nível.
 
-Mesmo que esse layout nos dê acesso há mais símbolos, a barra em pé ( | ) continua faltando.
+Mesmo que esse layout nos dê acesso há mais símbolos, a barra em pé `|` continua faltando.
 
 Felizmente, conforme eu marquei na imagem acima, a tecla **N** não tem um símbolo próprio, nem de 3º e nem de 4º nível, isso significa que podemos usar essa tecla para adicionar o símbolo que tá faltando.
 
-A barra em pé e a barra vertical são importantes já que no terminal, por exemplo, precisamos dela para certos [comandos que adicionam entradas de boot EFI](https://sitemrcs.blogspot.com/2022/06/como-dar-boot-manualmente-e-recuperar-o.html) na BIOS e também em conjunto com o comando **grep** (**dmesg | grep nvidia**, por exemplo).
+A barra em pé e a barra vertical são importantes já que no terminal, por exemplo, precisamos dela para certos [comandos que adicionam entradas de boot EFI](https://sitemrcs.blogspot.com/2022/06/como-dar-boot-manualmente-e-recuperar-o.html) na BIOS e também em conjunto com o comando grep (`dmesg | grep nvidia`, por exemplo).
 
 ## Como remapear uma tecla do teclado
 Enfim, o objetivo de exemplo nesse tutorial é criar um atalho para a **barra vertical** através da tecla **N**, pra isso vamos usar o comando **xmodmap**.
@@ -83,7 +83,7 @@ O xmodmap precisa da identificação da tecla que vai ser usada, ou seja a **key
 
 Pra isso devemos usar o comando **xev** que vai abrir uma mini janela e o terminal vai trazer várias informações de acordo com a tecla digitada:
 
-![](https://cdn-images-1.medium.com/max/800/1*Thao9xC9GXdMpmSlnYqibQ.jpeg)
+![Screenshot do terminal rodando o comando xev](https://cdn-images-1.medium.com/max/800/1*Thao9xC9GXdMpmSlnYqibQ.jpeg)
 
 No meu caso eu quero saber a keycode da tecla n, e o terminal vai informar conforme eu marquei na imagem acima, sendo assim a tecla **N é keycode 57.**
 
@@ -105,7 +105,7 @@ Agora que descobrimos qual é o nome do símbolo que é reconhecido pelo xmodmap
 
 Pra isso nós usamos o comando **xmodmap -pke** que vai trazer a lista completa com as teclas mapeadas do layout e como já sabemos a **keycode** da tecla n, é só ir até essa parte do keycode 57:
 
-![](https://cdn-images-1.medium.com/max/800/1*_LFprdAQ-n2pmxcISxzV-Q.jpeg)
+![Encontrando o keycode da letra N](https://cdn-images-1.medium.com/max/800/1*_LFprdAQ-n2pmxcISxzV-Q.jpeg)
 
 Certo, no caso da tecla N o mapeamento atual é esse:
 
@@ -118,7 +118,7 @@ O comando a ser usado para isso é:
 
     $ xmodmap -e "keycode 57 = n N n N bar"
 
-Como eu havia dito no começo, a tecla N era a única que não tinha um atalho de símbolo e justamente por isso só bastou acrescentar uma palavra no final para adicionar o atalho do símbolo “|”.
+Como eu havia dito no começo, a tecla N era a única que não tinha um atalho de símbolo e justamente por isso só bastou acrescentar uma palavra no final para adicionar o atalho do símbolo `|`.
 
 Esse símbolo vai ser ativado quando eu usar o **AltGr + N**, ou seja, um atalho de 3º nivel e eu ainda tenho a opção de colocar outro atalho para ser usado a combinação **AltGr + Shift + N**, ou seja, de 4º nível.
 
@@ -131,9 +131,8 @@ Primeiro nós precisamos criar um arquivo executável, com o comando xmodmap den
 
 1- Abra o terminal e digite:
 
-> _$ echo ‘#!/bin/bash
-> sleep 10 && xmodmap -e “keycode 57 = n N n N bar”
-> exit;’ | sudo tee /usr/bin/remap57.sh_
+    $ echo '#!/bin/bash sleep 10 && xmodmap -e “keycode 57 = n N n N bar” exit;' | sudo tee /usr/bin/remap57.sh_
+
 
 2- Depois use o comando:
 
@@ -147,7 +146,7 @@ Clique em **Adicionar script…**
 
 Selecionar o caminho do script, /usr/bin/remap57.sh
 
-![](https://cdn-images-1.medium.com/max/800/1*YHJOYwqIe3Wj_Oen23HhTw.jpeg)
+![Screenshot das opções de auto start no KDE](https://cdn-images-1.medium.com/max/800/1*YHJOYwqIe3Wj_Oen23HhTw.jpeg)
 
 Vale lembrar que há mais formas de automatizar a execução do script ao iniciar o sistema, o exemplo acima foi um dos exemplos disponíveis.
 
