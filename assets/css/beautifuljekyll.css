@@ -1136,3 +1136,9 @@ pre {
     border: 1px solid transparent;
     border-radius: 0.1875rem;
 }
+
+.post-categories {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.9375rem;
+    margin: 1.875rem 0;
+}
