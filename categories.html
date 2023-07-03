@@ -3,12 +3,8 @@ layout: page
 title: 'Categorias'
 ---
 
-<div id="archives">
 {% for category in page.categories %}
-  <!-- The next snippet will go here... -->
-{% endfor %}
-
-{% assign moreThanOneInCategory = false %}
+  {% assign moreThanOneInCategory = false %}
   {% assign posts = site.categories[category] %}
 
   {% for post in posts %}
@@ -17,9 +13,7 @@ title: 'Categorias'
     {% endif %}
   {% endfor %}
 
-  <!-- The next snippet will go here... -->
-
-{% if moreThanOneInCategory == true %}
+  {% if moreThanOneInCategory == true %}
     <div class="related-posts">
       <h3>Other posts archived in “{{ category }}”</h3>
 
@@ -36,4 +30,4 @@ title: 'Categorias'
       </ul>
     </div>
   {% endif %}
-</div>
+{% endfor %}
