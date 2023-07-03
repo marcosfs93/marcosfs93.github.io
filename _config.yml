@@ -120,6 +120,8 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "dicas, tutoriais, informática, tecnologia, guias"
 
+locale: pt_BR
+
 ######################################
 # --- Colours / background image --- #
 ######################################
