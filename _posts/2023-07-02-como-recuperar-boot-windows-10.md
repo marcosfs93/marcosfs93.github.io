@@ -12,8 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*ypiGhPzvghyDSeXt.jpg
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*ypiGhPzvghyDSeXt.jpg)
-
+![](https://cdn-images-1.medium.com/max/800/0*ypiGhPzvghyDSeXt.jpg)<br/>
 Não lembro quantas vezes eu já me deparei com esse tipo de erro, geralmente é algo que vem a acontecer durante os processos de dual boot com outro sistema operacional, na ultima vez que isso aconteceu comigo foi ao manter o Windows em um SSD em GPT e usar outro sistema em outro SSD em MBR.
 
 Eu não sei se é conflito da BIOS com o UEFI mas o **Windows Boot Manager**, que é o responsável por iniciar o boot do Windows, desapareceu da lista de boot que aparece ao ligar o PC após passar alguns dias usando outro sistema.
