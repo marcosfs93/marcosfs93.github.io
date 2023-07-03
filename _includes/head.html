@@ -31,6 +31,7 @@
   {% endif %}
 
   <meta name="description" content="{{ description }}">
+  <meta property="og:locale" content="pt_BR" />
 
   {% if site.mobile-theme-col %}
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
@@ -149,6 +150,4 @@
       {% include {{ file }} %}
     {% endfor %}
   {% endif %}
-
-  {% seo %}
 </head>
