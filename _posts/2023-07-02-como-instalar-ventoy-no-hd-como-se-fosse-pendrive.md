@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*co4tQYQ1me_XTiKA.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*co4tQYQ1me_XTiKA.png)<br/>
+<p align='center'><img alt='Tela inicial do Ventoy' src="https://cdn-images-1.medium.com/max/800/0*co4tQYQ1me_XTiKA.png"/></p>
 O Ventoy é um aplicativo diferente dos outros quando se fala de criar um pen drive bootável de um sistema operacional, com ele você simplesmente pode copiar e colar um arquivo .ISO diretamente no pen drive sem ter que ficar formatando.
 
 Isso é bem diferente daquele outro processo de pegar um arquivo .ISO de um sistema operacional e grava-lo com um app gravador de imagem como o **Rufus**, pois pra cada ISO gravada no pen drive, uma formatação é exigida.
@@ -23,18 +23,18 @@ Porém mesmo com multiboot você precisa de pen drive e precisa formata-lo, sem 
 
 **Conteúdo**
 
-- [A maior vantagem Ventoy](#1b7f)
-- 1[. Regras para instalar o Ventoy no HD](#2546)
-- 1.2. [Não pode existir espaço livre antes da 1ª partição do HD](#0a3d)
-- 1.3. [A 1ª partição deve usar o sistema NTFS ou sistemas EXT2/3/4](#b429)
-- 1.4. [A 1ª partição deve ter espaço livre, para armazenas as ISOs](#6c1b)
-- 2[. Como particionar o HD manualmente](#caf7)
-- 3[. Como instalar o Ventoy no HD interno](#1fcd)
-- 4[. Corrigindo problemas de escrita](#bd51)
-- 4.1. [Para partições sem Windows instalado](#5c09)
-- 4.2. [Para partições com o Windows instalado](#7efe)
-- [Considerações finais](#364d)
-- [Referencias](#c9a8)
+- [A maior vantagem Ventoy](#a-maior-vantagem-ventoy)
+- 1[. Regras para instalar o Ventoy no HD](#1--regras-para-instalar-o-ventoy-no-hd)
+- 1.1[. Não pode existir espaço livre antes da 1ª partição do HD](#11--não-pode-existir-espaço-livre-antes-da-1ª-partição-do-hd)
+- 1.2[. A 1ª partição deve usar o sistema NTFS ou sistemas EXT2/3/4](#12--a-1ª-partição-deve-usar-o-sistema-ntfs-ou-sistemas-ext234)
+- 1.3[. A 1ª partição deve ter espaço livre, para armazenas as ISOs](#13--a-1ª-partição-deve-ter-espaço-livre-para-armazenas-as-isos)
+- 2[. Como particionar o HD manualmente](#2--como-particionar-o-hd-manualmente)
+- 3[. Como instalar o Ventoy no HD interno](#3--como-instalar-o-ventoy-no-hd-interno)
+- 4[. Corrigindo problemas de escrita](#4--corrigindo-problemas-de-escrita)
+- 4.1[. Para partições sem Windows instalado](#41--para-partições-sem-windows-instalado)
+- 4.2[. Para partições com o Windows instalado](#42--para-partições-com-o-windows-instalado)
+- [Considerações finais](#considerações-finais)
+- [Referencias](#referencias)
 
 ## A maior vantagem Ventoy
 Com o Ventoy você só formata o seu pen drive **uma única vez**, e você pode simplesmente copiar e colar um arquivo ou vários arquivos .ISO diretamente no pen drive, simples assim, sinônimo de facilidade, praticidade e que preserva a vida útil do dispositivo pois você evita de formata-lo.
@@ -48,7 +48,7 @@ Antes de começarmos é importante que você **tenha feito o backup do HD** que 
 ## 1- Regras para instalar o Ventoy no HD
 Em teoria o processo é simples, o Ventoy usa a 1ª e a 2ª partição do HD para funcionar, sendo que a primeira partição é usada para guardar os arquivos de imagem .ISO e a segunda partição é do boot EFI que é obrigatória em PCs com o UEFI.
 
-![](https://cdn-images-1.medium.com/max/800/0*8dwa0PGRYSvvYWBn.png)
+![Imagem com um esquema de layout a ser usado pelo ventoy](https://cdn-images-1.medium.com/max/800/0*8dwa0PGRYSvvYWBn.png)
 
 Além disso existe requisitos bem estritos para conseguir tornar o HD elegível para ter conseguir instalar o Ventoy, e elas são:
 
@@ -90,7 +90,7 @@ Agora que já foi explicado os requisitos, agora vamos informar como o HD deve s
 
 Exemplo:
 
-![](https://cdn-images-1.medium.com/max/800/1*cAIgAw5musbJUhdbPKCLMA.jpeg)
+![Separando as partições](https://cdn-images-1.medium.com/max/800/1*cAIgAw5musbJUhdbPKCLMA.jpeg)
 
 A 1ª partição (**/dev/sdc1**) deve ter espaço livre, iniciando no 1º Mb do disco e em formato NTFS.
 
@@ -100,7 +100,7 @@ A 3ª partição é a minha partição pessoal, ela ou novas partições deveram
 
 5- Nessa parte eu vou trocar o formato da partição para **exfat** e excluir a partição **sdc2**:
 
-![](https://cdn-images-1.medium.com/max/800/1*FiFiZlUxZsYtIsLMDbHcpw.jpeg)
+![Deixando a partição 2 livre para o Ventoy](https://cdn-images-1.medium.com/max/800/1*FiFiZlUxZsYtIsLMDbHcpw.jpeg)
 
 Essas modificações foram necessárias por dois motivos:
 
@@ -125,11 +125,11 @@ Para instalar o Ventoy no HD, precisamos usar o script **Ventoy2Disk.sh** que es
 
 Você verá algo assim:
 
-![](https://cdn-images-1.medium.com/max/800/1*LqTExy4kXKIeRNG5vceLWA.jpeg)
+![Terminal rodando o utilitário do ventoy](https://cdn-images-1.medium.com/max/800/1*LqTExy4kXKIeRNG5vceLWA.jpeg)
 
 3- Pronto, o Ventoy já está instalado no HD e agora só precisamos **ativar as flags de boot** da partição efi, você só precisa deixar a partição igual a **/dev/sdc2** da imagem abaixo:
 
-![](https://cdn-images-1.medium.com/max/800/1*-b7ar3oS1z4B4SrBFNGjRg.jpeg)
+![Gparted mostrando as mudanças feitas pelo utilitário do ventoy](https://cdn-images-1.medium.com/max/800/1*-b7ar3oS1z4B4SrBFNGjRg.jpeg)
 
 4- Reinicie o PC e faça o teste, no meu caso eu tive que apertar F11 pra selecionar o disco de boot e selecionei o HD com o Ventoy, rodou perfeitamente.
 
@@ -163,7 +163,7 @@ Depois disso você pode continuar usando o HD normalmente e quando precisar inst
 
 O Ventoy constantemente recebe melhorias e tem novas versões lançadas, felizmente você consegue atualizar o Ventoy do HD sem ter que passar por tudo isso de novo bastando rodar o App, selecionar o disco e atualizar:
 
-![](https://cdn-images-1.medium.com/max/800/1*6o51wDWCH8L8hb4AJsFbbg.jpeg)
+![Janela mostrando a parte de atualização do ventoy no hd](https://cdn-images-1.medium.com/max/800/1*6o51wDWCH8L8hb4AJsFbbg.jpeg)
 
 É importante ter uma partição pequena só para as .ISO no Ventoy, pois no momento em que rodamos uma live cd de um sistema linux, a partição que contem a ISO fica ocupada e daí não teria como gerenciar outros arquivos dessa partição.
 
@@ -172,6 +172,7 @@ Caso queira colaborar com mais informações ou informar problemas, deixe seu co
 Como eu não vi ninguém ensinando a instalar o Ventoy usando um HD interno eu decidi encontrar uma forma de fazer isso e agora estou aqui compartilhando com vocês, espero ter ajudado. Até a próxima!
 
 ### Referencias:
--[https://www.ventoy.net/en/doc_disk_layout_gpt.html](https://www.ventoy.net/en/doc_disk_layout_gpt.html)
--[https://www.ventoy.net/en/doc_non_destructive.html](https://www.ventoy.net/en/doc_non_destructive.html)
+
+- [https://www.ventoy.net/en/doc_disk_layout_gpt.html](https://www.ventoy.net/en/doc_disk_layout_gpt.html)
+- [https://www.ventoy.net/en/doc_non_destructive.html](https://www.ventoy.net/en/doc_non_destructive.html)
 
