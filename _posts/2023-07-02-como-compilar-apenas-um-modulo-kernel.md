@@ -113,6 +113,7 @@ Espero que tenha sido útil, até a próxima.
 
 **Referencias:**
 
-- [https://serverfault.com/questions/674415/compiling-an-individual-kernel-module-debian-ubuntu](https://serverfault.com/questions/674415/compiling-an-individual-kernel-module-debian-ubuntu)
-- [https://askubuntu.com/questions/168279/how-do-i-build-a-single-in-tree-kernel-module#338403](https://askubuntu.com/questions/168279/how-do-i-build-a-single-in-tree-kernel-module#338403)
+* [https://serverfault.com/questions/674415/compiling-an-individual-kernel-module-debian-ubuntu](https://serverfault.com/questions/674415/compiling-an-individual-kernel-module-debian-ubuntu)
+
+* [https://askubuntu.com/questions/168279/how-do-i-build-a-single-in-tree-kernel-module#338403](https://askubuntu.com/questions/168279/how-do-i-build-a-single-in-tree-kernel-module#338403)
 
