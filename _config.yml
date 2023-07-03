@@ -162,7 +162,6 @@ footer-hover-col: "#0085A1"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
-site-js: "/assets/js/disqusrecommendation.js"
 
 #################################
 # --- Web Analytics Section --- #
