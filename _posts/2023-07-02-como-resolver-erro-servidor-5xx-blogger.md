@@ -1,6 +1,6 @@
 ---
 title: Como resolver o Erro no servidor (5xx) do Blogger
-date: 2023-12-31
+date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, resolver, erro, 5xx, blogger]
 subtitle: Saiba como resolver esse erro
