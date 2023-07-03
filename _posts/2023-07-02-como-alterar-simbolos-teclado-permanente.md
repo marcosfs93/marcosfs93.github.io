@@ -17,8 +17,8 @@ Dependendo do modelo do teclado que você está usando, alguns símbolos podem e
 
 Para resolver esse problema, já publiquei dois artigos sobre o assunto:
 
-- [Como adicionar simbolos que não tem no teclado](https://marcosfs93.blogspot.com/2023/03/como-alterar-os-simbolos-do-teclado.html)
-- [Como criar um atalho da barra vertical no Linux](https://marcosfs93.blogspot.com/2023/03/como-criar-um-atalho-da-barra-vertical.html)
+- [Como adicionar simbolos que não tem no teclado](https://marcosfs93.github.io/2023-07-02-como-adicionar-simbolos-faltando-teclado/)
+- [Como criar um atalho da barra vertical no Linux](https://marcosfs93.github.io/2023-07-02-como-criar-atalho-barra-vertical-linux/)
 
 Mas hoje, estou aqui para ensinar como você pode aplicar essas alterações de forma permanente, diretamente no mapa do teclado, sem a necessidade de usar scripts.
 

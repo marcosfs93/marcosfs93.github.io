@@ -66,7 +66,7 @@ Usando as teclas **Ctrl + X** e depois **Y ou S**.
 
 Para servir de referencia, o meu arquivo xorg.conf ficou assim:
 
-![](https://cdn-images-1.medium.com/max/800/1*nG5inNzRcQ_GvkbvouL8rQ.png)
+![Screenshot do terminal](https://cdn-images-1.medium.com/max/800/1*nG5inNzRcQ_GvkbvouL8rQ.png)
 
 Depois disso basta reiniciar o sistema, ao iniciar você vai perceber que o tamanho da interface dos apps vai ficar mais semelhante ao que é no Windows.
 

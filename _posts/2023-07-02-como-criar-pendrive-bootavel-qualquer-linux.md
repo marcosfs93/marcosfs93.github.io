@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/1*umvpkTJde6agfweAHN5Zag.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*umvpkTJde6agfweAHN5Zag.png)
+<p align='center'><img alt='Screenshot do balenaEtcher rodando' src="https://cdn-images-1.medium.com/max/800/1*umvpkTJde6agfweAHN5Zag.png"/></p>
 Olá, hoje estou aqui para divulgar uma ferramenta muito pratica e eficiente para criar pendrives com sistemas operacionais através do Linux.
 
 Para quem usa Windows, existe várias ferramentas praticas para fazer pendrives bootáveis, no Linux também existem ferramentas do tipo, porem com base em minha experiência essas ferramentas se mostravam não tanto eficientes quanto as existentes no Windows.

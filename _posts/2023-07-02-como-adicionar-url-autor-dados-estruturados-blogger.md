@@ -16,7 +16,7 @@ Hoje vou ensinar a colocar uma URL de Autor na parte de Dados Estruturados no se
 
 Pra quem usa blogger é muito comum essa mensagem de erro aparecer, embora ter uma URL de autor seja opcional a mensagem de aviso sempre vai aparecer ao usar a ferramenta [**Teste de pesquisa aprimorada**](https://search.google.com/test/rich-results)
 
-![](https://cdn-images-1.medium.com/max/800/0*Dyh7HTMabBMnQuXS.jpg)
+<p align='center'><img alt='Screenshot com o erro aparecendo' src="https://cdn-images-1.medium.com/max/800/0*Dyh7HTMabBMnQuXS.jpg"/></p>
 
 Infelizmente no blogger não há uma função que nos permite adicionar uma url de autor facilmente, por isso vamos precisar editar o código HTML do blogger e fazer umas alterações simples.
 
@@ -27,7 +27,7 @@ No painel, vá em **Tema**, ao lado do botão **Personalizar** clique na seta ao
 
 _Faça o backup do seu tema antes de fazer as alterações_
 
-![](https://cdn-images-1.medium.com/max/800/0*vI0v8RFCBsfLRiAN.png)
+![Mostrando como abrir o editor html](https://cdn-images-1.medium.com/max/800/0*vI0v8RFCBsfLRiAN.png)
 
 Ao abrir a janela contendo o código fonte do blog, dê um **Ctrl + F** e procure pelo seguinte código:
 
@@ -78,6 +78,6 @@ Não há diferenças entre o código antigo e o novo, só que colocando a versã
 ## Considerações finais
 É isso, basta testar a ferramenta e se deparar com o resultado:
 
-![](https://cdn-images-1.medium.com/max/800/0*Mw9PM0Md3ExD7GWX.jpg)
+![Screenshot da ferramenta sem erros](https://cdn-images-1.medium.com/max/800/0*Mw9PM0Md3ExD7GWX.jpg)
 
 Isso é tudo, até a próxima.
