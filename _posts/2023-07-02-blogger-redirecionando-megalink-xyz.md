@@ -12,7 +12,8 @@ share-img: https://cdn-images-1.medium.com/max/800/0*z0w7bAMjSkAMnzZr.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*z0w7bAMjSkAMnzZr.png)<br/>
+<p align='center'><img alt='Blogger logo' src="https://cdn-images-1.medium.com/max/800/0*z0w7bAMjSkAMnzZr.png"/></p>
+
 Um problema que pode acontecer ao utilizar temas não oficiais do blogger, alguns temas possuem códigos que ocasionalmente faz com que as visitas no seu blog sejam automaticamente redirecionadas para um outro site. Tal problema que comecei a ter recentemente em um template do blogger que já vinha utilizando a muito tempo atrás.
 
 Enfim, indo direto ao ponto, no meu caso o problema foi causado por 2 scripts que estavam no html do blog
