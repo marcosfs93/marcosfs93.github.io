@@ -46,7 +46,7 @@ Isso informa que o serviço está desativado, precisamos então habilitar esse s
 
 Aqui o resultado que apareceu foi esse:
 
-```bash
+{% highlight javascript %}
 ● cronie.service — Periodic Command Scheduler
  Loaded: loaded (/usr/lib/systemd/system/cronie.service; enabled; preset: disabled)
  Active: active (running) since Mon 2023–06–19 21:24:22 -03; 15min ago
@@ -56,7 +56,7 @@ Aqui o resultado que apareceu foi esse:
  CPU: 3ms
  CGroup: /system.slice/cronie.service
  └─2828 /usr/bin/crond -n
-```
+{% endhighlight %}
 
 Active significa ativo, então o serviço está rodando neste momento.
 
