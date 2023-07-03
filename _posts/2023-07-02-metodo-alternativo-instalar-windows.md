@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*UNEI9_isS64RuAlA.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*UNEI9_isS64RuAlA.png)<br/>
+<p align='center'><img alt='WinNTSetup rodando' src="https://cdn-images-1.medium.com/max/800/0*UNEI9_isS64RuAlA.png"/></p>
 As vezes, dependendo das circunstâncias, não é possível instalar o Windows e no geral os problemas são referentes ao disco que será usado para instalar o sistema.
 
 Se você tem mais de um HD/SSD e algum deles estiver em algum formato não suportado pelo Windows, você não conseguirá fazer a instalação, mesmo que o HD a ser usado seja diferente, mas essa não é uma regra e dependendo do dispositivo você pode não passar por problemas.
@@ -72,29 +72,29 @@ Outras versões podem ser encontradas no site da Microsoft.
 
 Selecione o local onde será extraído o arquivo, pode ser na Área de trabalho por exemplo.
 
-![](https://cdn-images-1.medium.com/max/800/0*azDKTN5_RShDRkn1.png)
+![selecionando o arquivo install.wim](https://cdn-images-1.medium.com/max/800/0*azDKTN5_RShDRkn1.png)
 
 5- Agora vamos abrir o app **AOMEI PE Builder**, assim que o programa abrir clique em **Next** até chegar nessa parte:
 
-![](https://cdn-images-1.medium.com/max/800/0*3w6RVHfpov1HxqnY.png)
+![selecionando a versao 64 bits](https://cdn-images-1.medium.com/max/800/0*3w6RVHfpov1HxqnY.png)
 
 Aqui vamos selecione a arquitetura 32 ou 64 bits do Windows PE (Live CD, entre áspas) e depois clicar em **Next**.
 
 6- Enquanto isso, vá na pasta onde você extraiu o WinNTSetup e execute o app dele, vamos precisar fazer o download dos arquivos necessários, aqui é só clicar em **Ok**.
 
-![](https://cdn-images-1.medium.com/max/800/0*pv42cQOYelO9HX7x.png)
+![programa solicitando arquivos adicionais](https://cdn-images-1.medium.com/max/800/0*pv42cQOYelO9HX7x.png)
 
 7- Depois disso o WinNTSetup vai aparecer, e então clicamos em sair, pois o objetivo aqui era apenas obter os arquivos necessários para o app rodar sem problemas.
 
 8- Voltando ao AOMEI PE Builder, devemos estar nessa parte:
 
-![](https://cdn-images-1.medium.com/max/800/0*cXXoQyM3U3G7ZXSE.png)
+![selecionando arquivos para adicionar no livecd](https://cdn-images-1.medium.com/max/800/0*cXXoQyM3U3G7ZXSE.png)
 
 Nessa parte devemos clicar em **Add Files**, e na mini janela que vai aparecer em seguida devemos selecionar a pasta onde o WinNTSetup.rar foi extraído.
 
 No final teremos algo parecido com isso:
 
-![](https://cdn-images-1.medium.com/max/800/0*N8cEsLF_3fb9YpQx.png)
+![adicionando winntsetup no livecd](https://cdn-images-1.medium.com/max/800/0*N8cEsLF_3fb9YpQx.png)
 
 Após adicionar a pasta com o WinNTSetup, clique em **Ok**.
 
@@ -102,7 +102,7 @@ Após adicionar a pasta com o WinNTSetup, clique em **Ok**.
 
 No caso será livecd.iso e será salva na Desktop:
 
-![](https://cdn-images-1.medium.com/max/800/0*MtWf5NLAaWKUk6-o.png)
+![exportando a livecd para arquivo ISO](https://cdn-images-1.medium.com/max/800/0*MtWf5NLAaWKUk6-o.png)
 
 Clique em **Next** e o programa vai começar a criar o arquivo .iso.
 
@@ -112,7 +112,7 @@ O processo pode demorar alguns minutos, já que além de ser criado o arquivo .i
 
 No final o resultado será esse:
 
-![](https://cdn-images-1.medium.com/max/800/0*aZ69OZgZX3lr5idB.png)
+![visualizando o conteudo do livecd](https://cdn-images-1.medium.com/max/800/0*aZ69OZgZX3lr5idB.png)
 
 Após isso basta clicar em **Save** e então aguardar o processo.
 
@@ -122,7 +122,7 @@ Após isso basta clicar em **Save** e então aguardar o processo.
 
 Depois de ter gravado a iso da livecd no pendrive, reinicie o PC e tente dar boot no pendrive, ao ser carregado a livecd terá esse visual:
 
-![](https://cdn-images-1.medium.com/max/800/0*iorgWsMZKEoQ5q1V.png)
+![livecd após o boot](https://cdn-images-1.medium.com/max/800/0*iorgWsMZKEoQ5q1V.png)
 
 Agora que a liveCD iniciou sem problemas, vamos começar a instalar o Windows com o WinNTSetup, e o processo é diferente para BIOS e modo UEFI.
 
@@ -138,21 +138,21 @@ Agora que a liveCD iniciou sem problemas, vamos começar a instalar o Windows co
 
 Basta clicar em **Criar Partição**, a letra dessa unidade pode ser **Z:**.
 
-![](https://cdn-images-1.medium.com/max/800/0*oMciX177hCmmSiEF.png)
+![particionando a partição de boot](https://cdn-images-1.medium.com/max/800/0*oMciX177hCmmSiEF.png)
 
 Na parte Tamanho e Posição, com o mouse, diminua o tamanho até o mínimo possível, no meu caso o menor tamanho foi 47Mb, por alguma razão não dá para diminuir sem ser arrastando com o mouse, após isso clique em **Ok** e depois em **Aplicar**.
 
 Com isso a partição de boot foi criada, agora vamos marcar essa partição como ativa, selecione a partição Z e no lado esquerdo clique em **Definir partição ativa**, e por fim clique em **Aplicar**.
 
-![](https://cdn-images-1.medium.com/max/800/0*xIFv6nEnJO1uzREM.png)
+![visualizando o layout após essa alteração](https://cdn-images-1.medium.com/max/800/0*xIFv6nEnJO1uzREM.png)
 
 3.2- Agora vamos criar a partição do sistema, essa partição deve estar em NTFS, Letra C: e você pode usar o resto do espaço do HD, clique em **Ok** e depois clique em **Aplicar**.
 
-![](https://cdn-images-1.medium.com/max/800/0*UXuzrFFwCoe6eV1c.png)
+![particionando a partição do sistema](https://cdn-images-1.medium.com/max/800/0*UXuzrFFwCoe6eV1c.png)
 
 Quando terminar teremos algo como isso:
 
-![](https://cdn-images-1.medium.com/max/800/0*tQzrWz0uJoRAVshd.png)
+![visualizando o layout após a alteração](https://cdn-images-1.medium.com/max/800/0*tQzrWz0uJoRAVshd.png)
 
 Como vocês estão vendo, foram criadas duas partições:
 
@@ -171,7 +171,7 @@ Em Options escolhemos a versão do Windows que vamos instalar.
 
 Após tudo isso o programa está configurado assim:
 
-![](https://cdn-images-1.medium.com/max/800/0*ey5VhAd9za8tJkF-.png)
+![screenshot do winntsetup devidamente configurado](https://cdn-images-1.medium.com/max/800/0*ey5VhAd9za8tJkF-.png)
 
 5- Agora é só clicar em **Setup** e aguardar o processo terminar. No final o app vai recomendar que reinicie o PC
 
@@ -187,7 +187,7 @@ Após isso a LiveCD vai funcionar e você já estará na Área de Trabalho.
 
 3- Apague todas as partições do disco que você vai instalar o Windows, clique com o direito do mouse sobre o Disco e selecione a opção **Converter em disco GPT**.
 
-![](https://cdn-images-1.medium.com/max/800/0*dcywb5S12rVOgo3a.png)
+![convertendo o disco para GPT](https://cdn-images-1.medium.com/max/800/0*dcywb5S12rVOgo3a.png)
 
 Após isso o programa vai pedir a confirmação, clique em **Ok**. Depois clique em **Aplicar**, **Prosseguir** e **Yes**.
 
@@ -225,11 +225,11 @@ _Esse comando cria uma partição reservada para o sistema, de 128Mb._
 
 e digite **exit**, para sair do diskpart, veja como ficou no CMD:
 
-![](https://cdn-images-1.medium.com/max/800/0*LKI835ipErX7Dbn4.png)
+![janela com o cmd rodando o diskpart](https://cdn-images-1.medium.com/max/800/0*LKI835ipErX7Dbn4.png)
 
 5- Volte para o AOMEI Partition Assistent, e clique em **Recarregar**, no final conseguiremos ver que as duas partições foram criadas e que sobrou muito espaço livre no HD.
 
-![](https://cdn-images-1.medium.com/max/800/0*aCmEre6C-Zy4mued.png)
+![visualizando o layout do disco após as alterações](https://cdn-images-1.medium.com/max/800/0*aCmEre6C-Zy4mued.png)
 
 Agora só falta criar a partição C: do Sistema, selecione o espaço “não alocado” e crie uma partição NTFS, Letra C e use o restante do espaço do HD.
 
@@ -245,7 +245,7 @@ Em Options escolhemos a versão do Windows que vamos instalar.
 
 Após tudo isso o programa está configurado assim:
 
-![](https://cdn-images-1.medium.com/max/800/0*5Jtif7LEbnHWuMQf.png)
+![iniciando a instalacao do sistema](https://cdn-images-1.medium.com/max/800/0*5Jtif7LEbnHWuMQf.png)
 
 Agora é só clicar em **Setup** e na próxima janela clicar em **Ok**.
 

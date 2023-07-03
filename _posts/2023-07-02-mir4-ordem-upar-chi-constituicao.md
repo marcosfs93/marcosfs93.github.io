@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*ipcLeFZbB1G6cPWm.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*ipcLeFZbB1G6cPWm.png)
+<p align='center'><img alt='Ilustracao' src="https://cdn-images-1.medium.com/max/800/0*ipcLeFZbB1G6cPWm.png"/></p>
 Olá, hoje estou trazendo uma dica muito útil para a sua progressão no MIR4, onde você vai aprender a **ordem correta de upgrade** e que vai te ajudar a estar preparado nos leveis mais altos do seu personagem correndo menos risco de ficar travado no jogo.
 
 ## O que é “Chi” e “Constituição” no MIR4?

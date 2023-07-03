@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*isxuScozis9XJfOG.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*isxuScozis9XJfOG.png)
+<p align='center'><img alt='banner do smart youtube tv' src="https://cdn-images-1.medium.com/max/800/0*isxuScozis9XJfOG.png"/></p>
 Olá pessoal, hoje eu venho compartilhar um aplicativo muito bom e alternativo ao YouTube para Smart TV com pouca Memória RAM, geralmente uma Smart TV tem uma versão própria e oficial do YouTube, porém nem sempre o aplicativo oficial que existe ali é o mais adequado para o seu aparelho.
 
 ## O que deixa a Smart TV lenta ao usar o YouTube?

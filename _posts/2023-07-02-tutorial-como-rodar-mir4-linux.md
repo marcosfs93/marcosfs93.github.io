@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*XziR1_3Bo3ciu7sT.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*XziR1_3Bo3ciu7sT.png)<br/>
+<p align='center'><img alt='banner do tutorial' src="https://cdn-images-1.medium.com/max/800/0*XziR1_3Bo3ciu7sT.png"/></p>
 Olá pessoal, trago finalmente o tutorial para fazer o MIR4 funcionar no Linux, além do tutorial que será apresentado a seguir, um vídeo do tutorial também já está disponível no YouTube, assim você tem duas versões do tutorial disponível pra você.
 
 Antes de mais nada, é importante afirmar que este tutorial não é 100% garantido de funcionar, justamente por questões de hardware e configurações especificas de cada distribuição do Linux, tenha isso em mente, embora eu tenha testado isso em várias distros e não tive problemas.
@@ -79,11 +79,11 @@ Ao abrir o lutris, vamos agora baixar o runner necessário para rodar o MIR4.
 
 Com o lutris aberto, na barra lateral a esquerda, desça até a parte “runner” e clique no ícone destacado na imagem:
 
-![](https://cdn-images-1.medium.com/max/800/0*bqf0ddITlBqig2ne.jpg)
+![selecionando versão do runner](https://cdn-images-1.medium.com/max/800/0*bqf0ddITlBqig2ne.jpg)
 
 Após isso vai surgir uma janela com uma lista de runners disponíveis, desça até o final da página e baixe o runner **lutris-GE-Proton7–16** destacado na imagem abaixo:
 
-![](https://cdn-images-1.medium.com/max/800/0*3eyV94Ye5UFV3yjX.jpg)
+![instalando a versão escolhida](https://cdn-images-1.medium.com/max/800/0*3eyV94Ye5UFV3yjX.jpg)
 
 Após baixar o runner, feche o lutris e reabra-o, com isso já podemos criar uma configuração exclusiva para o MIR4 no lutris.
 
@@ -98,7 +98,7 @@ Após fazer isso, vamos entrar nas seguintes pastas:
 
 **~/.local/share/wineprefixes**
 
-![](https://cdn-images-1.medium.com/max/800/0*_R2-HDHJiardnEvD.jpg)
+![criando a nova pasta](https://cdn-images-1.medium.com/max/800/0*_R2-HDHJiardnEvD.jpg)
 
 Dentro da pasta **wineprefixes** vamos criar uma nova pasta, essa nova pasta pode se chamar **MIR4**, independente do nome essa pasta será o local onde ficará o jogo junto com os arquivos do runner.
 
@@ -107,11 +107,11 @@ Agora que já criamos a pasta para o MIR4, vamos agora criar uma configuração 
 
 Volte para o Lutris e clique no botão **adicionar jogo**, que fica no canto superior esquerdo da tela, veja na imagem:
 
-![](https://cdn-images-1.medium.com/max/800/0*9ftVpTJvb2F8gUEe.jpg)
+![adicionando o jogo no lutris](https://cdn-images-1.medium.com/max/800/0*9ftVpTJvb2F8gUEe.jpg)
 
 Isso vai abrir uma janela com várias opções, nós devemos escolher a ultima: **Adicionar jogo instalado localmente**:
 
-![](https://cdn-images-1.medium.com/max/800/0*JaPqWwETEtnjthh4.jpg)
+![selecionando a opcao manual de instalação](https://cdn-images-1.medium.com/max/800/0*JaPqWwETEtnjthh4.jpg)
 
 Depois disso vai surgir uma tela com várias abas, primeiro vamos configurar a parte das **informações do jogo**.
 
@@ -119,15 +119,15 @@ Nessa parte você vai selecionar o tipo de runner e o nome do jogo que vai ser a
 
 Com base na imagem abaixo, o nome pode ser **MIR4** e o runner deve ser o **Wine**:
 
-![](https://cdn-images-1.medium.com/max/800/0*lnzguLOEQbwWXud-.jpg)
+![configurando informações do jogo](https://cdn-images-1.medium.com/max/800/0*lnzguLOEQbwWXud-.jpg)
 
 A próxima parte são as **opções de jogo**, nessa parte vamos selecionar aquela pasta que nós criamos em wineprefixes e selecionar o instalador do MIR4 que no qual é baixado no site oficial, segue a imagem:
 
-![](https://cdn-images-1.medium.com/max/800/0*WdpAEfhQ17mGQfgT.jpg)
+![selecionando as opções do jogo](https://cdn-images-1.medium.com/max/800/0*WdpAEfhQ17mGQfgT.jpg)
 
 Seguindo para a próxima parte nós vamos selecionar o runner que vai rodar o MIR4, nessa parte vamos selecionar aquele runner que baixamos no começo do tutorial e clicar em **SALVAR**:
 
-![](https://cdn-images-1.medium.com/max/800/0*P-06G9Q3UxNvxZcy.jpg)
+![selecionando o runner](https://cdn-images-1.medium.com/max/800/0*P-06G9Q3UxNvxZcy.jpg)
 
 Após clicar em salvar, voltando pra tela inicial do lutris, basta selecionar o MIR4 e clicar em **Jogar**.
 
@@ -140,15 +140,15 @@ Aqui vamos precisar utilizar o modo de compatibilidade e escolher o **Windows XP
 
 Clique no botão proximo ao icone de taça, indicado na imagem abaixo e clique em Winetricks
 
-![](https://cdn-images-1.medium.com/max/800/0*9oXk8BOmLMB5vT1f.jpg)
+![abrindo o winetricks](https://cdn-images-1.medium.com/max/800/0*9oXk8BOmLMB5vT1f.jpg)
 
 Ao fazer isso o Winetricks vai abrir, basta selecionar a opção **MIR4** e clicar em **OK**, que é o nome da pasta que nós criamos dentro da pasta **wineprefixes**.
 
-![](https://cdn-images-1.medium.com/max/800/0*AKvdpQsxvQnAJVjq.jpg)
+![selecionando o prefixo do jogo](https://cdn-images-1.medium.com/max/800/0*AKvdpQsxvQnAJVjq.jpg)
 
 Agora selecione a opção **Alterar configurações** e clique em **OK**.
 
-![](https://cdn-images-1.medium.com/max/800/0*AUx6l7eHGMuJVWGv.jpg)
+![selecionando a opção alterar configurações](https://cdn-images-1.medium.com/max/800/0*AUx6l7eHGMuJVWGv.jpg)
 
 Agora desça até o final da página e selecione a opção **winxp** e clique em **OK**.
 
@@ -157,7 +157,7 @@ O MIR4 depende do vcrun2017 e felizmente o instalador do MIR4 já trás essa dep
 
 Na tela inicial do lutris, clique no icone ao lado da taça e selecione a opção **Executar EXE dentro do prefixo do Wine**.
 
-![](https://cdn-images-1.medium.com/max/800/0*Wq17Rqin13NuSzez.jpg)
+![executar exe dentro do prefixo](https://cdn-images-1.medium.com/max/800/0*Wq17Rqin13NuSzez.jpg)
 
 Agora vamos precisar entrar nesse diretório e encontrar o app de instalação:
 
@@ -165,14 +165,14 @@ Agora vamos precisar entrar nesse diretório e encontrar o app de instalação:
 
 Com isso vai aparecer o instalador, faça a instalação normalmente.
 
-![](https://cdn-images-1.medium.com/max/800/0*D9L5Cx7nNAVLzhUZ.jpg)
+![instalador UE4PrereqSetup](https://cdn-images-1.medium.com/max/800/0*D9L5Cx7nNAVLzhUZ.jpg)
 
 ### Concluindo a configuração e abrindo o jogo
 Chegamos na ultima parte, vamos abrir as configurações do lutris novamente e selecionar o launcher do jogo.
 
 Basta voltar para a tela inicial do Lutris, selecionar o jogo e selecionar a opção **Configurar**.
 
-![](https://cdn-images-1.medium.com/max/800/0*VL_KKGn2oOZVXAtB.jpg)
+![voltando nas configurações](https://cdn-images-1.medium.com/max/800/0*VL_KKGn2oOZVXAtB.jpg)
 
 Ao abrir a nova janela, vamos para a aba **Opções de jogo** e selecionar o launcher do jogo.
 
@@ -182,17 +182,17 @@ De acordo com a imagem a baixo, o local do launcher é:
 
 Após selecionar o executavel do launcher, clique em **Salvar**.
 
-![](https://cdn-images-1.medium.com/max/800/0*P282qYgEMc6GMC3w.jpg)
+![selecionando o executavel do launcher](https://cdn-images-1.medium.com/max/800/0*P282qYgEMc6GMC3w.jpg)
 
 Terminando essa parte basta clicar em **Jogar** que o launcher vai abrir.
 
 Após o launcher abrir, ele vai informar que há nova atualização e depois de clicar em OK ele vai fechar e reabrir sozinho após a barra de progresso enxer.
 
-![](https://cdn-images-1.medium.com/max/800/0*dFEkGRNE22SpX9cH.jpg)
+![pop up de carregamento](https://cdn-images-1.medium.com/max/800/0*dFEkGRNE22SpX9cH.jpg)
 
 Assim que o launcher abrir, a proxima tarefa é clicar em **Options** e selecionar o modo **OpenGL**.
 
-![](https://cdn-images-1.medium.com/max/800/0*8-SyT_xcGTz2Pt_r.jpg)
+![selecionando modo opengl no launcher](https://cdn-images-1.medium.com/max/800/0*8-SyT_xcGTz2Pt_r.jpg)
 
 Depois de fazer isso pode fechar a janela e clicar em **Install**.
 
@@ -217,7 +217,7 @@ Conforme novas versões do **proton** são lançadas, os problemas atuais podem 
 ### Navegador com o site do captcha não abre
 No Windows quando abrimos o MIR4 o jogo automaticamente abre uma nova página com o site do captcha, no Linux o problema é que o jogo não abre o navegador e quando isso acontece nós ficamos presos nessa tela:
 
-![](https://cdn-images-1.medium.com/max/800/0*omi5Ceys_ZXvbEVz.jpg)
+![janela com erro de autenticação](https://cdn-images-1.medium.com/max/800/0*omi5Ceys_ZXvbEVz.jpg)
 
 Esse é um problema com o runner, eu havia testado outros runners como por exemplo o **lutris-fshack-7.2** e nele o navegador não abre com o captcha, mas no runner lutris-GE-Proton7–16 esse problema não acontece.
 
@@ -228,7 +228,7 @@ Além do problema de captcha também temos um problema mais complicado que é na
 
 Com esse problema você fica com uma tela preta que não deixa você fazer login, igual na imagem abaixo:
 
-![](https://cdn-images-1.medium.com/max/800/0*2pac_eLHryiYO-3v.jpg)
+![bug tela de login preta](https://cdn-images-1.medium.com/max/800/0*2pac_eLHryiYO-3v.jpg)
 
 Como podem ver não há como fazer login com essa tela. Para contornar esse problema nós devemos abrir o MIR4 no Windows mesmo, e de lá copiar os arquivos que são usados no login para o Linux.
 
@@ -267,7 +267,7 @@ Observado também que o problema começa a acontecer no Ubuntu 22.04, até a ver
 ### Jogo trava ao invocar livro/pet pela 2ª vez
 Esse é um problema sem solução, ele acontece ao tentar invocar espíritos e pets nas invocações diárias, aquelas que custam 60k, 120k e 240k de cobre:
 
-![](https://cdn-images-1.medium.com/max/800/0*V9F2ZVvuMJRM2xhh.jpg)
+![screenshot da invacao de espiritos](https://cdn-images-1.medium.com/max/800/0*V9F2ZVvuMJRM2xhh.jpg)
 
 **Causa do problema:** O jogo trava se der um clique rápido no botão de sair
 

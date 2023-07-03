@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*JcOMwiz6Hab4SRF-.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*JcOMwiz6Hab4SRF-.png)<br/>
+<p align='center'><img alt='alsamixer' src="https://cdn-images-1.medium.com/max/800/0*JcOMwiz6Hab4SRF-.png"/></p>
 Minha placa mãe tem som onboard com o chip VIA VT1705, porém o driver para Linux não funciona completamente. Por causa disso, enfrento um problema onde o microfone para de gravar após reiniciar o computador. Para contornar a situação, eu preciso trocar a entrada do microfone da porta frontal para a traseira nas configurações de som do sistema.
 
 No entanto, toda vez que reinicio o PC, o microfone para de funcionar novamente e tenho que trocar a entrada do microfone repetidamente para fazê-lo funcionar novamente. Se você também enfrenta esse problema, onde o microfone para de gravar após reiniciar o computador e volta a funcionar somente após a troca entre a porta frontal e traseira, neste tutorial, vou demonstrar como criar um script que faça a troca automaticamente.
@@ -45,11 +45,11 @@ Para descobrir esses endereços, execute o seguinte comando:
 Isso vai trazer uma lista parecida com essa:
 
 > _*index: 1_
-
+>
 > **_name:_** _<alsa_input.pci-0000_00_1b.0.analog-stereo analog-input-_**_front_**_-mic>_
-
+>
 > _index: 2_
-
+>
 > **_name:_** _<alsa_input.pci-0000_00_1b.0.analog-stereo analog-input-_**_rear_**_-mic>_
 
 O endereço referente as entradas do microfone estão na linha **name**, agora já podemos criar o script.
@@ -60,11 +60,11 @@ Para criar o script de troca automática de portas do microfone, siga os passos 
 1- Abra o editor de texto do sistema e insira o seguinte conteúdo no arquivo de texto:
 
 > _#!/bin/bash_
-
+>
 > _sleep 3 &&_ **_pactl set-source-port alsa_input.pci-0000_00_1b.0.analog-stereo analog-input-front-mic_**
-
+>
 > _sleep 3 &&_ **_pactl set-source-port alsa_input.pci-0000_00_1b.0.analog-stereo analog-input-rear-mic_**
-
+>
 > _exit;_
 
 Certifique-se de salvar o arquivo com a extensão .sh e escolha um nome para o arquivo, como “**refresh_mic.sh**”.
@@ -87,7 +87,7 @@ Para isso, basta criar um arquivo dentro do diretório “**/home/usuário/.conf
 Dentro deste arquivo, cole o seguinte conteúdo:
 
 > _[Desktop Entry]_
-
+>
 > _Exec=_**_/usr/bin/refresh_mic.sh_**_
 > Icon=
 > Name=refresh_mic.sh

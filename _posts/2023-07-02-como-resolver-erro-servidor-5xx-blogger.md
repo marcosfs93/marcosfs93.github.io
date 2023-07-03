@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/1*GxxIhvaoXQQ8NBLpG5xIAQ.png
 layout: post
 ---
 
-![imagem mostrando o tal erro 5xx](https://cdn-images-1.medium.com/max/800/1*GxxIhvaoXQQ8NBLpG5xIAQ.png)
+<p align='center'><img alt='imagem mostrando o tal erro 5xx' src="https://cdn-images-1.medium.com/max/800/1*GxxIhvaoXQQ8NBLpG5xIAQ.png"/></p>
 Na ferramenta Search Console do Google existe um erro de servidor que pode afetar blogs na plataforma Blogger, esse tipo de erro é temporário e por isso não tinha o que se fazer a respeito desse problema além de esperar a equipe do Google resolver.
 
 Mas como até hoje não vi uma solução e o SEO do meu blog estava péssimo, já que minhas páginas não apareciam no google, eu decidi tentar algumas coisas, e parece que consegui ao menos “amenizar” o problema.
@@ -21,7 +21,7 @@ A seguir, vou mostrar pra vocês o que eu fiz pra resolver esse problema, quer d
 
 1- A primeira coisa que devemos fazer é entrar no Blogger e acessar as configurações do seu blog.
 
-![](https://cdn-images-1.medium.com/max/800/1*Jht8gweQELH15hw1eGm8Dw.png)
+![mostrando como ativar robots.txt personalizados](https://cdn-images-1.medium.com/max/800/1*Jht8gweQELH15hw1eGm8Dw.png)
 
 Vamos em configurações, descer a pagina até chegar na parte **Rastreadores e indexação** e ativar os recursos: “**Ativar robots.txt personalizado”** e **“Ativar as tags personalizadas de cabeçalho de robos”**
 
@@ -50,11 +50,11 @@ Clique em SALVAR para gravar as alterações.
 
 3- Vamos agora mexer nas **Tags de páginas de pesquisa e arquivo**, aqui você deve habilitar apenas as tags **NoIndex** e **Noodp:**
 
-![](https://cdn-images-1.medium.com/max/800/0*q1ilFWTnZofD6cqd.png)
+![selecionando as tags noindex e noodp](https://cdn-images-1.medium.com/max/800/0*q1ilFWTnZofD6cqd.png)
 
 4- Por ultimo vamos mexer nas **Tags de Página e Postagens**, aqui você vai deixar habilitado apenas as tags **All** e **Noodp**:
 
-![](https://cdn-images-1.medium.com/max/800/0*tPQ0nfwQxsaCvkI1.png)
+![selecionando as tags all e noodp](https://cdn-images-1.medium.com/max/800/0*tPQ0nfwQxsaCvkI1.png)
 
 Clique em salvar, isso conclui as alterações necessárias no Blogger, pois vamos precisar ir lá no Search Console porque lá existe uma configuração importante e que pode ter sido a causa do erro 5xx, essas mudanças do blogger servem para garantir que as devidas configurações estejam em vigor no momento que o seu blog for rastreado pelos motores de busca.
 
@@ -66,7 +66,7 @@ Provavelmente a taxa padrão de rastreamento esteja causando problemas de **disp
 
 Porem o recurso acima só funciona para propriedades do tipo **Prefixo de URL**, se o seu blog está incluso no Search Console como **Dominio**, ele não vai funcionar. Você pode remover o seu blog do search console e adicionar novamente:
 
-![](https://cdn-images-1.medium.com/max/800/1*tTgXeCRIwq-YRIjxrpj-TQ.png)
+![imagem recomendando criar como Prefix de URL](https://cdn-images-1.medium.com/max/800/1*tTgXeCRIwq-YRIjxrpj-TQ.png)
 
 Bom, depois de verificar e constatar que o seu blog está registrado no Search Console como **Prefixo de URL**, podemos prosseguir com o proximo passo, clique no link abaixo para ir na configuração na Taxa de rastreamento:
 
@@ -74,7 +74,7 @@ Bom, depois de verificar e constatar que o seu blog está registrado no Search C
 
 Depois disso é só deixar a taxa de rastreamento igual na imagem abaixo:
 
-![](https://cdn-images-1.medium.com/max/800/0*mU-eWdwDLjIwJJzR.png)
+![configurando a taxa de rastreamento](https://cdn-images-1.medium.com/max/800/0*mU-eWdwDLjIwJJzR.png)
 
 É só deixar a taxa no mais baixo possível e salvar, como podem ter notado essa mudança não é permanente, após aplicar as alterações será contado 3 meses e depois voltar pra taxa padrão de rastreamento.
 

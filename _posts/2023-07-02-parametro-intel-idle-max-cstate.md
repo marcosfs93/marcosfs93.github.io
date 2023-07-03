@@ -27,7 +27,7 @@ O numero de opções variam de acordo com o processador e para saber quais opç�
 
 > _grep . /sys/devices/system/cpu/cpu0/cpuidle/_**_state*_**_/name_
 
-![](https://cdn-images-1.medium.com/max/800/0*V_T_gaLGOAfXslGP.png)
+<p align='center'><img alt='terminal apos rodar o comando' src="https://cdn-images-1.medium.com/max/800/0*V_T_gaLGOAfXslGP.png"/></p>
 
 Se eu quiser definir o C-State máximo como C1E, o parâmetro será **intel_idle.max_cstate=2**.
 
@@ -42,7 +42,7 @@ Basta abrir o arquivo grub, ele fica no diretório /etc/default e pode ser abert
 
     $ sudo nano /etc/default/grub
 
-![](https://cdn-images-1.medium.com/max/800/0*f3MONPGJN7A9pofy.png)
+![nano com o arquivo grub aberto](https://cdn-images-1.medium.com/max/800/0*f3MONPGJN7A9pofy.png)
 
 Basta adicionar o parâmetro na linha **GRUB_CMDLINE_LINUX_DEFAULT** como na imagem acima.
 

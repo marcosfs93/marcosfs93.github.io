@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*ukFOU5MlqIgfPRiI
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*ukFOU5MlqIgfPRiI)
+<p align='center'><img alt='logo notepad++' src="https://cdn-images-1.medium.com/max/800/0*ukFOU5MlqIgfPRiI"/></p>
 Olá pessoal, hoje eu trago um tutorial bem interessante com o **Notepad++**, com ele vamos aprender a como substituir um código inteiro, mesmo que o conteúdo dentro desse código seja diferente.
 
 Substituir vários códigos de uma vez não é possível usando a função de **Substituir textos**, geralmente para a substituição funcionar você tem que digitar **exatamente** o que deve ser substituído.
@@ -51,7 +51,7 @@ Fazer isso com a substituição normal de texto não será possível, então vam
 
 Com o Notepad++ aberto, aperte **Ctrl + H**, e selecione a opção “expressão regular”
 
-![](https://cdn-images-1.medium.com/max/800/1*ih4zZBVPzIazeJYGyvxYrw.jpeg)
+![selecionando a opcao 'expressao regular'](https://cdn-images-1.medium.com/max/800/1*ih4zZBVPzIazeJYGyvxYrw.jpeg)
 
 Em **localizar**, escreva: **(?s-i)<link( |).*?/>**
 
@@ -64,14 +64,14 @@ Vai procurar tudo que começa com **<link** e termina com **/>**, e ao encontrar
 Você também pode aplicar essa regra para códigos <script> que terminam com </script>:
 
 > _<script type=’text/javascript’>_
-
+>
 > _BLOG_CMT_createIframe(‘<data:post.appRpcRelayPath/>’);_
-
+>
 > _</script>_
 
 A expressão regular no caso, será essa:
 
-> **_(?s-i)<(script)( |>).*?</\1>_**
+    **_(?s-i)<(script)( |>).*?</\1>_**
 
 ## Considerações finais:
 Graças as expressões regulares, podemos automatizar a substituição de códigos e textos com bastante eficiência e economia de tempo, eu tinha descoberto isso recentemente ao procurar formas de apagar códigos específicos em um arquivo.

@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/1*ldbmKT7AU0giAcDb7LDziQ.png
 layout: post
 ---
 
-![logo FreeBSD](https://cdn-images-1.medium.com/max/800/1*ldbmKT7AU0giAcDb7LDziQ.png)
+<p align='center'><img alt='logo FreeBSD' src="https://cdn-images-1.medium.com/max/800/1*ldbmKT7AU0giAcDb7LDziQ.png"/></p>
 Apesar do FreeBSD ser um sistema com uma estrutura aparentemente igualzinha a do linux, existem certos elementos que podem ser diferentes. Um exemplo e tema desse post é o comando **sudo**, que permite aumentar os privilégios de acesso do usuário, que no linux ele já vem instalado por padrão em quase todas as distribuições.
 
 Quando instalamos o FreeBSD e tentamos fazer as mesmas coisas que fazemos no linux, como por exemplo, usar o sudo pra instalar um aplicativo, no BSD você tem uma mensagem de que o comando sudo não existe.

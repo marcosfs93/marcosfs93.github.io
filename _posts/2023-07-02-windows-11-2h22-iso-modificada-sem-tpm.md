@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*TbW_z67GRpTDwYJJ.jpg
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*TbW_z67GRpTDwYJJ.jpg)
+<p align='center'><img alt='banner do windows 11' src="https://cdn-images-1.medium.com/max/800/0*TbW_z67GRpTDwYJJ.jpg"/></p>
 Fala pessoal, no ultimo post sobre instalação do Windows 11 em qualquer PC, sem o requisito de TPM, eu passei uma série de passo a passo que você tinha que seguir para conseguir instalar o Windows 11. Hoje venho com uma novidade ainda melhor, eu vou simplesmente compartilhar a ISO **que eu mesmo modifiquei** pra poder instalar o Windows 11 em qualquer PC.
 
 ## Informações dessa ISO do Windows 11 sem TPM
@@ -40,7 +40,7 @@ Tamanho: 3.71GB
 
 Ao terminar o download, você deverá extrair o arquivo baixado em alguma pasta. Após fazer a extração, execute o app Md5Checker.exe, nele você vai clicar em **Add** e abrir o arquivo **CHECKSUM.md5**.
 
-![](https://cdn-images-1.medium.com/max/800/0*Blqyk2yHWlEnPVIu.png)
+![checando o hash md5](https://cdn-images-1.medium.com/max/800/0*Blqyk2yHWlEnPVIu.png)
 
 De acordo com a imagem acima, neste exemplo, o arquivo .iso passou do teste de verificação e significa que a ISO do Windows 11 veio 100% funcional.
 
@@ -50,7 +50,7 @@ Se por acaso o arquivo apresente um md5 diferente, significa que o arquivo está
 
 Verificando e confirmando que a ISO está completa, é hora de grava-la no pendrive, eu recomendo usar o programa [Rufus](https://rufus.ie/pt_BR/).
 
-![](https://cdn-images-1.medium.com/max/800/1*d-PqughTatmyINcB2xRU4A.png)
+![mostrando quais opcoes selecionar no rufus](https://cdn-images-1.medium.com/max/800/1*d-PqughTatmyINcB2xRU4A.png)
 
 Aqui é bem simples, basta clicar em **SELECIONAR**, depois abrir a ISO do Windows 11 que você baixou, selecionar o **Dispositivo** e então clicar em **INICIAR**.
 

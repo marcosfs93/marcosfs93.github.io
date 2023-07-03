@@ -12,12 +12,12 @@ share-img: https://cdn-images-1.medium.com/max/800/0*xBVty8DQGuY4hs7-.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*xBVty8DQGuY4hs7-.png)
+<p align='center'><img alt='screenshot das configurações de formatação de data' src="https://cdn-images-1.medium.com/max/800/0*xBVty8DQGuY4hs7-.png"/></p>
 Olá pessoal, bem vindos a mais um post exclusivo aqui do site, hoje vou mostrar como personalizar ainda mais a formatação de data e hora, que aparecem logo abaixo do titulo das postagens, páginas e também nos comentários dos leitores.
 
 Eu achei necessário abordar esse assunto porque nas configurações do blogger, sem alguma razão aparente, a formatação de data segue uma ordem que é comum no exterior: o mes aparece primeiro e depois o dia do mês:
 
-![](https://cdn-images-1.medium.com/max/800/0*YU_4zREq31Unmg3g.png)
+![lista de formatos de data](https://cdn-images-1.medium.com/max/800/0*YU_4zREq31Unmg3g.png)
 
 Caso ainda não entenderam exatamente do que eu estou falando, basta olhar a imagem acima, e em alguns exemplos a seguir o mês vem antes do dia:
 
@@ -45,7 +45,7 @@ No painel, vá em **Tema**, ao lado do botão **Personalizar** clique na seta ao
 
 _Faça o backup do seu tema antes de fazer as alterações_
 
-![](https://cdn-images-1.medium.com/max/800/1*7ugvRKRObPv4VJYWdxefKQ.png)
+![mostrando como editar o codigo-fonte do blog](https://cdn-images-1.medium.com/max/800/1*7ugvRKRObPv4VJYWdxefKQ.png)
 
 Ao abrir a janela contendo o código fonte do blog, dê um **Ctrl + F** e procure pelo seguinte código:
 
