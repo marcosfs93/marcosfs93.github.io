@@ -120,7 +120,13 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "dicas, tutoriais, informática, tecnologia, guias"
 
+######################################
+#    Settings to jekyll-seo-tags     #
+######################################
+# See https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md to change settings
+
 locale: pt_BR
+google_site_verification: e0yp17v9XaPX7MeHKq6mx5K0v1tInx_3RdPFd_d98MM
 
 ######################################
 # --- Colours / background image --- #
