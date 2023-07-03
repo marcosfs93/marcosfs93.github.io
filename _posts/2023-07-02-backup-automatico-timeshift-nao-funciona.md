@@ -18,7 +18,7 @@ Após conseguir instalar o app e depois de aprender a configurar adequadamente o
 
 Porém eu percebi dias depois que os snapshots automáticos não estavam acontecendo, algo que é configurado nessa parte:
 
-<p align='center'><img alt='Screenshot da configuração de agendamentos de backup automático' src="https://cdn-images-1.medium.com/max/800/1*faTjGReS9EC7bnHTBNlmsA.png"/></p>
+<p align='center'><img alt='Screenshot da configuração dos agendamentos de backup automático' src="https://cdn-images-1.medium.com/max/800/1*faTjGReS9EC7bnHTBNlmsA.png"/></p>
 
 Eu tinha configurado o timeshift para manter 3 backups da semana e 6 backups diários, mas nenhum backup automático aconteceu.
 
@@ -46,10 +46,10 @@ Isso informa que o serviço está desativado, precisamos então habilitar esse s
 
 Aqui o resultado que apareceu foi esse:
 
-```bash
+```console
 ● cronie.service — Periodic Command Scheduler
  Loaded: loaded (/usr/lib/systemd/system/cronie.service; enabled; preset: disabled)
- Active: **active (running)** since Mon 2023–06–19 21:24:22 -03; 15min ago
+ Active: active (running) since Mon 2023–06–19 21:24:22 -03; 15min ago
  Main PID: 2828 (crond)
  Tasks: 1 (limit: 19124)
  Memory: 960.0K
