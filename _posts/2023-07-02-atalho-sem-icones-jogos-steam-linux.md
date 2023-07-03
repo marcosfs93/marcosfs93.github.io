@@ -63,7 +63,7 @@ De acordo com os meus testes essas instruções são suficientes, mas por via da
 
 Veja o resultado agora:
 
-<img align="left" alt='Screenshot após recuperar os icones dos atalhos' src="https://cdn-images-1.medium.com/max/800/1*Hg48LKYjw4PnvPp8cqG3rw.png"/>
+<p align='center'><img alt='Screenshot após recuperar os icones dos atalhos' src="https://cdn-images-1.medium.com/max/800/1*Hg48LKYjw4PnvPp8cqG3rw.png"/></p>
 
 Bom pessoal, é isso, a recriação dos atalhos e ícones é feito somente uma vez, daí você pode fazer o backup da pasta **“~/.steam”**, **“~/.local/share/icons/hicolor”** e **“~/.local/share/applications”** já que é mais rápido.
 
