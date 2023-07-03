@@ -25,5 +25,5 @@ Durante o tempo de existencia, o site passou por vários domínios:
 * https://marcosfs93.github.io (Atual)
 
 ## Licensa
-Grande parte dos artigos, postagens e páginas são de autoria própria e estão licenciadas sobre licensa:
+Os artigos, postagens e páginas são de autoria própria e estão sob a licensa Creative Commons 4.0:
 [Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)
