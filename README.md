@@ -22,7 +22,7 @@ Durante o tempo de existencia, o site passou por vários domínios:
 - https://marcosfs93.wordpress.com
 - https://marcosfs93.medium.com
 
-* https://marcosfs93.github.io (Atual)
+* **https://marcosfs93.github.io** (Atual)
 
 ## Licensa
 Os artigos, postagens e páginas são de autoria própria e estão sob a licensa Creative Commons 4.0:
