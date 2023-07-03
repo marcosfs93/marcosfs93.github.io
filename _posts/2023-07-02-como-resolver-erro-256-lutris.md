@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*4ulw9ndSQOZArfw0.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*4ulw9ndSQOZArfw0.png)<br/>
+<p align='center'><img alt='Screenshot do lutris exibindo o erro 256' src="https://cdn-images-1.medium.com/max/800/0*4ulw9ndSQOZArfw0.png"/></p>
 Hoje estou aqui para compartilhar uma das soluções para resolver esse erro que pode acontecer pra quem usa o Lutris no Linux.
 
 Com esse erro, na hora de abrir o jogo pelo Lutris nada acontece, você só consegue entender o que está havendo ao observar o arquivo de log onde no final do arquivo aparece a mensagem **Exit with return code 256**.

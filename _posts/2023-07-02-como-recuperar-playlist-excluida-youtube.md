@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*cNFBwUnZ9REa9sgI.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*cNFBwUnZ9REa9sgI.png)<br/>
+<p align='center'><img alt='Imagem do Youtube Music tocando uma playlist' src="https://cdn-images-1.medium.com/max/800/0*cNFBwUnZ9REa9sgI.png"/></p>
 Fala pessoal, hoje estou aqui pra trazer um tutorial exclusivo ensinando a como recuperar musicas de uma playlist sua que foi excluída.
 
 Eu passei por isso quando sem querer eu acabei excluindo o meu canal do YouTube, que me fez perder os inscritos, os vídeos e principalmente as playlists de musicas.
