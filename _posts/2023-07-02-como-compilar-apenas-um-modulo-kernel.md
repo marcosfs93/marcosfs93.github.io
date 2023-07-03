@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*9UDs4DOtRq6smV0P.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*9UDs4DOtRq6smV0P.png)
+<p align='center'><img alt='Imagem do terminal no menu de compilação' src="https://cdn-images-1.medium.com/max/800/0*9UDs4DOtRq6smV0P.png"/></p>
 A compilação dos módulos do kernel Linux é um processo que ocorre na compilação do próprio kernel, se você quer compilar um kernel novo é necessário compilar os módulos também.
 
 Mas há quem pense que não dá pra compilar os módulos do kernel sem compilar o kernel junto, ou seja, por causa de um único módulo o usuário pode acabar compilando o kernel inteiro desnecessariamente.
@@ -112,6 +112,7 @@ Com isso concluímos, seu módulo foi rapidamente compilado e você se livrou de
 Espero que tenha sido útil, até a próxima.
 
 **Referencias:**
+
 [https://serverfault.com/questions/674415/compiling-an-individual-kernel-module-debian-ubuntu](https://serverfault.com/questions/674415/compiling-an-individual-kernel-module-debian-ubuntu)
 [https://askubuntu.com/questions/168279/how-do-i-build-a-single-in-tree-kernel-module#338403](https://askubuntu.com/questions/168279/how-do-i-build-a-single-in-tree-kernel-module#338403)
 
