@@ -60,7 +60,7 @@ Vamos criar uma pasta dentro da raiz do sistema, pra isso é só abrir o termina
 
 Veja como fica no gerenciador de arquivos:
 
-![](https://cdn-images-1.medium.com/max/800/0*1dRjk5rR5X4e8c-u.png)
+![Crie a pasta user_config na raiz do sistema](https://cdn-images-1.medium.com/max/800/0*1dRjk5rR5X4e8c-u.png)
 
 ### 2- Adicionado permissões de usuário
 Agora que a pasta foi criada, precisamos mudar o dono dessa pasta, que será o usuário comum.
@@ -91,7 +91,7 @@ Geralmente elas são montadas no diretório /media, identifique o diretório do 
 
 Ao concluir, no gerenciador de arquivos a pasta **user_config** ficará assim:
 
-![](https://cdn-images-1.medium.com/max/800/0*-HFrxC16tA4rEP0D.png)
+![Screenshot mostrando a pasta .config dentro da user_config](https://cdn-images-1.medium.com/max/800/0*-HFrxC16tA4rEP0D.png)
 
 ### 5- Renomeie e crie um link simbólico da pasta .config
 Agora que a pasta .config já esta no SSD, vamos renomear a pasta .config que está em /home, pois com isso podemos “reverter” caso ocorra problema.
@@ -108,11 +108,11 @@ Use o comando:
 
 Após isso conseguiremos ver que no gerenciador de arquivos a pasta .config dentro da pasta /home é um link:
 
-![](https://cdn-images-1.medium.com/max/800/0*FsXPxogaDrlBXKSL.png)
+![Criando o link simbólico na pasta home apontando para a pasta user_config](https://cdn-images-1.medium.com/max/800/0*FsXPxogaDrlBXKSL.png)
 
 Vejamos as propriedades do link:
 
-![](https://cdn-images-1.medium.com/max/800/0*3PR2l0nGp5A0sFjn.png)
+![Visualizando as propriedades do link criado](https://cdn-images-1.medium.com/max/800/0*3PR2l0nGp5A0sFjn.png)
 
 ### 6- Saia do LiveCD e reinicie o PC:
 Com isso terminamos, reinicie o PC para iniciar o sistema e veja o resultado, a inicialização da sessão do KDE vai estar mais rápida.
