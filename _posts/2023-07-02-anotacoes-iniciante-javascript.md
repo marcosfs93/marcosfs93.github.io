@@ -12,7 +12,6 @@ share-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg)<br/>
 Recentemente, durante um vídeo que eu assisti no canal do [diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA), eu acabei conhecendo o “[Curso de programação gratuito — JavaScript do Zero](https://www.betrybe.com/curso-de-programacao-javascript-do-zero)” da Trybe.
 
 Esse curso trás muito conhecimento bacana sobre essa linguagem de programação, e obviamente muita coisa seria aprendida ali.
@@ -31,9 +30,9 @@ A seguir trago umas anotações que eu guardei para eu mesmo, lembrando que são
 - [Arrays](#)
 - [For](#)
 
-### Variaveis:
+## Variaveis:
 
-#### **var** e **let**:
+### **var** e **let**:
 
 Essas variaveis podem ser alteradas.
 
@@ -51,7 +50,7 @@ Dá pra **mudar o seu valor**, exemplo:
 cor = 'verde'; // não precisa colocar let
 ```
 
-#### **const**:
+### **const**:
 
 **const** também é usado para criar variaveis, porem uma vez declaradas você não consegue alterar seu valor.
 
@@ -61,11 +60,11 @@ cor = 'verde'; // não precisa colocar let
 const nome = 'Marcos'; // valor permanente
 ```
 
-#### Uso do ponto e virgula
+### Uso do ponto e virgula
 
 Quando você terminar uma linha de javascript, você é obrigado a colocar um ponto e virgula ( ; ) no final da linha, se não pode ocorrer erros no código.
 
-### Tipos primitivos
+## Tipos primitivos
 
 Existem 3 tipos primitivos:
 
@@ -98,7 +97,7 @@ let variavel = null; // null - variavel criada já o valor null.
 let indefinida // undefined - variavel criada sem valor.
 ```
 
-### Operadores de calculo/aritméticos:
+## Operadores de calculo/aritméticos:
 
 ```javascript
 let soma = 1 + 2; // sinal de +
@@ -114,7 +113,7 @@ let modulo = 7 % 3; // usados para encontrar o resto de uma divisão
 let modulo = 5 % 3; // de um numero por outro.
 ```
 
-#### Operadores de comparação
+## Operadores de comparação
 
 -   `===` para comparar estritamente a igualdade entre dois valores;
 -   `!==` para comparar estritamente a diferença entre dois valores;
@@ -123,7 +122,7 @@ let modulo = 5 % 3; // de um numero por outro.
 -   `>=` para comparar se um valor é maior ou igual do que o outro;
 -   `<=` para comparar se um valor é menor ou igual do que o outro.
 
-### Operadores lógicos
+## Operadores lógicos
 
 Existem 3 operadores lógicos:
 
@@ -146,7 +145,7 @@ console.log(!interruptor); // resultado será FALSE
 
 Como viram, o operador ! é capaz de reverter um valor de boolean se na frente da váriavel se colocar uma exclamação na frente do nome da variavel.
 
-### Estrutura condicional **if/else**
+## Estrutura condicional **if/else**
 
 Usado em situações em que se algo não acontecer, então fará outra coisa.
 
@@ -163,7 +162,7 @@ Vai ficar parado
 }
 ```
 
-#### else if
+### else if
 
 Existe o **else if** que fica entre **if** e **else**. ele vai ser usado quando haver um terceiro comportamento ou mais.
 
@@ -192,7 +191,7 @@ Se não carro, o código vai checar se você tem pelo menos uma moto, se tiver, 
 
 No codigo a variavel temCarro era booleano falso, portanto o codigo pulou essa parte, no if else a variavel temMoto foi checada, como o valor era true então essa parte do código é executada, caso a variavel temMoto fosse false então o codigo no bloco else seria executado.
 
-### Arrays:
+## Arrays:
 
 Array é uma variavel que tem mais de um valor, ou seja são uma lista de valores. Os vários valores ficam dentro de colchetes “ [ ] ”
 
@@ -273,7 +272,7 @@ professores.push('Antônio')
 ['Rogério', 'Romulo', 'Santos', 'Guilherme', 'Antônio']
 ```
 
-### For:
+## For:
 
 Usado para repetir um código e seu conteúdo até uma condição ou um determinado numero de vezes.
 
