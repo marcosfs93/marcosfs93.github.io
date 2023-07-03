@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*DUIxs4gh1jnLMlTc.png
 layout: post
 ---
 
-<p align='center'><img alt='descricao' src="https://cdn-images-1.medium.com/max/800/0*DUIxs4gh1jnLMlTc.png"/></p>
+<p align='center'><img alt='Ilustração da pasta home' src="https://cdn-images-1.medium.com/max/800/0*DUIxs4gh1jnLMlTc.png"/></p>
 Perder a pasta home não é algo que se resolve apenas criando outras com o mesmo nome, nesse tutorial vamos aprender a recriar a sua pasta de usuário com as configurações padrão.
 
 Ao contrário do que muitos acreditam, criar a pasta home com o mesmo nome de usuário não é o suficiente para “resetar” os dados.
