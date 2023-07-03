@@ -34,4 +34,4 @@ Para resolver isso, eu precisei fazer 3 coisas:
 Com isso o icone de redes volta a aparecer na area de notificações do KDE, se você passou por isso, deixe seu comentário.
 
 Se está com problemas com o icone de volume da area de notificação, veja este artigo:
-[Como exibir o ícone de volume no Arch Linux com KDE](https://marcosfs93.blogspot.com/2023/06/como-exibir-o-icone-de-volume-no-arch.html)
+[Como exibir o ícone de volume no Arch Linux com KDE](https://marcosfs93.github.io/2023-07-02-como-exibir-icone-volume-kde-arch-linux/)

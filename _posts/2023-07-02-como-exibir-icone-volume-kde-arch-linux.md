@@ -26,5 +26,5 @@ Caso você tenha instalado o **pipewire** como servidor de audio, talvez seja ne
 Caso tenha instalado esse pacote também, recomendo reiniciar o PC.
 
 Se está com problemas com o icone de redes da area de notificação, veja este artigo:
-[Como exibir o ícone de rede no Arch Linux com KDE](https://marcosfs93.blogspot.com/2023/06/como-exibir-o-icone-de-redes-no-arch.html)
+[Como exibir o ícone de rede no Arch Linux com KDE](https://marcosfs93.github.io/2023-07-02-como-exibir-icone-rede-kde-arch-linux/)
 

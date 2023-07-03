@@ -17,7 +17,7 @@ Fala pessoal, no ultimo post sobre instalação do Windows 11 em qualquer PC, se
 
 ## Informações dessa ISO do Windows 11 sem TPM
 
-Eu apenas segui o que eu mesmo ensinei no post “[Como instalar Windows 11 sem TPM 2.0 em qualquer PC](https://marcosfs93.blogspot.com/2023/03/como-instalar-windows-11-sem-tpm-20-em.html)”, algo que qualquer site está fazendo: ensinar como burlar esse requisito do TPM, mas o engraçado é que **ninguém** decidiu criar uma ISO e compartilhar, apenas ensinar a fazer por conta própria.
+Eu apenas segui o que eu mesmo ensinei no post “[Como instalar Windows 11 sem TPM 2.0 em qualquer PC](https://marcosfs93.github.io/2023-07-02-como-instalar-windows-11-sem-modulo-tpm/)”, algo que qualquer site está fazendo: ensinar como burlar esse requisito do TPM, mas o engraçado é que **ninguém** decidiu criar uma ISO e compartilhar, apenas ensinar a fazer por conta própria.
 
 Enfim, a seguir vou compartilhar as informações sobre a ISO que eu estou disponibilizando pra vocês e também os links de download do Windows 11 sem o requisito do TPM 2.0.
 

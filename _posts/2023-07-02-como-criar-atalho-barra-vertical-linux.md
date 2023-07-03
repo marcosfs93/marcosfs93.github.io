@@ -71,7 +71,7 @@ Mesmo que esse layout nos dê acesso há mais símbolos, a barra em pé `|` cont
 
 Felizmente, conforme eu marquei na imagem acima, a tecla **N** não tem um símbolo próprio, nem de 3º e nem de 4º nível, isso significa que podemos usar essa tecla para adicionar o símbolo que tá faltando.
 
-A barra em pé e a barra vertical são importantes já que no terminal, por exemplo, precisamos dela para certos [comandos que adicionam entradas de boot EFI](https://sitemrcs.blogspot.com/2022/06/como-dar-boot-manualmente-e-recuperar-o.html) na BIOS e também em conjunto com o comando grep (`dmesg | grep nvidia`, por exemplo).
+A barra em pé e a barra vertical são importantes já que no terminal, por exemplo, precisamos dela para certos [comandos que adicionam entradas de boot EFI](https://marcosfs93.github.io/2023-07-02-como-dar-boot-manualmente-recuperar-grub-efi-linux/) na BIOS e também em conjunto com o comando grep (`dmesg | grep nvidia`, por exemplo).
 
 ## Como remapear uma tecla do teclado
 Enfim, o objetivo de exemplo nesse tutorial é criar um atalho para a **barra vertical** através da tecla **N**, pra isso vamos usar o comando **xmodmap**.
