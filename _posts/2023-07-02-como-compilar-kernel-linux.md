@@ -12,7 +12,7 @@ share-img: https://cdn-images-1.medium.com/max/800/0*6JpRF629V9_NL4i6.png
 layout: post
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*6JpRF629V9_NL4i6.png)
+<p align='center'><img alt='Tux engine' src="https://cdn-images-1.medium.com/max/800/0*6JpRF629V9_NL4i6.png"/></p>
 Olá pessoal, hoje estou trazendo o meu método para fazer a compilação do kernel Linux para a sua distribuição. Já existe diversos sites que ensinam a como compilar o kernel, mas acredite, eu demorei horas pra achar um tutorial que me ajudasse a fazer isso sem problemas.
 
 Claro, não vai ser um tutorial de minha exclusividade pois estarei usando dicas já existentes, o que estou fazendo aqui é compartilhar a forma que deu certo pra mim, o propósito é compartilhar um tutorial que funciona para vocês e para mim também, para o caso de eu precisar recompilar o kernel no futuro e não ter que perder horas só pra achar o tutorial que funciona.
@@ -23,12 +23,12 @@ Agora que eu já desabafei fiz a introdução ao post de hoje, vamos aos procedi
 
 #### Conteúdo
 
-- 1[- Preparos iniciais para a compilação do kernel](#1--preparos-iniciais-para-a-compilação-do-kernel)
-- 1.1[-- Instalação das dependências](#11--instalação-das-dependências)
-- 1.2[-- Baixando e descompactando o código-fonte do kernel](#12--baixando-e-descompactando-o-código-fonte-do-kernel)
-- 1.3[-- Realizando configurações e modificações do kernel](#13--realizando-configurações-e-modificações-do-kernel)
-- 2[- Compilando o kernel](#2--compilando-o-kernel)
-- 3[- Instalando o kernel no sistema](#3--instalando-o-kernel-no-sistema)
+- 1[. Preparos iniciais para a compilação do kernel](#1--preparos-iniciais-para-a-compilação-do-kernel)
+- 1.1[. Instalação das dependências](#11--instalação-das-dependências)
+- 1.2[. Baixando e descompactando o código-fonte do kernel](#12--baixando-e-descompactando-o-código-fonte-do-kernel)
+- 1.3[. Realizando configurações e modificações do kernel](#13--realizando-configurações-e-modificações-do-kernel)
+- 2[. Compilando o kernel](#2--compilando-o-kernel)
+- 3[. Instalando o kernel no sistema](#3--instalando-o-kernel-no-sistema)
 
 ## 1- Preparos iniciais para a compilação do kernel
 ### 1.1- Instalação das dependências
