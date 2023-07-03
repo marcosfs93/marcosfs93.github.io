@@ -29,7 +29,7 @@ Para isso, basta acessar o seguinte site:
 
 [https://wiki.linuxquestions.org/wiki/List_of_Keysyms_Recognised_by_Xmodmap](https://wiki.linuxquestions.org/wiki/List_of_Keysyms_Recognised_by_Xmodmap)
 
-Nesse site, você pode procurar o símbolo que deseja adicionar e descobrir o seu nome. Por exemplo, se você quiser adicionar o símbolo `|`, o nome desse símbolo é `“bar”`.
+Nesse site, você pode procurar o símbolo que deseja adicionar e descobrir o seu nome. Por exemplo, se você quiser adicionar o símbolo `|`, o nome desse símbolo é `bar`.
 
 ## Veja como editar o arquivo referente ao mapa do teclado:
 1- Antes de começar, faça o backup do arquivo **/usr/share/X11/xkb/symbols/br** para garantir que você possa reverter as mudanças, se necessário.
