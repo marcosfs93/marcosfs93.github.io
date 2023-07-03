@@ -96,7 +96,7 @@ Basta apertar F12 e seguir os procedimentos:
 - Na opção **Network**, marcar as opções **Preserve Log** e **Block Requests**
 - Na lista **Name** vai haver várias solicitações, ao clicar em uma da lista, observe a guia **Initiator**, ela informa em qual parte do site saiu a solicitação, que no caso é de redirecionamento.
 
-![](https://cdn-images-1.medium.com/max/800/1*vK9hdmPcOOm8Z-3bnHtzbA.png)
+<p align='center'><img alt='Screenshot mostrando os procedimentos em ordem numerica' src="https://cdn-images-1.medium.com/max/800/1*vK9hdmPcOOm8Z-3bnHtzbA.png"/></p>
 
 ## Observações sobre o problema
 Curiosamente esse tipo de problema acontece principalmente quando o blog é aberto por um browser mobile ou em modo mobile, em modo computador o redirecionamento não acontece todas as vezes.
