@@ -57,21 +57,21 @@ Primeiro você precisa entrar no site do YouTube Music:
 
 Em seguida, faça o login, após o login clique em **Biblioteca**.
 
-![](https://cdn-images-1.medium.com/max/800/0*4z_VpXMmnDva0GIf.jpg)
+![clique no link biblioteca](https://cdn-images-1.medium.com/max/800/0*4z_VpXMmnDva0GIf.jpg)
 
 Agora você verá uma playlist chamada **Gostei** (**Playlist automática**), clique nela.
 
-![](https://cdn-images-1.medium.com/max/800/0*YSDm1olPqTcgtkj6.jpg)
+![clique na playlist automatica](https://cdn-images-1.medium.com/max/800/0*YSDm1olPqTcgtkj6.jpg)
 
 Dentro dessa playlist você vai ver várias músicas, aqui você só precisa procurar pelas musicas que você tinha na sua outra playlist, a que foi excluída, e adicionar as musicas novamente.
 
 Vá na musica que você quer recuperar da playlist, clique nos 3 pontinhos indicado na imagem e em seguida clique em **Adicionar a uma playlist** .
 
-![](https://cdn-images-1.medium.com/max/800/0*ETSoRmoCfUitDp1f.jpg)
+![imagem mostrando a opção 'adicionar a uma playlist'](https://cdn-images-1.medium.com/max/800/0*ETSoRmoCfUitDp1f.jpg)
 
 Agora é só escolher a playlist que você quer adicionar a musica, caso queira criar uma nova playlist para adicionar as músicas você precisa clicar em **+ Nova playlist**, preencher os campos **Titulo**, **Descrição** selecionar o perfil de **Privacidade** e clicar em **CRIAR**.
 
-![](https://cdn-images-1.medium.com/max/800/0*lBI3WOCvtv_Oa2w7.jpg)
+![imagem com os procedimentos](https://cdn-images-1.medium.com/max/800/0*lBI3WOCvtv_Oa2w7.jpg)
 
 ## Prós e Contras
 O lado bom é que você vai ter acesso as musicas que você não lembra de ter na playlist e haver até mesmo musicas que você nunca teve na playlist antes. O lado ruim é ter que ouvir musica por musica e dependendo do navegador e do dispositivo o YouTube Music pode demorar pra trocar as músicas, fora que nem todas as musicas vão aparecer nessa playlist.

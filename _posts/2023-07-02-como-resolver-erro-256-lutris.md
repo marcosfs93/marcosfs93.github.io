@@ -48,7 +48,7 @@ Ao abrir o nano, basta incluir no final do arquivo uma nova linha como essa:
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/1*4WayV0nd2uylmLOEVMdhZA.jpeg)
+![terminal com o comando executado](https://cdn-images-1.medium.com/max/800/1*4WayV0nd2uylmLOEVMdhZA.jpeg)
 
 No seu caso você deve colocar no seu arquivo **fstab**:
 
@@ -67,7 +67,7 @@ Para você descobrir qual é o UUID do disco, basta rodar esse comando aqui:
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/1*ZNIKXQuMIkSDNSA2doNqPA.jpeg)
+![terminal exibindo a lista de discos](https://cdn-images-1.medium.com/max/800/1*ZNIKXQuMIkSDNSA2doNqPA.jpeg)
 
 Após saber o UUID do seu disco, é só adicionar uma nova linha no final do arquivo para montar o HD automaticamente, conformo foi explicado acima.
 
@@ -90,7 +90,7 @@ Dentro dessa pasta vai existir os arquivo do jogo.
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/1*dDJqd5r4E3G5MnpcLyO5ag.jpeg)
+![arquivos da pasta do jogo](https://cdn-images-1.medium.com/max/800/1*dDJqd5r4E3G5MnpcLyO5ag.jpeg)
 
 Sabendo o local onde está a pasta do jogo, precisamos criar um link para a pasta **home** onde ela vai ser direcionada para a pasta original.
 
@@ -102,7 +102,7 @@ Após isso vai aparecer na pasta home uma nova pasta chamada **KOFXV** e ela vai
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/1*HskMhbtXeu5_sKGkiuvUKw.jpeg)
+![abrindo o diretorio pelo link criado](https://cdn-images-1.medium.com/max/800/1*HskMhbtXeu5_sKGkiuvUKw.jpeg)
 
 Com isso temos a impressão de que a pasta do jogo está no mesmo HD onde está o sistema, mas na verdade é um atalho para o outro HD onde essa pasta que está na home seja redirecionada para a pasta do outro HD.
 
@@ -110,7 +110,7 @@ Depois disso é só abrir o Lutris e selecione o executável do jogo através da
 
 No meu caso ficou assim:
 
-![](https://cdn-images-1.medium.com/max/800/1*MyN57-W5XzWGlq_0FKPyIw.jpeg)
+![lutris com o executavel selecionado nas opções do programa](https://cdn-images-1.medium.com/max/800/1*MyN57-W5XzWGlq_0FKPyIw.jpeg)
 
 Após isso é só tentar rodar o jogo, se assim como eu dar certo o jogo vai finalmente abrir.
 

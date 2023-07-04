@@ -43,6 +43,6 @@ Feito isso o CMD vai aparecer, agora insira o comando abaixo e aperte Enter:
 
 **Atenção, substituia o “K:\” pela letra relacionada ao driver com a ISO do Windows 11,** aqui no meu PC é a letra K mesmo.
 
-![](https://cdn-images-1.medium.com/max/800/1*pUb_5hbuhcHATtcNIP84Rw.png)
+![janela do cmd após executar o comando](https://cdn-images-1.medium.com/max/800/1*pUb_5hbuhcHATtcNIP84Rw.png)
 
 Depois disso é só esperar a barra carregar os 100% e apresentar a mensagem: **The Operation completed successfully.** Pronto, instalado o NET Framework 3.5, ele já acompanha as versões anteriores (2.0 e 3.0).

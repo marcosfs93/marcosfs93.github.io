@@ -98,7 +98,7 @@ e depois execute esse comando:
 
 Ao fazer isso o CMD vai listar todas as edições que estão disponíveis dentro desse arquivo, **cada edição tem um INDEX de indicação**, veja a imagem abaixo:
 
-![](https://cdn-images-1.medium.com/max/800/0*D78y_4UXwJ9Kyco1.png)
+![janela do cmd mostrando a lista Index](https://cdn-images-1.medium.com/max/800/0*D78y_4UXwJ9Kyco1.png)
 
 Reprodução: [https://nerdschalk.com](https://nerdschalk.com/)
 
@@ -136,7 +136,7 @@ Agora vamos navegar na pasta C:\WimMod e adicionar **o novo** Install.ESD para d
 
 Salve as alterações com **Ctrl + S** e espere o Ultra ISO salvar a imagem de disco do Windows 10.
 
-![](https://cdn-images-1.medium.com/max/800/0*mDw3JEd-GDz92u4d.png)
+![Clique em salvar](https://cdn-images-1.medium.com/max/800/0*mDw3JEd-GDz92u4d.png)
 
 Basicamente é isso, qualquer programa que permita alterar arquivos dentro de uma ISO é capaz de criar um disco de instalação do Windows 11, ImgBurn é outro exemplo de app capaz de realizar essa tarefa.
 

@@ -40,7 +40,7 @@ Esse tutorial está separado em 3 partes, na parte 1 vamos aprender a como fazer
 
 ## 1- Conseguindo dar boot pelo Grub Rascue
 
-![](https://cdn-images-1.medium.com/max/800/0*OMdl3QCbDpMahwB3.jpg)
+![prompt do grub apos falha no boot](https://cdn-images-1.medium.com/max/800/0*OMdl3QCbDpMahwB3.jpg)
 
 A primeira e única coisa que você verá quando o boot da sua distro está com problemas, é essa tela aí em cima.
 
@@ -113,7 +113,7 @@ Use o comando **lsblk** para listar os discos e os pontos de montagem.
 
 Exemplo com resultado:
 
-![](https://cdn-images-1.medium.com/max/800/0*ngHEcPM8LhuRBq2u.jpg)
+![terminal exibindo o diretório EFI e numero da partição](https://cdn-images-1.medium.com/max/800/0*ngHEcPM8LhuRBq2u.jpg)
 
 Com isso nós já encontramos a partição EFI, no meu caso a partição é **/dev/sdb1** que já foi montada no local **/boot/efi**.
 
@@ -151,7 +151,7 @@ Agora vamos usar o comando **tree**, ele vai listar o restante do conteúdo a pa
 
 **Resultado do comando:**
 
-![](https://cdn-images-1.medium.com/max/800/0*c4Vo-gRBRC1zecki.jpg)
+![terminal após executar o comando acima](https://cdn-images-1.medium.com/max/800/0*c4Vo-gRBRC1zecki.jpg)
 
 Sendo assim o caminho completo é:
 
@@ -165,7 +165,7 @@ _Observações: o trecho_ **_“ — disk /dev/sdb — part 1*_**_”* �
 
 **Resultado:**
 
-![](https://cdn-images-1.medium.com/max/800/0*IHJypNGdl8D_lcrd.jpg)
+![terminal exibindo o resultado após acionar o comando acima](https://cdn-images-1.medium.com/max/800/0*IHJypNGdl8D_lcrd.jpg)
 
 Pronto, agora é só reiniciar o PC e testar.
 
@@ -195,7 +195,7 @@ Abra o **gparted**.
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/0*cFcFrXZqbRpf_ela.jpg)
+![gparted, selecionando e deletando a antiga partição EFI](https://cdn-images-1.medium.com/max/800/0*cFcFrXZqbRpf_ela.jpg)
 
 Após excluir a partição, clique em **Apply**.
 
@@ -209,7 +209,7 @@ Criando uma nova partição FAT32:
 
 Imagem:
 
-![](https://cdn-images-1.medium.com/max/800/0*_h-R_50vH4Rdjo2m.jpg)
+![gparted, mostrando como criar nova partição](https://cdn-images-1.medium.com/max/800/0*_h-R_50vH4Rdjo2m.jpg)
 
 3- Clique na caixa de seleção em **file system**
 
@@ -221,11 +221,11 @@ Com isso já conseguimos criar a nova partição EFI para o sistema, agora só f
 
 6- Selecione a opção **Manage Flags**.
 
-![](https://cdn-images-1.medium.com/max/800/0*Pcz1UfrjPRYj7J7v.jpg)
+![gparted, mostrando a opção das flags](https://cdn-images-1.medium.com/max/800/0*Pcz1UfrjPRYj7J7v.jpg)
 
 Nessa parta você só precisa marcar as flags, selecione as **flags boot** e **esp** e clique em Close para fechar essa janela.
 
-![](https://cdn-images-1.medium.com/max/800/0*egH-p7oKi_pFcDbY.jpg)
+![gparted, selecionando na lista as opções boot e esp](https://cdn-images-1.medium.com/max/800/0*egH-p7oKi_pFcDbY.jpg)
 
 Pronto, sua partição EFI já foi criada.
 
@@ -257,7 +257,7 @@ Rode o comando abaixo:
 
 	$ lsblk -o name,path,size,fstype,uuid,mountpoint | grep 'sd\|vfat'
 
-![](https://cdn-images-1.medium.com/max/800/0*j6-4scibrS5P4ulD.jpg)
+![terminal ao rodar o comando acima](https://cdn-images-1.medium.com/max/800/0*j6-4scibrS5P4ulD.jpg)
 
 Esse comando vai listar de discos que começam com **‘/dev/sd’** e que estejam no format **‘vfat’**.
 
@@ -270,7 +270,7 @@ Roda o comando abaixo:
 
 	$ sudo nano /etc/fstab
 
-![](https://cdn-images-1.medium.com/max/800/0*o2-ZXsWGdsvTc0j6.jpg)
+![terminal ao abrir o arquivo fstab](https://cdn-images-1.medium.com/max/800/0*o2-ZXsWGdsvTc0j6.jpg)
 
 Basta substituir a UUID ao lado do /boot/efi.
 
