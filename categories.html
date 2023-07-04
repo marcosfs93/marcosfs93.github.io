@@ -28,8 +28,8 @@ title: 'Categorias'
         <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
                 <h2>{{page.category_name}} Posts</h2>
-                {% if site.categories[page.category] %}
-                {% for post in site.categories[page.category] %}
+                {% if site.categories[page.categories] %}
+                {% for post in site.categories[page.categories] %}
                 <div class="card">
                     <a href="{{ site.baseurl }}{{ post.url }}" class="container">
                         <h4><strong>{{post.title}}</strong></h4>
