@@ -48,7 +48,7 @@ Sendo assim o tutorial de instalação vai ser bem mais simplificado e por isso 
 - 2 [- Habilitando o comando sudo para o usuário](#2--habilitando-o-comando-sudo-para-o-usuário)
 - [- Acabamos só que não](#acabamos-só-que-não)
 
-# Iniciando a instalação do Arch Linux.
+## Iniciando a instalação do Arch Linux.
 
 ## 1- Selecionar o layout do teclado
 
@@ -307,7 +307,7 @@ Após isso use o comando abaixo para criar o grub.cfg:
 
 **Reinicie o PC**.
 
-# Pós instalação
+## Pós instalação
 
 A parte mais chata já foi superada, agora que o sistema foi instalado e está dando boot, vamos precisar instalar os drivers de vídeos, a interface gráfica, adicionar usuários, etc.
 
@@ -346,6 +346,6 @@ marcos ALL=(ALL:ALL) ALL
 
 Depois salve o arquivo.
 
-# Acabamos só que não
+## Acabamos só que não
 
 A parte mais dificil ja passou, agora cabe a você continuar a partir daqui, se baseie nos artigos do site do archlinux ou nos foruns da comunidade. A partir daqui é só instalar os drivers da placa de vídeo, a interface desktop e os seus pacotes.
