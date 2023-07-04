@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, resolver, problemas, sinal, android]
 subtitle: Saiba o que fazer para resolver o problema
-category: [Dicas e tutoriais, android]
+categories: [dicas e tutoriais, android]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*4txYfV8VFYKUSuDf.png

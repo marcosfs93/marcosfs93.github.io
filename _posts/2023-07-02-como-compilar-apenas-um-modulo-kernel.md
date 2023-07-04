@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, compilar, apenas, um modulo, kernel]
 subtitle: Aprendar a compilar apenas o módulo que você precisa
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*9UDs4DOtRq6smV0P.png

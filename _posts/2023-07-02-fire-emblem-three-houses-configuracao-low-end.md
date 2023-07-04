@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [Fire Emblem, Three Houses, configuração, low, end, baixo]
 subtitle: Guia de configuração do jogo para PC fraco
-category: [Dicas e tutoriais, Games]
+categories: [dicas e tutoriais, games]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/1*aR9NfSS8HE9BQdfRausbtg.jpeg

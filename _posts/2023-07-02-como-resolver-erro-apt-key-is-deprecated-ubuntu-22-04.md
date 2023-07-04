@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, resolver, erro, apt-key is deprecated, ubuntu, 22.04]
 subtitle: Aprenda a como resolver esse erro
-category: [Dicas e tutoriais, linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*PewwIs2RCbdTEKLR.png

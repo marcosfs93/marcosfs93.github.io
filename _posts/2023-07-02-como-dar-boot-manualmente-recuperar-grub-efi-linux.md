@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, dar, boot, manualmente, recuperar, grub, efi, linux]
 subtitle: Saiba como dar boot manual e restaurar o carregador do sistema
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*oeZgTQmlUkHEhAlo.jpg

@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, recuperar, musicas, excluidas, youtube]
 subtitle: Saiba o que fazer para recuperar musicas que foram excluídas
-category: [Dicas e tutoriais]
+categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*cNFBwUnZ9REa9sgI.png

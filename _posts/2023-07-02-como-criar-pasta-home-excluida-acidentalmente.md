@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, criar, pasta, /home, excluida, acidentamente, recriar]
 subtitle: Aprenda a criar uma nova pasta /home após excluir acidentalmente
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*DUIxs4gh1jnLMlTc.png

@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [erro, analise ausente, google, search console]
 subtitle: Saiba o que causa e como resolver o problema
-category: [Dicas e tutoriais, Blogger]
+categories: [dicas e tutoriais, blogger]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*065dEHGtvyyZQByI.jpg

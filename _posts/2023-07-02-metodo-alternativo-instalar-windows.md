@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [metodo, alternativo, instalar, windows, winntsetup]
 subtitle: Conheça outra forma de instalar o Windows
-category: [Dicas e tutoriais, Windows]
+categories: [dicas e tutoriais, windows]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*UNEI9_isS64RuAlA.png

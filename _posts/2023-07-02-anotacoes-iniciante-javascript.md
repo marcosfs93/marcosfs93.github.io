@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [anotações, iniciante, javascript]
 subtitle: Minhas anotações sobre as aulas do curso iniciante de Javascript
-category: [Dicas e tutoriais]
+categories: [dicas e tutoriais]
 comments: true
 cover-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*LxgduJ4mHazq-CZG.jpg

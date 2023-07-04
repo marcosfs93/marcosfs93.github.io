@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, exibir, aparecer, icone, volume, arch linux, kde]
 subtitle: Saiba como fazer para o icone aparecer novamente
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*i_FkgnXCMMTFNJtf.png

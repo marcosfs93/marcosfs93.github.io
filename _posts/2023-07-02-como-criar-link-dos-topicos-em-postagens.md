@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, criar, link, tópicos, indice, postagem]
 subtitle: Aprenda a criar um link dos tópicos nos seus artigos
-category: [Dicas e tutoriais]
+categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*W0mxFx22nxSHq9dh.png

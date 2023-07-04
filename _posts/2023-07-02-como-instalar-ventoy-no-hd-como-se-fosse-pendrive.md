@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, instalar, ventoy, no hd, se fosse, invés, pendrive]
 subtitle: Aprenda a instalar o ventoy no HD substituindo os pendrives
-category: [Dicas e tutoriais]
+categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*co4tQYQ1me_XTiKA.png

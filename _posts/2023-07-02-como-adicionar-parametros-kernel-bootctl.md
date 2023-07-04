@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, adicionar, parametros, kernel, bootctl, opções]
 subtitle: Aprenda a como adicionar parametros e opções no bootctl
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*kkDV351ft6x-EGfy.png

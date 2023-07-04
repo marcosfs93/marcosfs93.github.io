@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, transferir, dados, apps, nativo, para, flatpak]
 subtitle: Saiba como migrar a configuração dos apps nativos para versão flatpak
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*j_dQrIKqsa84kNd3.png

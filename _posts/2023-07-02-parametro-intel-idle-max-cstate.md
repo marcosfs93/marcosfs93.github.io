@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [parametro, opção, intel_idle, max_cstate, CState]
 subtitle: Um parametro que limite o uso do CState da CPU
-category: [Dicas e tutoriais, linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*V_T_gaLGOAfXslGP.png

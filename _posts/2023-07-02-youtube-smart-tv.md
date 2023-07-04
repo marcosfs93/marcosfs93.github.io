@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [youtube, smart tv, fraca, entrada, pouca, memória, ram]
 subtitle: Versão alternativa com baixo uso de memória
-category: [Dicas e Tutoriais]
+categories: [dicas e Tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*isxuScozis9XJfOG.png

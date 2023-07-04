@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [dica, como, criar, banner, jogos, lutris]
 subtitle: Saiba qual resolução adequada para criar banners
-category: [Dicas e tutoriais]
+categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*oJPKiXg9uLwa2plg.png

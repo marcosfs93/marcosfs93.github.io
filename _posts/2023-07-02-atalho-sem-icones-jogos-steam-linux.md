@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [atalho, jogos, steam, linux, sem, icones]
 subtitle: Saiba como fazer para resolver o problema
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*Ctsj_IhWRvBBVbQq.png

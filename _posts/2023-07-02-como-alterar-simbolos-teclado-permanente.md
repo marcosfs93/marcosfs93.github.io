@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, alterar, simbolos, teclado, permanente]
 subtitle: Saiba como tornar permanente a personalização dos atalhos de simbolos
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/1*idDyqOx-pFuDU2n6UX3-WA.jpeg
@@ -18,7 +18,7 @@ Dependendo do modelo do teclado que você está usando, alguns símbolos podem e
 Para resolver esse problema, já publiquei dois artigos sobre o assunto:
 
 - [Como adicionar simbolos que não tem no teclado](https://marcosfs93.github.io/2023-07-02-como-adicionar-simbolos-faltando-teclado/)
-- [Como criar um atalho da barra vertical no Linux](https://marcosfs93.github.io/2023-07-02-como-criar-atalho-barra-vertical-linux/)
+- [Como criar um atalho da barra vertical no linux](https://marcosfs93.github.io/2023-07-02-como-criar-atalho-barra-vertical-linux/)
 
 Mas hoje, estou aqui para ensinar como você pode aplicar essas alterações de forma permanente, diretamente no mapa do teclado, sem a necessidade de usar scripts.
 

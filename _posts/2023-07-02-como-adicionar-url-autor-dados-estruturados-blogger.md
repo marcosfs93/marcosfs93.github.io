@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, adicionar, url, autor, dados, estruturados, blogger]
 subtitle: Neste artigos vamos ensinar a como fazer isso
-category: [Dicas e tutoriais, blogger]
+categories: [dicas e tutoriais, blogger]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*Dyh7HTMabBMnQuXS.jpg

@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, adicionar, comando, sudo, free, bsd]
 subtitle: Aprenda a instalar e habilitar a função
-category: [Dicas e tutoriais, BSD]
+categories: [dicas e tutoriais, BSD]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/1*ldbmKT7AU0giAcDb7LDziQ.png

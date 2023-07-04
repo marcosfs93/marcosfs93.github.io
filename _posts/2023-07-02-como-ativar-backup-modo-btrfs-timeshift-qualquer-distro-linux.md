@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, ativar, backup, modo, btrfs, timeshift, qualquer, distro]
 subtitle: Aprenda a como usar o Timeshift em qualquer distro Linux
-category: [linux]
+categories: [linux]
 comments: true
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png
 share-img: https://cdn-images-1.medium.com/max/800/0*qzLSKIQsul76GVEl.png

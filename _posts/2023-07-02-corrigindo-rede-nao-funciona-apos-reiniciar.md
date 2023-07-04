@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [rede, não funciona, após, reiniciar, linux]
 subtitle: Saiba como fazer para corrigir o problema
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*RM3u9CIlhfOW2YpF.png

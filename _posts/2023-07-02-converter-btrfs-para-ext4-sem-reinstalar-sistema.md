@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [reverter, btrfs, para, ext4, sem, formatar, reinstalar, sistema]
 subtitle: Saiba como voltar para EXT4 após migrar para BTRFS
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*Gd1vzT36SspCkhdI.jpg

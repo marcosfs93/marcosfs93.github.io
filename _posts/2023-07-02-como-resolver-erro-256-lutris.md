@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, resolver, erro 256, lutris]
 subtitle: Saiba o que fazer para resolver esse erro
-category: [Dicas e tutoriais, Linux, Games]
+categories: [dicas e tutoriais, Linux, Games]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*4ulw9ndSQOZArfw0.png

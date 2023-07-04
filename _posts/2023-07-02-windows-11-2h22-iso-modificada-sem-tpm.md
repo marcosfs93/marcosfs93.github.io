@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [windows 11, 2h22, iso, modificada, sem, modulo, tpm]
 subtitle: ISO Windows 11 sem o requisito TPM
-category: [Windows 11]
+categories: [windows 11]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*TbW_z67GRpTDwYJJ.jpg

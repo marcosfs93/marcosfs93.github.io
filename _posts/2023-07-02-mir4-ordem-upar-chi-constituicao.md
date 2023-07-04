@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [mir4, ordem, upar, nivel, chi, constituição]
 subtitle: Saiba qual é a melhor ordem para upar
-category: [Dicas e Tutoriais, Games]
+categories: [dicas e tutoriais, games]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*ipcLeFZbB1G6cPWm.png

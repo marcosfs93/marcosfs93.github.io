@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [seo, blogger, wordpress, transferir, como]
 subtitle: Faça a mudança de endereço sem sua posição no ranking de pesquisa
-category: [blogger, wordpress]
+categories: [blogger, wordpress]
 comments: true
 thumbnail-img: https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png
 share-img: https://1.bp.blogspot.com/-lRSl_siE4Hs/YQCeTah-bOI/AAAAAAAABxo/L1ki_3pIsHg1U6xYpz6WYQ1svckLv1TrACLcBGAsYHQ/s774/migracao-1.png

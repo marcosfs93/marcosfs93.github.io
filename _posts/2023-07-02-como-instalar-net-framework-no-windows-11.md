@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, instalar, .net framework, windows 11]
 subtitle: Saiba como instalar
-category: [Dicas e tutoriais, Windows 11]
+categories: [dicas e tutoriais, Windows 11]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*tXibQ12giB31EbTg.png

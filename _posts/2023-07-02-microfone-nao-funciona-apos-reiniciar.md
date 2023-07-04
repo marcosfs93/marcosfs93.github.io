@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [microfone, não, funciona, reiniciar, sistema]
 subtitle: Saiba o que eu fiz para resolver o problema
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*JcOMwiz6Hab4SRF-.png

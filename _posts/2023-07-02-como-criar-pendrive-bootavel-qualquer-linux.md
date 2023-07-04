@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [criar, pendrive, qualquer, distro, linux]
 subtitle: Saiba como criar facilmente um pendrive bootavel de Linux
-category: [Dicas e Tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/1*umvpkTJde6agfweAHN5Zag.png

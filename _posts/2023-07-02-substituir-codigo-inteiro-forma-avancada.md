@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, substituir, codigo, notepad++, metodo, avançado]
 subtitle: Substitua qualquer parte do código de forma avançada
-category: [Dicas e tutoriais]
+categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*ukFOU5MlqIgfPRiI

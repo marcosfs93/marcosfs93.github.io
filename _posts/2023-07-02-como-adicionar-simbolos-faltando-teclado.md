@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, adicionar, simbolos, não tem, faltando, no, teclado]
 subtitle: Saiba como inserir os simbolos de outro jeito
-category: [Dicas e tutoriais, Linux]
+categories: [dicas e tutoriais, linux]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*25qjCaUBiEYNF_IE.png

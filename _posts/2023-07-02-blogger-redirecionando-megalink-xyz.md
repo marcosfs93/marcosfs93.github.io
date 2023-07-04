@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [blogger, redirecionando, sozinho, megalink.xyz, automaticamente]
 subtitle: Saiba como resolver esse redirecionamento indesejado
-category: [Dicas e tutoriais, Blogger]
+categories: [dicas e tutoriais, Blogger]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*z0w7bAMjSkAMnzZr.png
