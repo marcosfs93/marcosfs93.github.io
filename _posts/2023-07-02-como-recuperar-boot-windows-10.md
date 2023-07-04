@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, recuperar, restaurar, boot, manager, windows 10]
 subtitle: Aprenda a reparar o carregador de boot do sistema
-categories: [dicas e tutoriais, Windows]
+categories: [dicas e tutoriais, windows 10]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*ypiGhPzvghyDSeXt.jpg

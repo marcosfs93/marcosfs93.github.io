@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, resolver, erro, 5xx, blogger]
 subtitle: Saiba como resolver esse erro
-categories: [dicas e tutoriais, Blogger]
+categories: [dicas e tutoriais, blogger]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/1*GxxIhvaoXQQ8NBLpG5xIAQ.png

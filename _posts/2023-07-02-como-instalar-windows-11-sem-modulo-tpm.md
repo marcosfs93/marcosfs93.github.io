@@ -4,7 +4,7 @@ date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [como, instalar, windows 11, sem tpm, em, qualquer, computador]
 subtitle: Aprenda a instalar o Windows 11 em qualquer PC
-categories: [dicas e tutoriais, Windows 11]
+categories: [dicas e tutoriais, windows 11]
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: https://cdn-images-1.medium.com/max/800/0*fRMgrP8Nzaimzegq.png

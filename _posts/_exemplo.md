@@ -4,7 +4,7 @@ date:
 author: M4rQu1Nh0S
 tags: []
 subtitle:
-category: []
+categories: []
 comments: true
 #cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
