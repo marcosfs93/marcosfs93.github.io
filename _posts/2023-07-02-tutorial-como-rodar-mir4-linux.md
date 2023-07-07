@@ -1,6 +1,6 @@
 ---
 title: Tutorial - Como rodar MIR4 no Linux
-date: 2023-07-02
+date: 2023-07-07
 author: M4rQu1Nh0S
 tags: [tutorial, guia, como, rodar, mir4, linux]
 subtitle: Saiba o que fazer para o jogo funcionar no Linux
@@ -19,7 +19,7 @@ Antes de mais nada, é importante afirmar que este tutorial não é 100% garanti
 
 **Atenção:** Esse artigo vai ser atualizado sempre que houver novidades, não deixe de visitar a página para não perder dicas e soluções futuras para os problemas de desempenho do jogo.
 
-Este artigo foi atualizado pela ultima vez em **14 de junho de 2022**.
+Este artigo foi atualizado pela ultima vez em **07 de julho de 2023**.
 
 **Conteúdo**
 
@@ -41,7 +41,8 @@ Este artigo foi atualizado pela ultima vez em **14 de junho de 2022**.
 - [- Considerações finais](#considerações-finais)
 
 ### Video tutorial:
-[Clique aqui para assistir no Youtube](https://www.youtube.com/watch?v=pjXF-8MocwA)
+Versão 2023
+[Clique aqui para assistir no Youtube](https://youtu.be/ULk4E9Fa6E8)
 
 Continuando...
 
@@ -49,28 +50,31 @@ Continuando...
 
 Os seguintes requisitos são obrigatórios para o jogo funcionar:
 
--   **Driver de vídeo com suporte ao Vulkan** instalado (Driver 510 ou 470 da Nvidia)
--   **Lutris**
--   **GE-Proton7–16** (runner)
--   **Instalador do MIR4** (disponível no site oficial do MIR4)
--   **Wine Mono**
--   Pacote **winetricks**
+-   Driver GPU com suporte ao Vulkan
+-   Lutris
+-   GE-Proton8-10 (runner)
+-   Instalador do MIR4 (disponível no site oficial do MIR4)
+-   Wine Mono (opcional)
 
-No momento os requisitos são apenas esses, ainda é necessário instalar o **vcrun2017** mas durante o tutorial esse componente será instalado.
+O uso do **Wine Mono** só vai ser necessário se o jogo pedir pelo **.NET Framework 4.8**, mas não instale o .NET Framework 4.8 para evitar de quebrar o jogo, sempre use o Wine Mono **se** o jogo pedir pelo .NET Framework.
 
-Vale lembrar que o uso do **Wine Mono** só vai ser necessário se o jogo pedir pelo .NET Framework 4.8, mas **não instale o .NET Framework 4.8** para evitar de quebrar o jogo, sempre use o Wine Mono se o jogo pedir pelo .NET Framework.
+### Baixe o instalador do jogo:
+
+Primeiro entre no site do Mir4 e faça o download do jogo standalone para Windows
+https://www.mir4global.com/
+
+Se preferir clique aqui para baixar diretamente o instalador do jogo:
+https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe
 
 ### Instalar o lutris:
-Certo, primeiro trate de instalar o driver da placa de vídeo com suporte ao vulkan e baixar o Lutris, o lutris pode estar disponível nos repositórios oficiais da sua distro e também em flatpak.
+Certo, primeiro trate de instalar o driver da placa de vídeo com suporte ao vulkan e baixar o Lutris, o lutris pode estar disponível nos repositórios oficiais da sua distrok.
 
-Para baixar o lutris nos repositórios oficiais do Ubuntu, Mint e Linux Debian o comando no **Terminal** é esse:
+Para baixar o lutris nos repositórios oficiais da sua distro:
 
-	$ sudo apt update
-	$ sudo apt install lutris
-
-Isso vai baixar o lutris e até itens adicionais como o winetricks, é importante que o winetricks também esteja instalado pois será necessário, use o comando abaixo para instalar o winetricks:
-
-	$ sudo apt install winetricks
+	$ sudo apt install lutris # ubuntu e debian
+	$ sudo dnf install lutris # fedora e redhat
+	$ sudo zypper in lutris # opensuse
+	$ sudo pacman -S lutris # arch linux
 
 Depois disso basta abrir o lutris, para abrir ele basta procurar ele no menu de aplicativos na categoria “Jogos” ou rodar via terminar com o comando “lutris”
 
@@ -79,116 +83,94 @@ Ao abrir o lutris, vamos agora baixar o runner necessário para rodar o MIR4.
 
 Com o lutris aberto, na barra lateral a esquerda, desça até a parte “runner” e clique no ícone destacado na imagem:
 
-![selecionando versão do runner](https://cdn-images-1.medium.com/max/800/0*bqf0ddITlBqig2ne.jpg)
+![selecionando versão do runner](/assets/img/posts/runner.png)
 
-Após isso vai surgir uma janela com uma lista de runners disponíveis, desça até o final da página e baixe o runner **lutris-GE-Proton7–16** destacado na imagem abaixo:
+Após isso vai surgir uma janela com uma lista de runners disponíveis, desça até o final da página e baixe o runner **lutris-GE-Proton8–10** destacado na imagem abaixo:
 
-![instalando a versão escolhida](https://cdn-images-1.medium.com/max/800/0*3eyV94Ye5UFV3yjX.jpg)
+![instalando a versão escolhida](/assets/img/posts/8-10.png)
 
 Após baixar o runner, feche o lutris e reabra-o, com isso já podemos criar uma configuração exclusiva para o MIR4 no lutris.
 
 ### Criar a pasta do MIR4
-Agora que já temos o runner necessário pra fazer o MIR4 funcionar, vamos criar um prefixo do MIR4 no lutris.
+Agora que já temos o runner necessário pra fazer o MIR4 funcionar, vamos criar uma pasta onde o MIR4 será instalado.
 
-Abra o seu gerenciador de arquivos como o Nautilus ou Nemo (depende da distro) e vá na sua pasta Home ou pasta Pessoal.
+Você pode criar essa pasta em qualquer lugar, eu por exemplo instalei na minha pasta home
 
-Ao entrar na pasta, ative a visualização de arquivos ocultos, pra fazer isso basta usar a combinação de teclas “**Ctrl + H**”.
+	/home/marcos/Mir4
 
-Após fazer isso, vamos entrar nas seguintes pastas:
-
-**~/.local/share/wineprefixes**
-
-![criando a nova pasta](https://cdn-images-1.medium.com/max/800/0*_R2-HDHJiardnEvD.jpg)
-
-Dentro da pasta **wineprefixes** vamos criar uma nova pasta, essa nova pasta pode se chamar **MIR4**, independente do nome essa pasta será o local onde ficará o jogo junto com os arquivos do runner.
+![criando a nova pasta](/assets/img/posts/mirhome.png)
 
 ### Criar uma configuração do MIR4
 Agora que já criamos a pasta para o MIR4, vamos agora criar uma configuração do jogo para o Lutris.
 
-Volte para o Lutris e clique no botão **adicionar jogo**, que fica no canto superior esquerdo da tela, veja na imagem:
+Volte para o Lutris e clique no botão "Adicionar jogo", que fica no canto superior esquerdo da tela, nós devemos escolher a ultima opção: "Adicionar jogo instalado localmente"":
 
-![adicionando o jogo no lutris](https://cdn-images-1.medium.com/max/800/0*9ftVpTJvb2F8gUEe.jpg)
-
-Isso vai abrir uma janela com várias opções, nós devemos escolher a ultima: **Adicionar jogo instalado localmente**:
-
-![selecionando a opcao manual de instalação](https://cdn-images-1.medium.com/max/800/0*JaPqWwETEtnjthh4.jpg)
+![selecionando a opcao manual de instalação](/assets/img/posts/addgame.png)
 
 Depois disso vai surgir uma tela com várias abas, primeiro vamos configurar a parte das **informações do jogo**.
 
 Nessa parte você vai selecionar o tipo de runner e o nome do jogo que vai ser adicionado no Lutris.
 
-Com base na imagem abaixo, o nome pode ser **MIR4** e o runner deve ser o **Wine**:
+Com base na imagem abaixo, o nome é Mir4 e o runner é o Wine:
 
-![configurando informações do jogo](https://cdn-images-1.medium.com/max/800/0*lnzguLOEQbwWXud-.jpg)
+![configurando informações do jogo](/assets/img/posts/gameinfo.png)
 
-A próxima parte são as **opções de jogo**, nessa parte vamos selecionar aquela pasta que nós criamos em wineprefixes e selecionar o instalador do MIR4 que no qual é baixado no site oficial, segue a imagem:
+A próxima parte são as **opções de jogo**, nessa parte vamos selecionar aquela pasta que nós criamos, segue a imagem:
 
-![selecionando as opções do jogo](https://cdn-images-1.medium.com/max/800/0*WdpAEfhQ17mGQfgT.jpg)
+![selecionando as opções do jogo](/assets/img/posts/gameopcao.png)
 
-Seguindo para a próxima parte nós vamos selecionar o runner que vai rodar o MIR4, nessa parte vamos selecionar aquele runner que baixamos no começo do tutorial e clicar em **SALVAR**:
+Seguindo para a próxima parte nós vamos selecionar o runner que vai rodar o MIR4 e clicar em SALVAR:
 
-![selecionando o runner](https://cdn-images-1.medium.com/max/800/0*P-06G9Q3UxNvxZcy.jpg)
-
-Após clicar em salvar, voltando pra tela inicial do lutris, basta selecionar o MIR4 e clicar em **Jogar**.
-
-Isso vai abrir o instalador do MIR4, faça a instalação normalmente, você só precisa clicar em **Next** até concluir a instalação.
+![selecionando o runner](/assets/img/posts/opcaorunner.png)
 
 ### Selecionar o Modo Windows XP
-Com isso já preparamos o lutris para instalar o MIR4, mas ainda falta outra configuração que vai ser importante.
+Aqui vamos precisar utilizar o modo de compatibilidade e escolher o **Windows XP** para que o jogo funcione.
 
-Aqui vamos precisar utilizar o modo de compatibilidade e escolher o **Windows XP** pelo Winetricks, o jogo não funciona nos outros modos.
+Clique no botão proximo ao icone de taça, indicado na imagem abaixo e clique em "Configuração do Wine"
 
-Clique no botão proximo ao icone de taça, indicado na imagem abaixo e clique em Winetricks
+Na proxima janela, em "Versão do Windows", escolha na lista o Windows XP. Clique em aplicar e depois em Ok para fechar.
 
-![abrindo o winetricks](https://cdn-images-1.medium.com/max/800/0*9oXk8BOmLMB5vT1f.jpg)
+![selecionando o modo windows xp](/assets/img/posts/modoxp.png)
 
-Ao fazer isso o Winetricks vai abrir, basta selecionar a opção **MIR4** e clicar em **OK**, que é o nome da pasta que nós criamos dentro da pasta **wineprefixes**.
-
-![selecionando o prefixo do jogo](https://cdn-images-1.medium.com/max/800/0*AKvdpQsxvQnAJVjq.jpg)
-
-Agora selecione a opção **Alterar configurações** e clique em **OK**.
-
-![selecionando a opção alterar configurações](https://cdn-images-1.medium.com/max/800/0*AUx6l7eHGMuJVWGv.jpg)
-
-Agora desça até o final da página e selecione a opção **winxp** e clique em **OK**.
-
-### Instalar as dependências
-O MIR4 depende do vcrun2017 e felizmente o instalador do MIR4 já trás essa dependencia com ele, nós só precisamos abrir o **UE4PrereqSetup_x64.exe** que vai instalar o vcrun2017 e outras dependencias do motor gráfico do jogo.
+### Instalar o jogo e as dependências
+Depois de criar uma pasta para o jogo e também selecionar o modo Windows XP, vamos instalar o jogo pelo instalador.
 
 Na tela inicial do lutris, clique no icone ao lado da taça e selecione a opção **Executar EXE dentro do prefixo do Wine**.
 
-![executar exe dentro do prefixo](https://cdn-images-1.medium.com/max/800/0*Wq17Rqin13NuSzez.jpg)
+Isso vai abrir uma janela, basta selecionar o app "Mir4Launcher_Install.exe" e fazer a instalação do jogo.
+
+![Instalador do jogo](/assets/img/posts/mir4installer.png)
+
+Depois de instalar o jogo, vamos agora executar o instalador "UE4PrereqSetup_x64.exe" que vém com o jogo, ele traz as dependencias vcrun2017 (Visual Studio).
+
+Na tela inicial do lutris, clique no icone ao lado da taça e selecione a opção "Executar EXE dentro do prefixo do Wine".
 
 Agora vamos precisar entrar nesse diretório e encontrar o app de instalação:
 
-> _~/.local/share/wineprefixes/MIR4/drive_c/Wemade/Mir4Global/Mir4Launch/Resources/_**_UE4PrereqSetup_x64.exe_**
+> _/home/marcos/Mir4/drive_c/Wemade/Mir4Global/Mir4Launch/Resources/_**_UE4PrereqSetup_x64.exe_**
 
 Com isso vai aparecer o instalador, faça a instalação normalmente.
 
-![instalador UE4PrereqSetup](https://cdn-images-1.medium.com/max/800/0*D9L5Cx7nNAVLzhUZ.jpg)
+![instalador UE4PrereqSetup](/assets/img/posts/ueprereqsetup.png)
+
+Basta instalar normalmente.
 
 ### Concluindo a configuração e abrindo o jogo
 Chegamos na ultima parte, vamos abrir as configurações do lutris novamente e selecionar o launcher do jogo.
 
 Basta voltar para a tela inicial do Lutris, selecionar o jogo e selecionar a opção **Configurar**.
 
-![voltando nas configurações](https://cdn-images-1.medium.com/max/800/0*VL_KKGn2oOZVXAtB.jpg)
-
 Ao abrir a nova janela, vamos para a aba **Opções de jogo** e selecionar o launcher do jogo.
-
-De acordo com a imagem a baixo, o local do launcher é:
-
-> _~/.local/share/wineprefixes/MIR4/drive_c/Wemade/Mir4Global/Mir4Launcher/_**_Mir4Launcher.exe_**
 
 Após selecionar o executavel do launcher, clique em **Salvar**.
 
-![selecionando o executavel do launcher](https://cdn-images-1.medium.com/max/800/0*P282qYgEMc6GMC3w.jpg)
+De acordo com a imagem a baixo, o local do launcher é:
+
+> _/home/marcos/Mir4/drive_c/Wemade/Mir4Global/Mir4Launcher/_**_Mir4Launcher.exe_**
+
+![voltando nas configurações](/assets/img/posts/addlauncher.png)
 
 Terminando essa parte basta clicar em **Jogar** que o launcher vai abrir.
-
-Após o launcher abrir, ele vai informar que há nova atualização e depois de clicar em OK ele vai fechar e reabrir sozinho após a barra de progresso enxer.
-
-![pop up de carregamento](https://cdn-images-1.medium.com/max/800/0*dFEkGRNE22SpX9cH.jpg)
 
 Assim que o launcher abrir, a proxima tarefa é clicar em **Options** e selecionar o modo **OpenGL**.
 
@@ -200,12 +182,15 @@ Certamente isso é o suficiente para que o jogo abra e baixe os demais arquivos 
 
 **Terminamos**.
 
+Se a tela de login ficar preta, siga essa dica:
+
+
 ## Dica para quem já tem o jogo baixado
 Se assim como eu você jogou o MIR4 pelo Windows antes de usar Linux, ou ficou jogando no Windows esperando pelo momento em que o MIR4 também rodasse no Linux, você deve ter o jogo completo.
 
 Pra evitar que você baixe tudo de novo jogando pelo Linux, você pode simplesmente copiar a pasta **Wemade** que está junto com o Windows e colar no diretório abaixo:
 
-> _~/.local/share/wineprefixes/MIR4/_**_drive_c/_**
+> _/home/seu_user/Mir4/_**_drive_c/_**
 
 Nota: Faça a cópia depois de instalar o launcher pelo Lutris
 
@@ -219,7 +204,7 @@ No Windows quando abrimos o MIR4 o jogo automaticamente abre uma nova página co
 
 ![janela com erro de autenticação](https://cdn-images-1.medium.com/max/800/0*omi5Ceys_ZXvbEVz.jpg)
 
-Esse é um problema com o runner, eu havia testado outros runners como por exemplo o **lutris-fshack-7.2** e nele o navegador não abre com o captcha, mas no runner lutris-GE-Proton7–16 esse problema não acontece.
+Esse é um problema com o runner, você consegue resolver escolhendo outra versão do runner, aqui no caso não houve esse problema com o ProtonGE8-10.
 
 Observação: Se o problema acontece até no runner recomendado neste artigo, verifique em sua distribuição se o browser que você usa é o browser padrão para navegação.
 
@@ -238,26 +223,19 @@ Após selecionar o servidor e o personagem, assim que você entrar no mapa, fech
 
 Após fechar o jogo, vá no Windows Explorer e acesse essa pasta:
 
-> _C:\Wemade\Mir4Global\Mir4Client\MirMobile\SaveData\Saved\SaveGames_
+> _C:\Wemade\Mir4Global\Mir4Client\MirMobile\SaveData\Saved_
 
 Ao entrar nessa pasta, basta copiar todos os arquivos e substituir eles na pasta:
 
-> _~/.local/share/wineprefixes/MIR4/drive_c/Wemade/Mir4Global/Mir4Client/MirMobile/SaveData/Saved/SaveGames_
+> _/home/seu_user/Mir4/drive_c/Wemade/Mir4Global/Mir4Client/MirMobile/SaveData/Saved_
 
 Na verdade, após logar no jogo usando o Windows você só precisa reiniciar o PC e dar boot no Linux, e do linux você pode pegar os arquivos na partição do Windows e colar na pasta MIR4 do lutris.
 
-Para ser mais exato os arquivos de login são:
+Dependendo do runner, substituir os arquivos não vai ajudar, caso aconteça com você tente outro runner e tente novamente o processo.
 
--   **AccountLocalSave1.sav**
--   **AccountLocalSave2.sav**
+Depois de fazer isso o jogo não vai pedir para você logar na conta de novo.
 
-Mas por via das dúvidas é bom copiar tudo.
-
-Dependendo do runner, substituir os arquivos não vai ajudar, esse problema também acontece com o runner **lutris-fshack-7.2**, mas no runner lutris-GE-Proton7–16 esse problema não acontece.
-
-Uma vez que você tenha esses arquivos, se esse problema acontecer novamente basta fechar e abrir o jogo novamente que ele não vai pedir para você logar na conta de novo, se não resolver na 2ª tentativa tente logar com o Windows e passar os arquivos acima para o Linux novamente.
-
-Esse problema também aparece ao tentar fundir o DRACO, infelizmente não há como contornar isso no Linux e por isso você deve mexer com draco pelo Windows mesmo. 😐
+Esse problema de tela preta também vai aparecer ao tentar fundir o DRACO, infelizmente não há como contornar isso no Linux e por isso você deve mexer com draco pelo Windows mesmo. 😐
 
 ### Quedas de FPS e engasgos
 Esse é um problema que acontece, mas só dura nos primeiros minutos de jogo, acredito que seja uma característica do OpenGL, após alguns minutos o jogo roda tranquilamente.
