@@ -64,7 +64,7 @@ O uso do **Wine Mono** só vai ser necessário se o jogo pedir pelo **.NET Frame
 Entre no site do Mir4 e faça o download do jogo standalone para Windows
 [https://www.mir4global.com/](https://www.mir4global.com/)
 
-Se preferir clique aqui para baixar diretamente o instalador do jogo:
+Se preferir clique aqui para baixar diretamente o instalador do jogo
 [https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe](https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe)
 
 ### Instalar o lutris:
