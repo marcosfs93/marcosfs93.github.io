@@ -68,7 +68,7 @@ Se preferir clique aqui para baixar diretamente o instalador do jogo
 [https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe](https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe)
 
 ### Instalar o lutris:
-Certo, primeiro trate de instalar o driver da placa de vídeo com suporte ao vulkan e baixar o Lutris, o lutris pode estar disponível nos repositórios oficiais da sua distrok.
+Certo, primeiro trate de instalar o driver da placa de vídeo com suporte ao vulkan e baixar o Lutris, o lutris pode estar disponível nos repositórios oficiais da sua distro.
 
 Para baixar o lutris nos repositórios oficiais da sua distro:
 
@@ -95,7 +95,7 @@ Após baixar o runner, feche o lutris e reabra-o, com isso já podemos criar uma
 ### Criar a pasta do MIR4
 Agora que já temos o runner necessário pra fazer o MIR4 funcionar, vamos criar uma pasta onde o MIR4 será instalado.
 
-Você pode criar essa pasta em qualquer lugar, eu por exemplo instalei na minha pasta home
+Você pode criar essa pasta em qualquer lugar, eu por exemplo decidi instalar na minha pasta /home.
 
 	/home/marcos/Mir4
 
@@ -154,8 +154,6 @@ Com isso vai aparecer o instalador, faça a instalação normalmente.
 
 ![instalador UE4PrereqSetup](/assets/img/posts/ueprereqsetup.png)
 
-Basta instalar normalmente.
-
 ### Concluindo a configuração e abrindo o jogo
 Chegamos na ultima parte, vamos abrir as configurações do lutris novamente e selecionar o launcher do jogo.
 
@@ -181,10 +179,7 @@ Depois de fazer isso pode fechar a janela e clicar em **Install**.
 
 Certamente isso é o suficiente para que o jogo abra e baixe os demais arquivos sem nenhum problema.
 
-**Terminamos**.
-
-Se a tela de login ficar preta, siga essa dica:
-
+Provavelmente após abrir o jogo, na hora de fazer login a tela vai ficar preta. Siga essas instruções para resolver o problema: [Tela de login preta](#tela-de-login-preta)
 
 ## Dica para quem já tem o jogo baixado
 Se assim como eu você jogou o MIR4 pelo Windows antes de usar Linux, ou ficou jogando no Windows esperando pelo momento em que o MIR4 também rodasse no Linux, você deve ter o jogo completo.
