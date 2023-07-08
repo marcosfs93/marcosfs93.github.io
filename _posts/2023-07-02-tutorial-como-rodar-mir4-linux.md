@@ -61,7 +61,7 @@ O uso do **Wine Mono** só vai ser necessário se o jogo pedir pelo **.NET Frame
 
 ### Baixe o instalador do jogo:
 
-Primeiro entre no site do Mir4 e faça o download do jogo standalone para Windows
+Entre no site do Mir4 e faça o download do jogo standalone para Windows
 [https://www.mir4global.com/](https://www.mir4global.com/)
 
 Se preferir clique aqui para baixar diretamente o instalador do jogo:
