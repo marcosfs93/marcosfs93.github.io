@@ -25,13 +25,14 @@ Este artigo foi atualizado pela ultima vez em **07 de julho de 2023**.
 
 - [- Vídeo tutorial](#video-tutorial)
 - 1[ - Requisitos](#requisitos)
-- 2 [- Instalar o lutris](#instalar-o-lutris)
-- 3 [- Baixar o runner](#baixar-o-runner)
-- 4 [- Criar a pasta do MIR4](#criar-a-pasta-do-mir4)
-- 5 [- Criar uma configuração do MIR4](#criar-uma-configuração-do-mir4)
-- 6 [- Selecionar o Modo Windows XP](#selecionar-o-modo-windows-xp)
-- 7 [- Instalar as dependências](#instalar-as-dependências)
-- 8 [- Concluindo a configuração e abrindo o jogo](#concluindo-a-configuração-e-abrindo-o-jogo)
+- 2 [- Baixe o instalador do jogo:](#baixe-o-instalador-do-jogo)
+- 3 [- Instalar o lutris](#instalar-o-lutris)
+- 4 [- Baixar o runner:](#baixar-o-runner)
+- 5 [- Criar a pasta do MIR4](#criar-a-pasta-do-mir4)
+- 6 [- Criar uma configuração do MIR4](#criar-uma-configuração-do-mir4)
+- 7 [- Selecionar o Modo Windows XP](#selecionar-o-modo-windows-xp)
+- 8 [- Instalar o jogo e as dependências](#instalar-o-jogo-e-as-dependências)
+- 9 [- Concluindo a configuração e abrindo o jogo](#concluindo-a-configuração-e-abrindo-o-jogo)
 - [- Dica para quem já tem o jogo baixado](#dica-para-quem-já-tem-o-jogo-baixado)
 - [- Problemas conhecidos](#problemas-conhecidos)
 - 1 [- Navegador com o site do captcha não abre](#navegador-com-o-site-do-captcha-não-abre)
@@ -64,7 +65,7 @@ Primeiro entre no site do Mir4 e faça o download do jogo standalone para Window
 (https://www.mir4global.com/)[https://www.mir4global.com/]
 
 Se preferir clique aqui para baixar diretamente o instalador do jogo:
-(https://www.mir4global.com/)[https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe]
+(https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe)[https://live-dl.mir4global.com/global-launcher/Mir4Launcher_Install.exe]
 
 ### Instalar o lutris:
 Certo, primeiro trate de instalar o driver da placa de vídeo com suporte ao vulkan e baixar o Lutris, o lutris pode estar disponível nos repositórios oficiais da sua distrok.
