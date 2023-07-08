@@ -1,6 +1,6 @@
 ---
 title: Tutorial - Como rodar MIR4 no Linux
-date: 2023-07-07
+date: 2023-07-02
 author: M4rQu1Nh0S
 tags: [tutorial, guia, como, rodar, mir4, linux]
 subtitle: Saiba o que fazer para o jogo funcionar no Linux
