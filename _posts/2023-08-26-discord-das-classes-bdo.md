@@ -1,6 +1,6 @@
 ---
 title: Discord das classes do BDO
-date: 2023-26-08
+date: 2023-08-26
 author: M4rQu1Nh0S
 tags: [Black Desert Online]
 subtitle: Versão alternativa com baixo uso de memória
