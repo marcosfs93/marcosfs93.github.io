@@ -1,5 +1,5 @@
 ---
-title: Inferno Imortal e aas mecânicas dos chefes
+title: Inferno Imortal e as mecânicas dos chefes
 date: 2023-08-30
 author: M4rQu1Nh0S
 tags: [Black Desert Online]
