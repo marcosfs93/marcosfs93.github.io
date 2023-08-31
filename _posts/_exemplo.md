@@ -7,8 +7,8 @@ subtitle:
 categories: []
 comments: true
 #cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/posts/thumb.png
+share-img: /assets/img/posts/path.jpg
 layout: post
 ---
 
