@@ -61,7 +61,7 @@ Basta atacar e se proteger dos ataques, não há mecanicas para esse boss.
 - Venet e seus clones podem lançar projeteis quando você estiver no raio de alcance dela, o que pode te derrubar.
 
 ### 5- Evergart
-- Evergart mais dano e defesa comparado com outros chefes, e vai demorar mais para morrer.
+- Evergart dá mais dano e tem mais defesa comparado com outros chefes, e vai demorar mais para morrer.
 - Você pode evitar seus ataques se mantendo nas costas dele, e tomando cuidado com as luzes azuis que piscam, que aparecem quando ele estiver prestes a lançar certos ataques.
 - Quando ele estiver prestes a usar uma habilidade de esmagamento use um CC **Flutuante** para derruba-lo, você também pode usar **Empurrão** e **Derrubada**. Após ser derrubado, ele vai receber mais dano por um breve periodo.
 
