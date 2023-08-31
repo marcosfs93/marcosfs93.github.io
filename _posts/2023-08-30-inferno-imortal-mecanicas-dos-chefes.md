@@ -1,6 +1,6 @@
 ---
 title: Inferno Imortal e aas mecânicas dos chefes
-date: 2023-30-08
+date: 2023-08-30
 author: M4rQu1Nh0S
 tags: [Black Desert Online]
 subtitle: Aprenda como derrotar todos os chefes no Black Desert
