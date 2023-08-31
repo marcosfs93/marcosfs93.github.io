@@ -18,7 +18,25 @@ Neste artigo eu vou explicar as mecanicas de cada chefe ou informar como vence-l
 Confira a seguir a lista de chefes e como derrota-los:
 
 ## Menu
-
+1. [Rakan](1--rakan)
+2. [Valkin](2--valkin)
+3. [Farid](3--farid)
+4. [Venet](4--venet)
+5. [Evergart](5--evergart)
+6. [Kunga](6--kunga)
+7. [Buddy](7--buddy)
+8. [Homem de Defesa de Ferro](8--homem-de-defesa-de-ferro)
+9. [Ban Ryker](9--ban-ryker)
+10. [Rocha](10--rocha)
+11. [Kardoon ](11--kardoon)
+12. [Kaua](12--kaua)
+13. [Sihajar](13--sihajar)
+14. [Duran](14--duran)
+15. [Ascendra](15--ascendra)
+16. [Solaria](16--solaria)
+17. [Kyril](17--kyril)
+18. [Gotha Rensa](18--gotha-rensa)
+19. [Caroxya](19--caroxya)
 
 ### 1- Rakan
 Basta atacar e se proteger dos ataques, não há mecanicas para esse boss.
@@ -171,4 +189,5 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 - Agora você pode causar dano normalmente e usar qualquer CC livremente. Ela pode começar a carregar o AOE roxo novamente e você apenas repete a mecânica.
 
 Este artigo é uma tradução do guia no Black Desert Foundry
-#### Fonte: https://www.blackdesertfoundry.com/pit-of-undying-crows-nest-questline/
+
+Fonte: [https://www.blackdesertfoundry.com/pit-of-undying-crows-nest-questline/](https://www.blackdesertfoundry.com/pit-of-undying-crows-nest-questline/)
