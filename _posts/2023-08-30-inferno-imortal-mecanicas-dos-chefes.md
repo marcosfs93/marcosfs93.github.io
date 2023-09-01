@@ -39,7 +39,7 @@ Confira a seguir a lista de chefes e como derrota-los:
 19. [Caroxya](#19--caroxya)
 
 ### 1- Rakan
-Basta atacar e se proteger dos ataques, não há mecanicas para esse boss.
+- Basta atacar e se proteger dos ataques, não há mecanicas para esse boss.
 
 ### 2- Valkin
 - Valkin pode a qualquer momento bater no chão, o que vai criar uma névoa ou nuvem violeta
@@ -54,7 +54,7 @@ Basta atacar e se proteger dos ataques, não há mecanicas para esse boss.
 
 ### 4- Venet
 - Ela vai invocar 2 clones após receber certo dano.
-- O truque para achar a verdadeira é os clones podem caminhar enquanto a verdadeira não pode se mexer.
+- **O truque para achar a verdadeira é que os clones podem correr enquanto a verdadeira não.**
 - A verdadeira Venet recebe mais dano que os clones.
 - Se concentre apenas na verdadeira, por que ao matar os clones eles desaparecem e retornam com o HP cheio.
 - Quando matar a verdadeira Venet, ela vai reaparecer com o HP que tinha antes dos clones aparecerem, então repita a estratégia para derrota-la.
@@ -67,9 +67,9 @@ Basta atacar e se proteger dos ataques, não há mecanicas para esse boss.
 
 ### 6- Kunga
 - Kunga só vai aparecer após você desbloquear a linha de quests, e pode a qualquer momento aparecer como boss diário nos desafios.
-- Para derrota-lo, você precisa tomar cuidado quando ele lançar certos golpes. Ele vai ter uma coloração branca em sua volta (pode ser em vermelho ao invés disso).
+- Para derrota-lo, você precisa tomar cuidado quando ele lançar certos golpes. Ele vai ter uma **coloração branca em sua volta** (pode ser em vermelho ao invés disso).
 - A habilidade é executada quando ele chega aos 85%, 70%, 55%, 40% e aos 25% de HP.
-- Quando ele estiver executando a habilidade, você deve estar nas costas e usar um CC **Flutuante** nele.
+- Quando ele estiver executando a habilidade, **você deve estar nas costas e usar um CC Flutuante nele**.
 - Se você falhar até 3 vezes, ou quando ele chegar aos 25% de HP, ele vai usar um ataque giratório até que você morra (Nem usando o V você pode escapar disso.)
 - Se você tiver sucesso em aplicar o CC nele 3 vezes, então ele vai executar um breve ataque giratório, você deve tomar cuidado, Quando ele estiver te seguindo com o ataque giratório, ele pode acabar batendo na parede da arena e cair. Após isso ele vai ficar no chão e você poderá acabar com ele.
 
@@ -102,6 +102,8 @@ Basta atacar e se proteger dos ataques, não há mecanicas para esse boss.
 - Kardoon aparece pela primeira vez como o último chefe em seu teste de promoção para TRI. Ele então terá a chance de aparecer em seu desafio diário assim que você alcançar o TRI Insignia.
 - Kardoon é um lobo que tem ataques de garra e também atacará 5 vezes seguidas à sua frente (tem efeito vermelho).
 O último golpe dos ataques pode derrubá-lo, então tome cuidado com isso.
+- Quando o HP dele chegar em 75% e em 25% ele vai se enfurecer. Ao se transformar ele fica muito resistente e não pode ser derrotado enquanto estiver nessa forma.
+- **Após ele se transformar, fuja dele por toda a arena e não ataque ele**. Após em breve periodo de tempo ele ficará cansado e voltará para o centro da arena, sua transformação voltará ao normal. Ao retornar para sua forma normal você poderá derrota-lo facilmente.
 
 ### 12- Kaua 
 - Kauha tem a chance de aparecer em seu desafio diário assim que você alcançar o TRI.
@@ -111,7 +113,7 @@ O último golpe dos ataques pode derrubá-lo, então tome cuidado com isso.
 - Ele não é muito difícil de achar quando você sabe que procura por ele, devido ao seu comportamento único de não atacar e, em vez disso, fugir e tentar encontrar um local distante de você para ficar parado.
 - Kaua irá então para o meio da arena e convocará mais esqueletos arqueiros junto com 2 esqueletos de elite desta vez (um com machado duplo e outro com escudo).
 - Ignore os Arqueiros Esqueletos por enquanto e concentre-se nas elites.
-- Ambos os esqueletos de elite devem morrer ao mesmo tempo , se não morrerem ao mesmo tempo serão convocados novamente.
+- **Ambos os esqueletos de elite devem morrer ao mesmo tempo** , se não morrerem ao mesmo tempo serão convocados novamente.
 - Aquele com o escudo é tank e deve ser focado primeiro, o que não é tão difícil. No entanto, aquele com machados duplos irá cavar no subsolo periodicamente e quando ele voltar, poderá causar CC em você (ignorando as habilidades de proteção).
 - Depois de matar os dois elites ao mesmo tempo, agora você precisa encontrar o esqueleto arqueiro com mais HP novamente e desta vez reduzir para 30% de HP.
 - Finalmente, Kaua irá convocar 4 esqueletos de elite (2 com machados duplos e 2 com escudos). Desta vez você deve matar todos os 4 elites ao mesmo tempo, repetindo o mesmo processo de antes.
@@ -129,7 +131,7 @@ O último golpe dos ataques pode derrubá-lo, então tome cuidado com isso.
 ### 14- Duran
 - Duran aparece pela primeira vez como chefe final em seu teste de promoção ao TET. Ele então terá a chance de aparecer em seu desafio diário assim que você alcançar o TET.
 - Para derrotar Duran, você deve primeiro ficar na frente dele e esperar ser atacado por ele. Ele usará 2 CC diferentes em você, que você deve observar atentamente.
-- Depois que ele usar o CC, você deverá usar o mesmo tipo de CC nele na mesma ordem.
+- Depois que ele usar o CC, **você deverá usar o mesmo tipo de CC nele na mesma ordem**.
 
 Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigidez e então derrubar ele nessa ordem.
 
@@ -149,7 +151,7 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 - Assim que ela atingir aproximadamente 80% do HP, ela invocará um companheiro urso que rolará periodicamente em sua direção.
 - Ascendra também irá se buffar com um buff de DP e dano adicional. À medida que ela sofre mais dano, ela fará uma animação onde brilhará em branco.
 - Você também pode causar dano ao urso dela e, se ele sofrer dano suficiente, ele se moverá para a entrada da arena e se curará completamente, antes de rolar mais forte em sua direção.
-- Assim que Ascendra estiver brilhando em branco, você deve se mover para uma posição em que o rolamento do urso atinja Ascendra e a derrube.
+- Assim que Ascendra estiver brilhando em branco, **você deve se mover para uma posição em que o rolamento do urso atinja Ascendra e a derrube**.
 - Se o urso rolar sobre Ascendra, ele removerá o buff de DP, permitindo que você cause dano a ela de maneira adequada. Esta mecânica será repetida quando Ascendra estiver com 60%, 40% e 20% de HP.
 
 ### 16- Solaria
@@ -185,7 +187,7 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 **Para a fase 3**, Caroxya levantará imediatamente as mãos e atacará um grande ataque AOE roxo.
 - Durante esse tempo, você sofrerá danos repetidamente se estiver dentro da área roxa.
 - A área também se amplia gradualmente e posteriormente causará um ataque explosivo. Quando Caroxya estiver prestes a fazer o ataque explosivo, ela começará a piscar em vermelho. Ela também receberá um buff de AP em sua barra de HP.
-- Você deve usar um Empurrão ou Flutuante quando Caroxya começar a piscar em vermelho para interrompê-la, removendo o buff e debuffando-a.
+- **Você deve usar um Empurrão ou Flutuante quando Caroxya começar a piscar em vermelho** para interrompê-la, removendo o buff e debuffando-a.
 - Agora você pode causar dano normalmente e usar qualquer CC livremente. Ela pode começar a carregar o AOE roxo novamente e você apenas repete a mecânica.
 
 Este artigo é uma tradução do guia no Black Desert Foundry
