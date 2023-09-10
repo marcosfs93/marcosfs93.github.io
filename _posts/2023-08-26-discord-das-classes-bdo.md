@@ -62,7 +62,7 @@ Se você está procurando o discord de sua classe, seja em portugues ou em ingle
 - [NOVA](https://discord.gg/jM3X52XXpB)
 - [SAGE](https://discord.gg/EJ98umNjyZ)
 - [SHAI](https://discord.GG/vq68zAG)
-- [VALQUÍRIA](https://discord.gg/CVek8YG7eY)
+- [VALQUÍRIA](https://discord.gg/zKCbdy8Z8a)
 - [WU-SA & ME-GU](https://discord.gg/SpBFeSTCpz)
 
 Lista atualizada em 26/08/23
