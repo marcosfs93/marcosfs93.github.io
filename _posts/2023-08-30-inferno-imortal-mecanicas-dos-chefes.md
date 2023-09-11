@@ -155,10 +155,10 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 - Assim que Ascendra estiver brilhando em branco, **você deve se mover para uma posição em que o rolamento do urso atinja Ascendra e a derrube**.
 - Se o urso rolar sobre Ascendra, ele removerá o buff de DP, permitindo que você cause dano a ela de maneira adequada. Esta mecânica será repetida quando Ascendra estiver com 60%, 40% e 20% de HP.
 
-### 16- Solaria
-- Solaria aparece pela primeira vez em seu desafio diário quando você alcança o TET.
-- O truque para derrotar Solaria é manter seu HP abaixo de 60% durante toda a luta.
-- Enquanto seu HP estiver abaixo de 60%, o buff de DP em Solaria muda para um buff de AP e permite que você cause mais dano.
+### 16- Solios
+- Solios aparece pela primeira vez em seu desafio diário quando você alcança o TET.
+- O truque para derrotar Solios é manter seu HP abaixo de 60% durante toda a luta.
+- Enquanto seu HP estiver abaixo de 60%, o buff de DP em Solios muda para um buff de AP e permite que você cause mais dano.
 
 ### 17- Kyril
 - Kyril aparece pela primeira vez como o último chefe durante sua promoção para PEN. Ela então terá a chance de aparecer em seu desafio diário assim que você alcançar o PEN.
