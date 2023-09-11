@@ -63,7 +63,8 @@ Confira a seguir a lista de chefes e como derrota-los:
 ### 5- Evergart
 - Evergart dá mais dano e tem mais defesa comparado com outros chefes, e vai demorar mais para morrer.
 - Você pode evitar seus ataques se mantendo nas costas dele, e tomando cuidado com as luzes azuis que piscam, que aparecem quando ele estiver prestes a lançar certos ataques.
-- Quando ele estiver prestes a usar uma habilidade de esmagamento use um CC **Flutuante** para derruba-lo, você também pode usar **Empurrão** e **Derrubada**. Após ser derrubado, ele vai receber mais dano por um breve periodo.
+- Após o HP dele chegar em 50% você pode empurra-lo e em seguida derruba-lo.
+- Quando ele estiver prestes a usar uma habilidade, use um CC **Flutuante** para derruba-lo, você também pode usar **Empurrão** e **Derrubada**. Após ser derrubado, ele vai receber mais dano por um breve periodo.
 
 ### 6- Kunga
 - Kunga só vai aparecer após você desbloquear a linha de quests, e pode a qualquer momento aparecer como boss diário nos desafios.

@@ -24,7 +24,7 @@ Se você está procurando o discord de sua classe, seja em portugues ou em ingle
 - [CAVALEIRA DAS TREVAS](https://discord.gg/DapbheV)
 - [CORSARIA](https://discord.gg/gk7vvNfXz9)
 - [DOMADORA](https://discord.gg/uUSsSxX54z)
-- [DRAKANIA](#inativo)
+- [DRAKANIA](https://discord.gg/Vh5Kfkm4n3)
 - [FEITICEIRA](https://discord.gg/3pyJw9a)
 - [GUARDIÃ](https://discord.gg/K6jVgTWcan)
 - [GUERREIRO](https://discord.gg/4WFC8tN87G)
