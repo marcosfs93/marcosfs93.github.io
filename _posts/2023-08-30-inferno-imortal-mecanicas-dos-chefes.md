@@ -90,7 +90,7 @@ Confira a seguir a lista de chefes e como derrota-los:
 ### 9- Ban Ryker
 - Ban Ryker aparece pela primeira vez como o ultimo boss na promoção de teste DUO. Ele pode aparecer a qualquer momento nas missões diárias quando você chegar na insignea DUO.
 - Ele tem dois ataques giretórios. O primeiro tem uma luz azul em volta dele o que não deve te preucupar e poderá ataca-lo neste estado, ataque o quanto puder nesse momento.
-- Há o outro que tem uma névoa negra no ataque giratório, voce deve aplicar o CC de **Vinculado (Bound)** nele.
+- Há o outro que tem uma névoa negra no ataque giratório, voce deve aplicar o CC de **Imobilização (Bound)** nele.
 - Caso você não aplique CC nele, ele vai sumonar tornados que se movem lentamente até você. Se você entrar em contato com os tornados você vai levar CCs até morrer.
 
 ### 10- Rocha
@@ -111,12 +111,13 @@ O último golpe dos ataques pode derrubá-lo, então tome cuidado com isso.
 - Ele é um xamã que irá convocar diferentes esqueletos ao longo da luta.
 - No começo, ele irá convocar muitos Arqueiros Esqueletos. Lance habilidades de area no grupo de esqueletos quando ele os convocar.
 - Você notará que um dos esqueletos é mais tanque e não perde tanto HP quanto os demais, concentre-se neste esqueleto até atingir aproximadamente 70% de HP.
-- Ele não é muito difícil de achar quando você sabe que procura por ele, devido ao seu comportamento único de não atacar e, em vez disso, fugir e tentar encontrar um local distante de você para ficar parado.
+- Ele não é muito difícil de achar, ele se comporta diferente dos outros esqueletos, ele não ataca e tende a se afastar de você e se isolar dos outros esqueletos.
 - Kaua irá então para o meio da arena e convocará mais esqueletos arqueiros junto com 2 esqueletos de elite desta vez (um com machado duplo e outro com escudo).
 - Ignore os Arqueiros Esqueletos por enquanto e concentre-se nas elites.
 - **Ambos os esqueletos de elite devem morrer ao mesmo tempo** , se não morrerem ao mesmo tempo serão convocados novamente.
 - Aquele com o escudo é tank e deve ser focado primeiro, o que não é tão difícil. No entanto, aquele com machados duplos irá cavar no subsolo periodicamente e quando ele voltar, poderá causar CC em você (ignorando as habilidades de proteção).
-- Depois de matar os dois elites ao mesmo tempo, agora você precisa encontrar o esqueleto arqueiro com mais HP novamente e desta vez reduzir para 30% de HP.
+- Foque-se em reduzir o HP dos esqueletos de escudo em 90% e depois mate os elites com o machado e então finalize os esqueletos elites ao mesmo tempo.
+- Depois de matar os dois elites ao mesmo tempo, você precisa encontrar o esqueleto arqueiro com mais HP novamente e desta vez reduzir para 30% de HP.
 - Finalmente, Kaua irá convocar 4 esqueletos de elite (2 com machados duplos e 2 com escudos). Desta vez você deve matar todos os 4 elites ao mesmo tempo, repetindo o mesmo processo de antes.
 - Depois que todos os 4 elites forem mortas, mate o esqueleto do arqueiro tanque para derrotar Kauha.
 
@@ -143,7 +144,7 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 - Ataque lateral (usando o braço direito) = O ataque pode ser Rigidez OU Atordoamento CC – Infelizmente, você precisa observar este com cuidado
 - Ataque lateral (usando o braço esquerdo) = Use um Flutuante ou CC de Empurrão
 - Ataque de gancho = Use um Flutuante ou CC de Empurrão
-- Ataque de salto = Use um CC Vinculado ou Derrubada
+- Ataque de salto = Use um CC Imobilização ou Derrubada
 - Após a terceira fase do CC, ele começará a lutar contra você sem o buff de AP/DP. Use esse tempo para causar o máximo de dano possível a ele.
 - Eventualmente, ele ganhará um brilho vermelho ao seu redor e uivará, isso significa que ele voltará para a fase CC, então você deve copiar seus efeitos CC novamente.
 
@@ -159,6 +160,8 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 - Solios aparece pela primeira vez em seu desafio diário quando você alcança o TET.
 - O truque para derrotar Solios é manter seu HP abaixo de 60% durante toda a luta.
 - Enquanto seu HP estiver abaixo de 60%, o buff de DP em Solios muda para um buff de AP e permite que você cause mais dano.
+- Configure sua fada para que ela não cure automaticamente, para evitar passar dos 60% de HP, caso você passe dos 60% de HP, deixe que a Solios reduza o seu HP outra vez após ela adquirir o buff de DP.
+- Enquanto ela estiver com o buff de AP, evite seus ataque para evitar hit kill.
 
 ### 17- Kyril
 - Kyril aparece pela primeira vez como o último chefe durante sua promoção para PEN. Ela então terá a chance de aparecer em seu desafio diário assim que você alcançar o PEN.
