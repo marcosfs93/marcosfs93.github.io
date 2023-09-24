@@ -186,7 +186,7 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 **Para a fase 2**, Caroxya levantará seu escudo e assumirá uma postura defensiva de bloqueio.
 - Ela bloqueará todos os danos frontais e girará para ficar de frente para você. Se você fizer algum ataque no block, ela ficará vermelha e atacará você. Sangramentos em suas habilidades também podem desencadear isso.
 - Para desabilitar o escudo de Caroxya você precisa ir rapidamente atrás dela e usar um Empurrão ou Flutuante antes que ela se vire para você. Você precisa quebrar o escudo 3 vezes para passar para a próxima fase.
-- Também é importante notar que você pode aprimorar a mecânica de Caroxya. Durante a segunda fase, o limite de tempo não se aplica e você só falhará se morrer. Portanto, você pode realmente matá-la se não usar um Empurrão ou Flutuante. No entanto, você precisa ter muito cuidado para tentar acertá-la apenas pelas costas para causar dano, e estar pronto para se esquivar de ataques se acertar pela frente.
+- Também é importante notar que você pode tirar proveito dessa mecanica. Durante essa segunda fase, o limite de tempo não se aplica, só vai falhar se morrer. Portanto, você pode matá-la sem precisar usar Empurrão ou Flutuante. No entanto, você precisa ter muito cuidado e tentar acertá-la apenas pelas costas para causar dano, e estar pronto para se esquivar de ataques caso bata pela frente dela.
 
 **Para a fase 3**, Caroxya levantará imediatamente as mãos e atacará um grande ataque AOE roxo.
 - Durante esse tempo, você sofrerá danos repetidamente se estiver dentro da área roxa.
