@@ -3,7 +3,7 @@ title: Como resolver o erro 0x80070643 da atualização KB5034232 do Windows 10
 date: 2024-01-19
 author: M4rQu1Nh0S
 tags: [windows 11, windows update]
-subtitle: Minhas anotações sobre as aulas do curso iniciante de Javascript
+subtitle: Saiba como resolver este erro do Windows Update
 categories: [windows 11]
 comments: true
 #cover-img: 
