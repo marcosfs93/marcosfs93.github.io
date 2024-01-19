@@ -7,8 +7,8 @@ subtitle: Saiba como resolver este erro do Windows Update
 categories: [windows 11]
 comments: true
 #cover-img: 
-thumbnail-img: /assets/img/posts/winre/img1.png
-share-img: /assets/img/posts/winre/img1.png
+thumbnail-img: https://marcosfs93.github.io/assets/img/posts/winre/img1.png
+share-img: https://marcosfs93.github.io/assets/img/posts/winre/img1.png
 layout: post
 ---
 Após fazer um upgrade no PC eu aproveitei e reinstalei o Windows 10, e para deixar o sistema redondo eu optei por deixar o sistema atualizar por completo primeiro, e em seguida instalar e configurar meus aplicativos.
@@ -17,7 +17,7 @@ Porém por algum motivo o Windows Update dava o erro 0x80070643, no meu caso est
 
 Essa atualização serve para atualizar o sistema de recuperação do Windows, porém o sistema precisa atender a alguns requisitos, caso contrário a atualização vai falar. Isso pode acontecer se você instalou uma versão não oficial do sistema ou por métodos alternativos.
 
-Caso não saibam, é possivel instalar o Windows de outro jeito via WinNTSetup. No site e no youtube temos um guia ensinando isso, caso você não esteja conseguindo instalar o Windows normalmente: https://marcosfs93.github.io/2023-07-02-metodo-alternativo-instalar-windows/
+Caso não saibam, é possivel instalar o Windows de outro jeito via WinNTSetup. No site e no youtube temos um guia ensinando isso, caso você não esteja conseguindo instalar o Windows normalmente: [Método alternativo para instalar o Windows](https://marcosfs93.github.io/2023-07-02-metodo-alternativo-instalar-windows/)
 
 Enfim, após investigar o problema eu descobri que era necessário fazer uma adequação manual na partição que contem o sistema de recuperação do Windows, que é atualizado nesse pacote. Hoje estou aqui trazer o procedimento que usei para resolver o problema.
 
@@ -102,4 +102,4 @@ Praticamente é isso, para resolver o problema nós precisamos alterar a partiç
 Espero que tenha sido util, caso tenha duvidas não deixe de usar os comentários, fui!
 
 #### Referencias:
-- https://support.microsoft.com/pt-br/topic/kb5028997-instru%C3%A7%C3%B5es-para-redimensionar-manualmente-sua-parti%C3%A7%C3%A3o-para-instalar-a-atualiza%C3%A7%C3%A3o-do-winre-400faa27-9343-461c-ada9-24c8229763bf
+- [https://support.microsoft.com/pt-br/topic/kb5028997-instru%C3%A7%C3%B5es-para-redimensionar-manualmente-sua-parti%C3%A7%C3%A3o-para-instalar-a-atualiza%C3%A7%C3%A3o-do-winre-400faa27-9343-461c-ada9-24c8229763bf](https://support.microsoft.com/pt-br/topic/kb5028997-instru%C3%A7%C3%B5es-para-redimensionar-manualmente-sua-parti%C3%A7%C3%A3o-para-instalar-a-atualiza%C3%A7%C3%A3o-do-winre-400faa27-9343-461c-ada9-24c8229763bf)
