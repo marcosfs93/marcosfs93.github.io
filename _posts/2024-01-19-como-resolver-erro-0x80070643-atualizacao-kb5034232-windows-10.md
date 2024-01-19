@@ -7,8 +7,8 @@ subtitle: Saiba como resolver este erro do Windows Update
 categories: [windows 11]
 comments: true
 #cover-img: 
-thumbnail-img: https://marcosfs93.github.io/assets/img/posts/winre/img1.png
-share-img: https://marcosfs93.github.io/assets/img/posts/winre/img1.png
+thumbnail-img: /assets/img/posts/winre/img1.png
+share-img: /assets/img/posts/winre/img1.png
 layout: post
 ---
 Após fazer um upgrade no PC eu aproveitei e reinstalei o Windows 10, e para deixar o sistema redondo eu optei por deixar o sistema atualizar por completo primeiro, e em seguida instalar e configurar meus aplicativos.
