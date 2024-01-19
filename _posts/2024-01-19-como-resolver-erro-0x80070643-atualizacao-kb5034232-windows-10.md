@@ -7,8 +7,8 @@ subtitle: Saiba como resolver este erro do Windows Update
 categories: [windows 11]
 comments: true
 #cover-img: 
-thumbnail-img: assets/img/posts/winre/img1.png
-share-img: assets/img/posts/winre/img1.png
+thumbnail-img: /assets/img/posts/winre1.png
+share-img: /assets/img/posts/winre1.png
 layout: post
 ---
 Após fazer um upgrade no PC eu aproveitei e reinstalei o Windows 10, e para deixar o sistema redondo eu optei por deixar o sistema atualizar por completo primeiro, e em seguida instalar e configurar meus aplicativos.
@@ -27,7 +27,7 @@ Enfim, após investigar o problema eu descobri que era necessário fazer uma ade
 2- Use o comando `reagentc /info` para exibir as informações do WinRE.
 Se o recurso estiver instalado, as informações como o local de instalação vão aparecer.
 
-<p align='center'><img alt='Checando status do WinRE' src="https://marcosfs93.github.io/assets/img/posts/winre/img1.png"/></p>
+<p align='center'><img alt='Checando status do WinRE' src="https://marcosfs93.github.io/assets/img/posts/winre1.png"/></p>
 
 3- Vamos desativar o WinRE temporariamente, use o comando `reagentc /disable`
 
@@ -45,7 +45,7 @@ O comando vai mostrar várias partições, precisamos saber qual delas é a do W
 
 6- Use o comando `detail partition` e o numero de cada partição até encontrar a partição chamada **Windows RE** conforme a imagem abaixo:
 
-<p align='center'><img alt='Visualizando os detalhes da partição' src="https://marcosfs93.github.io/assets/img/posts/winre/img2.png"/></p>
+<p align='center'><img alt='Visualizando os detalhes da partição' src="https://marcosfs93.github.io/assets/img/posts/winre2.png"/></p>
 
 ### Caso o sistema já tenha a partição
 Basicamente vamos apagar e criar uma nova partição novamente.
