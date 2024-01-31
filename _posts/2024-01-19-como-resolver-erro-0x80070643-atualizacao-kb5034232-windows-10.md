@@ -15,7 +15,7 @@ Após fazer um upgrade no PC eu aproveitei e reinstalei o Windows 10, e para dei
 
 Porém por algum motivo o Windows Update dava o erro 0x80070643, no meu caso este erro estava acontecendo na atualização KB5034232.
 
-Essa atualização serve para atualizar o sistema de recuperação do Windows, porém o sistema precisa atender a alguns requisitos, caso contrário a atualização vai falar. Isso pode acontecer se você instalou uma versão não oficial do sistema ou por métodos alternativos.
+Essa atualização serve para atualizar o sistema de recuperação do Windows, porém o sistema precisa atender a alguns requisitos, caso contrário a atualização vai falhar. Isso pode acontecer se você instalou uma versão não oficial do sistema ou por métodos alternativos.
 
 Caso não saibam, é possivel instalar o Windows de outro jeito via WinNTSetup. No site e no youtube temos um guia ensinando isso, caso você não esteja conseguindo instalar o Windows normalmente: [Método alternativo para instalar o Windows](https://marcosfs93.github.io/2023-07-02-metodo-alternativo-instalar-windows/)
 
