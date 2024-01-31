@@ -36,9 +36,13 @@ A partir daqui vamos ter duas situações no sistema, ou o sistema ele já tem u
 Primeiro vamos verificar se o sistema tem ou não a partição:
 
 1- Abra o CMD como Administrador
+
 2- Use o comando `diskpart`
+
 3- Use o comando `listdisk`
+
 4- Use o comando `select disk` e depois o numero de disco do sistema
+
 5- Use o comando `list partition` para mostrar as partições do disco.
 
 O comando vai mostrar várias partições, precisamos saber qual delas é a do WinRE
@@ -51,8 +55,11 @@ O comando vai mostrar várias partições, precisamos saber qual delas é a do W
 Basicamente vamos apagar e criar uma nova partição novamente.
 
 1- Use o comando `diskpart`
+
 2- Use o comando `select disk` e depois o numero de disco do sistema
+
 3- Use o comando `select partition` e o numero da partição do WinRE
+
 4- Use o comando `delete partition override`
 
 5- Agora vamos recriar a partição do WinRE, mas antes verifique se o sistema está instalado em um disco em formato GPT ou MBR.
@@ -76,9 +83,13 @@ Se o disco estiver em MBR, o comando será:
 Provavelmente você terá que reduzir a partição do sistema para permitir a criação da nova partição do WinRE.
 
 1- Use o comando `diskpart`
+
 2- Use o comando `select disk` e depois o numero de disco do sistema
+
 3- Use o comando `select partition` e o numero da partição do sistema
+
 4- Use o comando `shrink desired=250 minimum=250` para reduzir o tamanho da partição do sistema.
+
 5- Agora vamos recriar a partição do WinRE, mas antes verifique se o sistema está instalado em um disco em formato GPT ou MBR.
 
 Basicamente ao usar o comando `list disk` vai haver um asterisco (*) que vai indicar se o disco está em GPT, se tiver asterisco no lado do disco é GPT, e se não haver asterisco o disco é MBR.
