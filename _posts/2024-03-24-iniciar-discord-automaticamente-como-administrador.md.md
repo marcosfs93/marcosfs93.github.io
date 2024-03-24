@@ -7,8 +7,8 @@ subtitle: Inicie o discord automaticamente como admin, ao iniciar o sistema.
 categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg [foto de capa da pagina]
-thumbnail-img: /assets/img/posts/discord.png
-share-img: /assets/img/posts/discord.png
+thumbnail-img: https://marcosfs93.github.io/assets/img/posts/discord.png
+share-img: https://marcosfs93.github.io/assets/img/posts/discord.png
 layout: post
 ---
 

@@ -7,8 +7,8 @@ subtitle: texto secundário
 categories: [windows, pc, categoria_principal]
 comments: true
 #cover-img: /assets/img/path.jpg [foto de capa da pagina] *desativado por hashtag #
-thumbnail-img: /assets/img/posts/thumb.png [thumb do post]
-share-img: /assets/img/posts/path.jpg [imagem de compartilhamento]
+thumbnail-img: /assets/img/posts/thumb.png [thumb do post link direto]
+share-img: /assets/img/posts/path.jpg [imagem de compartilhamento link direto]
 layout: post
 ---
 
