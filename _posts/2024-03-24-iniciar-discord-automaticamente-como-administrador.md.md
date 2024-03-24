@@ -12,7 +12,7 @@ share-img: https://marcosfs93.github.io/assets/img/posts/discord.png
 layout: post
 ---
 
-<p align='center'><img alt='logomarca' src="/assets/img/posts/discord.png"/></p>
+<p align='center'><img alt='logomarca' src="https://marcosfs93.github.io/assets/img/posts/discord.png"/></p>
 
 O discord por padrão não é iniciado como administrador quando ligamos o PC e entramos no Windows, sendo assim é comum que funções como o push to talk não funcionam se a janela do discord não estiver em primeiro plano.
 
