@@ -13,7 +13,6 @@ layout: post
 ---
 
 <p align='center'><img alt='logomarca' src="https://marcosfs93.github.io/assets/img/posts/discord.png"/></p>
-
 O discord por padrão não é iniciado como administrador quando ligamos o PC e entramos no Windows, sendo assim é comum que funções como o push to talk não funcionam se a janela do discord não estiver em primeiro plano.
 
 O push to talk é uma função que permite ativar o microfone enquanto pressionamos uma tecla configurada, caso você queira ter controle de quando será ouvido pelas pessoas na sala do discord.
