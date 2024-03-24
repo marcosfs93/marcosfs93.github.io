@@ -14,6 +14,7 @@ layout: post
 
 capa do post:
 <p align='center'><img alt='descricao' src="url-img"/></p>
+Descrição do artigo logo abaixo, para não bugar na home page
 
 indice:
 **Conteúdo:**
