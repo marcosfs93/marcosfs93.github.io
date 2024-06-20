@@ -1,5 +1,5 @@
 ---
-title: Inferno Imortal e as mecânicas dos chefes
+title: Abismo Imortal e as mecânicas dos chefes
 date: 2023-08-30
 author: M4rQu1Nh0S
 tags: [Black Desert Online]
@@ -7,12 +7,12 @@ subtitle: Aprenda como derrotar todos os chefes no Black Desert
 categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/posts/inferno.png
-share-img: /assets/img/posts/inferno.png
+thumbnail-img: /assets/img/posts/Abismo.png
+share-img: /assets/img/posts/Abismo.png
 layout: post
 ---
 
-<p align='center'><img alt='Inferno Imortal' src="/assets/img/posts/inferno.png"/></p>
+<p align='center'><img alt='Abismo Imortal' src="/assets/img/posts/inferno.png"/></p>
 Neste artigo eu vou explicar as mecanicas de cada chefe ou informar como vence-los e assim completar as missões de desafio.
 
 Confira a seguir a lista de chefes e como derrota-los:
@@ -181,7 +181,7 @@ Por exemplo, se ele causar rigidez e depois derrubada, você deve usar uma rigid
 - Caroxya aparece pela primeira vez em seu desafio diário quando você alcança PEN como o chefe final.
 - Caroxya tem 3 fases diferentes: Normal, Defensiva, Buff/Debuff.
 **Durante a primeira fase** , você não pode usar Empurrão e Flutuante CCs contra ela.
-- Se você fizer isso, depois de cerca de 5 deles, ela ficará furiosa e começará a spammar grandes ataques AOE. Tenha cuidado para não usar CCs enquanto estiver causando dano a Caroxya.
+- Se você fizer isso e acetar 5 CC's... ela entra em furia e começará a spammar grandes ataques AOE. Sendo assim tome cuidado para não usar esses CCs enquanto estiver causando dano nela.
 
 **Para a fase 2**, Caroxya levantará seu escudo e assumirá uma postura defensiva de bloqueio.
 - Ela bloqueará todos os danos frontais e girará para ficar de frente para você. Se você fizer algum ataque no block, ela ficará vermelha e atacará você. Sangramentos em suas habilidades também podem desencadear isso.
