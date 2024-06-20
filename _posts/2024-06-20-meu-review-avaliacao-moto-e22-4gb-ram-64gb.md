@@ -35,7 +35,7 @@ Quanto as outras caracteristicas o aparelho tem:
 - GPU: PowerVR GE8320.
 
 Há outras informações que valem a pena conferir, então deixarei o link sobre o aparelho do site TudoCelular para este artigo aqui não fique tão longo:
-https://www.tudocelular.com/Motorola/fichas-tecnicas/n8150/Motorola-Moto-E22.html
+[https://www.tudocelular.com/Motorola/fichas-tecnicas/n8150/Motorola-Moto-E22.html](https://www.tudocelular.com/Motorola/fichas-tecnicas/n8150/Motorola-Moto-E22.html)
 
 Este aparelho foi comprado no **Mercado Livre** por **R$690** em maio/2024. Aparelhos nessa faixa de preço pode ser considerado uma linha de entrada, por isso já se presume de que não se pode esperar muita coisa do aparelho, mas ainda sim ele conta com bons recursos que valem a pena entrar na sessão *Pontos positivos*.
 
