@@ -1,9 +1,9 @@
 ---
-title: Minha avaliação e review do MOTO E22 versão 64GB com 4GB de RAM
+title: Minha avaliação e review do MOTO E22 4GB de RAM 64GB 
 date: 2024-06-20
 author: M4rQu1Nh0S
 tags: [avaliação, review, moto e22, 64gb, 4gb, RAM]
-subtitle: Usei por um mes e essas são minhas considerações
+subtitle: Usei por um mês e essas são minhas considerações
 categories: [android, celular, smartphone, moto e22]
 comments: true
 #cover-img: /assets/img/path.jpg [foto de capa da pagina] *desativado por hashtag #
@@ -13,7 +13,7 @@ layout: post
 ---
 
 <p align='center'><img alt='Foto do aparelho frente e traseiro' src="/assets/img/posts/motoe22.png"/></p>
-No artigo de hoje eu vou do MOTO E22 versão 4Gb de RAM com 32Gb de Armazenamento interno, aqui vou contar pra vocês alguns aspectos sobre o aparelho que eu gostei e não gostei, comentado cada elemento separadamente com base no meu perfil de usuário e preferencias.
+No artigo de hoje eu vou falar do MOTO E22 versão 4Gb de RAM com 32Gb de Armazenamento interno, aqui vou contar pra vocês alguns aspectos sobre o aparelho que eu gostei e não gostei, comentado cada elemento separadamente com base no meu perfil de usuário e preferencias.
 
 # Conteúdo:
 - [Nome do link](#href do titulo) [renderize a pagina e busca o codigo fonte do link]
