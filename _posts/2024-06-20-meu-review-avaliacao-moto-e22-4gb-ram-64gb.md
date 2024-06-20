@@ -16,15 +16,10 @@ layout: post
 No artigo de hoje eu vou falar do MOTO E22 versão 4Gb de RAM com 32Gb de Armazenamento interno, aqui vou contar pra vocês alguns aspectos sobre o aparelho que eu gostei e não gostei, comentado cada elemento separadamente com base no meu perfil de usuário e preferencias.
 
 # Conteúdo:
-Pontos positivos:
-- [Nome do link](#pontos-positivos)
-- [Nome do link](#href do titulo)
-- [Nome do link](#href do titulo)
-- [Nome do link](#href do titulo)
-Pontos negativos:
-- [Nome do link](#href do titulo)
-Considerações finais:
-- [Nome do link](#href do titulo)
+- [Informações e aspectos do aparelho](#informações-e-aspectos-do-aparelho)
+- [Pontos Positivos](#pontos-positivos)
+- [Pontos Negativos](#pontos-negativos)
+- [Considerações finais](#considerações-finais)
 
 ## Informações e aspectos do aparelho:
 Esta versão do MOTO E22 de 4Gb de RAM e a versão de 2GB de RAM são quase idênticas em baixo do capô, o que muda é basicamente a versão do sistema operacional e o tamanho da memória interna, já que o MOTO E22 de 2GB trás o Android Go, que é uma versão mais simplificada do sistema e dos apps google pré instalados, enquanto a versão 4Gb conta com a versão comum do Android 12.
