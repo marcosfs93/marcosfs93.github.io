@@ -4,7 +4,7 @@ date: 2024-06-20
 author: M4rQu1Nh0S
 tags: [avaliação, review, moto e22, 64gb, 4gb, RAM]
 subtitle: Usei por um mês e essas são minhas considerações
-categories: [android, celular, smartphone, moto e22]
+categories: [android, review]
 comments: true
 #cover-img: /assets/img/path.jpg [foto de capa da pagina] *desativado por hashtag #
 thumbnail-img: /assets/img/posts/motoe22.png
@@ -102,8 +102,8 @@ Embora o Moto E22 tenha GPS ele não conta com bussola e giroscópio, o que pode
 Felizmente existem meios de se orientar, como por exemplo dar um zoom no seu local e observar em qual lado e direção estão os estabelecimentos e lojas na rua, o que vai decidir se você vai continuar indo para esquerda, direita... etc.
 
 ## Considerações finais:
-O Moto E22 com 4Gb de RAM é um aparelho de entrada acima da média, é responsivo, tem boa câmera, a bateria é boa, não tem aquela sopa de bloatwares, tem sensor de digital. Mas perde em GPU, o GPS não é tão completo e o sistema operacional por não ser tão personalizável assim.
+O Moto E22 com 4Gb de RAM é um aparelho de entrada acima da média, é responsivo, tem boa câmera, a bateria é boa, não tem aquela sopa de bloatwares, tem sensor de digital. Mas perde em GPU, o GPS não é tão completo e o sistema operacional não é tão personalizável assim.
 
-Quem é um usuário simples, gosta de usar internet e assistir coisas com uma boa bateria que aguente várias tarefas simultâneas o aparelho é interessante, mas quem quer um aparelho também dedicado a jogos mais complexos ele  não é uma boa escolha, invista um pouco mais e pesquise por outros aparelhos.,
+Quem é um usuário simples e gosta de usar internet e assistir coisas com uma boa bateria que aguente várias tarefas simultâneas, o aparelho é interessante, mas quem quer um aparelho também dedicado a jogos mais complexos, ele não é uma boa escolha, invista um pouco mais e pesquise por outros aparelhos que se saem melhor em jogos.
 
 Até o momento essas são minhas considerações com o aparelho, posso ter sido menos preciso quanto a CPU do aparelho e por isso aguardo comentários que possam agregar mais precisamente com esses e outros aspectos do aparelho.
