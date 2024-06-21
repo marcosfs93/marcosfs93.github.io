@@ -68,22 +68,22 @@ A capacidade de bateria desse aparelho é de 4020mAh, com essa configuração é
 Eu particularmente consigo sair pra trabalhar e usar o aparelho e em casa voltar com 40% de bateria, é quase uma rotina recarregar o aparelho uma vez a cada quase 2 dias.
 
 ### <center>Sensor de Digital</center>
-Este aparelho também conta com o sensor de digital, o que torna muito pratico desbloquear o aparelho e lidar com apps de banco que permite usar a digital, isso representa praticidade e pouca alguns segundos do seu tempo interagindo com o aparelho.
+Este aparelho também conta com o sensor de digital, o que torna muito pratico desbloquear o aparelho e lidar com apps de banco que permite usar a digital, isso representa praticidade e poupa alguns segundos do seu tempo interagindo com o aparelho.
 
 Diferente de muitos e para a minha curiosidade o leitor fica localizado no botão power do aparelho, o que também poupa o desgaste desse botão. O que é excelente no aparelho.
 
 ### <center>Câmera</center>
-Diferente de muitos aparelhos de entrada que contam com 13Mp na câmera traseira, o MOTO E22 fica um pouco a frente contando com 16,4Mp e uma faixa de abertura de 2.2, podendo tirar fotos em boas e em altas resoluções, sem falar do sensor extra com IA para criar mais opções de foto.
+Diferente de muitos aparelhos de entrada que contam com 13Mp na câmera traseira, o MOTO E22 fica um pouco a frente contando com 16,4Mp e uma faixa de abertura de 2.2, podendo assim tirar fotos em boa qualidade e em altas resoluções, sem falar do sensor extra de IA para criar mais opções e efeitos na foto.
 
-Já na parte frontal não houve muita atenção da Motorola, aqui temos o padrão 5Mp de Câmera Frontal, um padrão nos celulares de entrada.
+Já na parte camera frontal não houve muita atenção da Motorola, pois temos o padrão de 5Mp que é um padrão nos celulares de entrada.
 
 ### <center>Recarregamento de Bateria</center>
-Diferente de muitos aparelhos que usam a porta USB-C mini, o MOTO E22 usa o conector USB-C e a velocidade de carregamento, graças ao seu carregador de 10W, fica ligeiramente mais rápida que em outros aparelhos de entrada.
+Diferente de muitos aparelhos que usam a porta USB-C mini, o MOTO E22 usa o conector USB-C. A velocidade de carregamento não é demorada já que o aparelho conta com um carregador USB-C de até 10 Watts de potencia, podendo ser superior a outros aparelhos de entrada que não contam com fastcharge ou carregadores potentes.
 
-Pode se dizer que essa característica não é tão impressionante assim, mas isolando essa característica com outros aparelhos o Moto E22 não é ruim.
+Podemos até dizer que o carregador não é tão impressionante assim, mas considerando outras opções de entrada essa característica no Moto E22 não é ruim.
 
 ### <center>Bloatwares</center>
-O Moto E22 usa o Android 12 mais puro, ele não vem com aquele tanto de aplicativos pré-instalados que são inúteis ou menos relevantes como apps de operadora, joguinhos do vovô e utilitários da fabricante, alguns dos tais apps costumam servir apenas pra ocupar memória ram e desperdiçar o poder de processamento.
+O Moto E22 usa o Android 12 mais puro, ele não vem com aquele tanto de aplicativos pré-instalados que são inúteis ou menos relevantes, como apps de operadora, joguinhos do vovô moderno e utilitários da fabricante, sendo que existem tais apps que costumam servir apenas pra ocupar memória ram, desperdiçar o poder de processamento da cpu e bateria.
 
 ## Pontos Negativos:
 ### <center>GPU</center>
