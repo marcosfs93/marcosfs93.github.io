@@ -42,4 +42,4 @@ Mesmo assim, esse é um problema que me incomoda já que te força a jogar outra
 Existem apps que não tem versão pra Linux, embora existam alternativas elas por mais que sejam equivalentes elas nunca serão exatamente algumas coisas, digo isso por funções muito peculiares que você só vai encontrar em um unico determinado aplicativo e que não tem nos seus equivalentes. Felizmente com a camada de compatibilidade Wine é possivel rodar vários apps de Windows, mas existem alguns tão especificos que nem sempre pode dar certo.
 
 ### Conclusão
-Existem várias coisas a serem melhoradas no sistema, de cabeça essa são as coisas que mais me incomoda no sistema hoje. Enquanto vou lembrando de mais coisas eu vou atualizando o post, fora isso o sistema está ficando cada vez melhor e não falta muito pra ter o potencial de ter uma fatia grande nos desktops.
+Existem várias coisas a serem melhoradas no sistema, de cabeça essa são as coisas que mais me incomoda no sistema hoje, enquanto vou lembrando de mais coisas eu vou atualizando o post. Quem sabe no futuro o sistema venha com essas e outras configurações por padrão, principalmente para pessoas que estão saindo do Windows.
