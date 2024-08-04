@@ -22,7 +22,7 @@ Neste artigo de hoje resolvi listar as coisas que me incomodam no Linux e que po
 Felizmente boa parte da lista são de coisas pequenas que no meu ver podem ser resolvidos dentro da parte do desenvolvimento do sistema, pra começar uma das coisas que me incomoda no Linux é...
 
 ## Desconfiguração do relógio do computador
-Quem usa dual boot de Linux e Windows sabe bem que transitar entre os sistemas pode ser chato já que um sistema pode desconfigurar o relógio do outro. A questão é que existe uma configuração do sistema que resolve esse problema, porem essa configuração não é padrão portanto todo o sistema por padrão vai ter esse problema exigindo intervenção do usuários. No meu ver isso poderia ser resolvido por padrão no sistema.
+Quem usa dual boot de Linux e Windows sabe bem que transitar entre os sistemas pode ser chato já que um sistema pode desconfigurar o relógio do outro. A questão é que existe uma configuração do sistema que resolve esse problema, porem essa configuração não é padrão. Portanto o sistema por padrão vai ter esse problema, exigindo intervenção do usuário. No meu ver isso poderia ser resolvido por padrão no sistema.
 
 ## UI do ambiente desktop do Linux é maior que no Windows
 Esse é um ponto peculiar, já que diferente de muita gente eu ainda uso a resolução HD (1366x768) e diferente do Windows em que o tamanho dos objetos na tela são do tamanho certo, no Linux é diferente pois a interface no Linux por "padrão" parece maior e ocupando partes que não deveriam. No meu ver a interface do sistema deveria ser igual ou proxima do Windows, e assim como no caso do relógio existe uma configuração no sistema que resolve isso, mas mais uma vez essa configuração não é padrão e vai exigir alterações do usuário.
