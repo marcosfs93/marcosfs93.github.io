@@ -7,8 +7,8 @@ subtitle: Aprenda como derrotar todos os chefes no Black Desert
 categories: [dicas e tutoriais]
 comments: true
 #cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/posts/Abismo.png
-share-img: /assets/img/posts/Abismo.png
+thumbnail-img: /assets/img/posts/inferno.png
+share-img: /assets/img/posts/inferno.png
 layout: post
 ---
 
