@@ -7,8 +7,8 @@ subtitle: Uma listinha de coisas que poderiam ser melhores no Linux
 categories: [linux]
 comments: true
 #cover-img: /assets/img/path.jpg [foto de capa da pagina] *desativado por hashtag #
-thumbnail-img: /assets/img/posts/linux_brabo.png [thumb do post link direto]
-share-img: /assets/img/posts/linux_brabo.png [imagem de compartilhamento link direto]
+thumbnail-img: /assets/img/posts/linux_brabo.png
+share-img: /assets/img/posts/linux_brabo.png
 layout: post
 ---
 
