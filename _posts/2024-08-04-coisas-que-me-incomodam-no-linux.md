@@ -3,7 +3,7 @@ title: Coisas que me incomodam no Linux e que poderiam melhorar
 date: 2024-08-04
 author: M4rQu1Nh0S
 tags: [linux]
-subtitle: Uma listinha de coisas que poderiam melhorar no Linux
+subtitle: Uma listinha de coisas que poderiam ser melhores no Linux
 categories: [linux]
 comments: true
 #cover-img: /assets/img/path.jpg [foto de capa da pagina] *desativado por hashtag #
