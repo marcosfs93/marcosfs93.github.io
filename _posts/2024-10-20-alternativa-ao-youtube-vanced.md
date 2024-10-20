@@ -1,6 +1,6 @@
 ---
 title: Alternativa ao Vanced, Youtube sem anúncios no android
-date: 2024-10-2024
+date: 2024-10-20
 author: M4rQu1Nh0S
 tags: [android, youtube]
 subtitle: Melhor alternativa do Youtube sem anúncios do Youtube
