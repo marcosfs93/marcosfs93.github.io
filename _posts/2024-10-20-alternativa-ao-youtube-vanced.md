@@ -30,6 +30,7 @@ O ASTRON tem recursos interessantes como:
 Por ser um aplicativo que burla alguns requisitos da playstore do Google, ele só está disponível em seu site oficial [https://astron.cc](https://astron.cc)
 
 Basicamente você só precisa baixar o .apk no site a seguir e escolher o servidor que você quer baixar o app.
+
 [https://astron.cc/web/#downloads](https://astron.cc/web/#downloads)
 
 Ao baixar o apk, é necessário habilitar a opção *Fontes desconhecidas* do Android.
