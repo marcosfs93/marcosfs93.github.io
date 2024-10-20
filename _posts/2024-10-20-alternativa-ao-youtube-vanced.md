@@ -33,9 +33,9 @@ Basicamente você só precisa baixar o .apk no site a seguir e escolher o servid
 
 [https://astron.cc/web/#downloads](https://astron.cc/web/#downloads)
 
-Ao baixar o apk, é necessário habilitar a opção *Fontes desconhecidas* do Android.
+Ao baixar o apk, é necessário habilitar a opção **Fontes desconhecidas** do Android.
 
-Após instalar o app, você pode logar na sua conta do Youtube indo no icone de engrenagem no canto superior direito, indo na Opção *Youtube* na parte superior da tela e ir na função *Login do Youtube* (de acordo com a versão 1.3.4)
+Após instalar o app, você pode logar na sua conta do Youtube indo no icone de engrenagem no canto superior direito, indo na Opção **Youtube** na parte superior da tela e ir na função **Login do Youtube** (de acordo com a versão 1.3.4)
 
 Diferente do youtube vanced você tem mais facilidade pra fazer downloads e até mesmo não precisar instalar o MicroG, um app a parte do Vanced que era usado para login no Youtube.
 
