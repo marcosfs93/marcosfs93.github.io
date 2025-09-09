@@ -35,6 +35,9 @@ add link:
 citação:
 > Blockquote
 
+código exemplo:
+``code``
+
 lista de item:
  - [ ] List item
  - [x] List item
