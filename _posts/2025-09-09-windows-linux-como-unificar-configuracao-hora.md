@@ -23,9 +23,12 @@ Para resolver o problema precisamos configurar um dos dois sistemas para usar a 
 No Windows precisamos alterar uma configuração no registro, ele vai deixar de usar a Hora local e vai usar o UTC igual o Linux:
 
 1- Vá no Menu Iniciar
+
 2- Escreva "CMD", e na janela ao lado clique em **Executar como Administrador**
+
 3- Digite o comando abaixo e depois aperte Enter
 `reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation" /v RealTimeIsUniversal /t REG_DWORD /d 1 /f`
+
 4- Reinicie o sistema
 
 Com isso o Windows vai herdar o horario que você definir no Linux
@@ -34,8 +37,11 @@ Com isso o Windows vai herdar o horario que você definir no Linux
 No Linux vamos alterar a configuração que o faça usar a Hora local ao invés do UTC, como o que ocorre no Windows por padrão.
 
 1- Abra o Terminal do sistema (gnome-terminal, konsole, xterm, etc...)
+
 2- Execute o comando abaixo:
+
 `sudo timedatectl set-local-rtc 1 --adjust-system-clock`
+
 3- Reinicie o sistema
 
 ## Conclusão:
