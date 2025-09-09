@@ -36,7 +36,7 @@ citação:
 > Blockquote
 
 código exemplo:
-``code``
+# ``code``
 
 lista de item:
  - [ ] List item
