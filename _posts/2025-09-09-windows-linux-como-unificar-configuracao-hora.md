@@ -1,5 +1,5 @@
 ---
-title: Windows e Linux: como unificar a configuração de hora
+title: Windows e Linux\: como unificar a configuração de hora
 date: 2025-09-09
 author: M4rQu1Nh0S
 tags: [Windows, Linux, Data, Hora, Relógio]
