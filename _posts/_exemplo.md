@@ -1,5 +1,5 @@
 ---
-title: titulo
+title: titulo [Se for usar os ":" use as "no titulo inteiro, desse jeito"]
 date: ANO-MES-DIA
 author: M4rQu1Nh0S
 tags: [palavra chave]
